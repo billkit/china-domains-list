@@ -16,7 +16,8 @@ jobs:
     - name: Download gfw.txt
       run: |
         curl -o gfw.txt https://raw.githubusercontent.com/ruijzhan/chnroute/refs/heads/master/gfwlist.txt
-    - name: add full: to gfw.txt
+    
+    - name: add to gfw.txt
       run: |
         grep -oP gfw.txt | sed 's/^/full:/' > gfw.txt
    
