@@ -23,22 +23,21 @@ jobs:
         grep -oP '(?<=/).*?(?=/)' accelerated-domains.china.conf > cn-domains.txt
 
     - name: Commit files
-        id: commit
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          if [ -n "$(git status --porcelain)" ]; then
-            git commit -a -m "⌚️$(date +%Y%m%d%H%M%S)"
-            echo "changes=true" >> $GITHUB_ENV
-          else
-            echo "No changes to commit"
-            echo "changes=false" >> $GITHUB_ENV
-          fi
-        shell: bash
+      id: commit  # 缩进修正
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        if [ -n "$(git status --porcelain)" ]; then
+          git commit -a -m "⌚️$(date +%Y%m%d%H%M%S)"
+          echo "changes=true" >> $GITHUB_ENV
+        else
+          echo "No changes to commit"
+          echo "changes=false" >> $GITHUB_ENV
+      shell: bash
 
-      - name: Push changes
-        if: env.changes == 'true'
-        run: |
-          git remote set-url origin https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}.git
-          git push origin HEAD:main
-        shell: bash
+    - name: Push changes
+      if: env.changes == 'true'  # 缩进修正
+      run: |
+        git remote set-url origin https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}.git
+        git push origin HEAD:main
+      shell: bash
