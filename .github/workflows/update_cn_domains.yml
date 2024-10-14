@@ -28,6 +28,11 @@ jobs:
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add cn-domains.txt
-        git commit -m "Update cn-domains.txt"
-        git push https://x-access-token:${TOKEN}@github.com/${{ github.repository }}.git
+        
+        # 检查是否有更改需要提交
+        if [ -n "$(git status --porcelain)" ]; then
+          git add cn-domains.txt
+          git commit -m "⌚️$(date +%Y%m%d%H%M%S)"
+          git push https://x-access-token:${TOKEN}@github.com/${{ github.repository }}.git
+        else
+          echo "No changes to commit."
