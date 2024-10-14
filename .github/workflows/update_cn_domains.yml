@@ -6,24 +6,23 @@ on:
     - cron: "0 5 * * *"
 
 jobs:
-  ddy:
+  update_cn_domains:
     runs-on: ubuntu-latest
-    env:
-      TZ: Asia/Shanghai  # 设置时区为亚洲/上海
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v2
 
-      - name: Download accelerated-domains.china.conf
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Download accelerated-domains.china.conf
       run: |
         curl -o accelerated-domains.china.conf https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/refs/heads/master/accelerated-domains.china.conf
 
-      - name: Extract domains and save to cn-domains.txt
+    - name: Extract domains and save to cn-domains.txt
       run: |
         # 提取加速域名并存入 cn-domains.txt
         grep -oP '(?<=/).*?(?=/)' accelerated-domains.china.conf > cn-domains.txt
 
-      - name: Commit files
+    - name: Commit files
         id: commit
         run: |
           git config --local user.email "action@github.com"
@@ -37,7 +36,7 @@ jobs:
           fi
         shell: bash
 
-      - name: Push changes
+    - name: Push changes
         if: env.changes == 'true'
         run: |
           git remote set-url origin https://x-access-token:${{ secrets.ACTIONS_TOKEN }}@github.com/${{ github.repository }}.git
