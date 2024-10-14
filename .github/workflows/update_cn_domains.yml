@@ -1,33 +1,45 @@
-name: Update CN Domains
+name: "GitHub Actions"
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: '0 6 * * *'  # 每天 UTC 时间 6:00 运行
-  workflow_dispatch:  # 手动触发工作流
+    - cron: "0 5 * * *"
 
 jobs:
-  update_cn_domains:
+  ddy:
     runs-on: ubuntu-latest
-
+    env:
+      TZ: Asia/Shanghai  # 设置时区为亚洲/上海
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v2
 
-    - name: Download accelerated-domains.china.conf
+      - name: Download accelerated-domains.china.conf
       run: |
         curl -o accelerated-domains.china.conf https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/refs/heads/master/accelerated-domains.china.conf
 
-    - name: Extract domains and save to cn-domains.txt
+      - name: Extract domains and save to cn-domains.txt
       run: |
         # 提取加速域名并存入 cn-domains.txt
         grep -oP '(?<=/).*?(?=/)' accelerated-domains.china.conf > cn-domains.txt
 
-        - name: Commit and push changes
-      env:
-        TOKEN: ${{ secrets.PAT_TOKEN }}
-      run:
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add cn-domains.txt
-        git commit -m "Update cn-domains.txt"
-        git push https://x-access-token:${TOKEN}@github.com/${{ github.repository }}.git
+      - name: Commit files
+        id: commit
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -a -m "⌚️$(date +%Y%m%d%H%M%S)"
+            echo "changes=true" >> $GITHUB_ENV
+          else
+            echo "No changes to commit"
+            echo "changes=false" >> $GITHUB_ENV
+          fi
+        shell: bash
+
+      - name: Push changes
+        if: env.changes == 'true'
+        run: |
+          git remote set-url origin https://x-access-token:${{ secrets.ACTIONS_TOKEN }}@github.com/${{ github.repository }}.git
+          git push origin HEAD:main
+        shell: bash
