@@ -24,7 +24,7 @@ jobs:
     - name: Extract domains and save to cn-domains.txt
       run: |
         # 提取加速域名并存入 cn-domains.txt
-        grep -oP '(?<=/).*?(?=/)' accelerated-domains.china.conf > cn-domains.txt
+        grep -oP '(?<=/).*?(?=/)' accelerated-domains.china.conf | sed 's/^/full:/' > cn-domains.txt
 
     - name: Download apple.china.conf
       run: |
@@ -33,7 +33,7 @@ jobs:
     - name: Extract domains and save to apple.txt
       run: |
         # 提取apple域名并存入 apple.txt
-        grep -oP '(?<=/).*?(?=/)' apple.china.conf > apple.txt
+        grep -oP '(?<=/).*?(?=/)' apple.china.conf | sed 's/^/full:/' > apple.txt
 
     - name: Commit and push changes
       env:
