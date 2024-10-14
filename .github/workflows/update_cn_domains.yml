@@ -36,3 +36,4 @@ jobs:
           git push https://x-access-token:${TOKEN}@github.com/${{ github.repository }}.git
         else
           echo "No changes to commit."
+        fi  # 结束 if 语句
