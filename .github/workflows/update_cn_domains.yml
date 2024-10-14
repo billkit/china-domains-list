@@ -22,6 +22,15 @@ jobs:
         # 提取加速域名并存入 cn-domains.txt
         grep -oP '(?<=/).*?(?=/)' accelerated-domains.china.conf > cn-domains.txt
 
+    - name: Download apple.china.conf
+      run: |
+        curl -o apple.china.conf https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/refs/heads/master/apple.china.conf
+
+    - name: Extract domains and save to apple.txt
+      run: |
+        # 提取apple域名并存入 apple.txt
+        grep -oP '(?<=/).*?(?=/)' apple.china.conf > apple.txt
+
     - name: Commit and push changes
       env:
         TOKEN: ${{ secrets.PAT_TOKEN }}
