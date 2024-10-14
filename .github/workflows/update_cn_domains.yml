@@ -13,9 +13,13 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
 
-    - name: Download gfw.list
+    - name: Download gfw.txt
       run: |
-        curl -o gfw.list https://raw.githubusercontent.com/ruijzhan/chnroute/refs/heads/master/gfwlist.txt
+        curl -o gfw.txt https://raw.githubusercontent.com/ruijzhan/chnroute/refs/heads/master/gfwlist.txt
+    - name: add full: to gfw.txt
+      run: |
+        grep -oP gfw.txt | sed 's/^/full:/' > gfw.txt
+   
 
     - name: Download accelerated-domains.china.conf
       run: |
