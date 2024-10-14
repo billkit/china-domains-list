@@ -38,6 +38,6 @@ jobs:
     - name: Push changes
       if: env.changes == 'true'
       run: |
-        git remote set-url origin https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}.git
+        git remote set-url origin https://x-access-token:${{ secrets.ACTIONS_TOKEN }}@github.com/${{ github.repository }}.git
         git push origin HEAD:main
       shell: bash
