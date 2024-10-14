@@ -1,0 +1,33 @@
+name: Update CN Domains
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # 每天 UTC 时间 6:00 运行
+  workflow_dispatch:  # 手动触发工作流
+
+jobs:
+  update_cn_domains:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Download accelerated-domains.china.conf
+      run: |
+        curl -o accelerated-domains.china.conf https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/refs/heads/master/accelerated-domains.china.conf
+
+    - name: Extract domains and save to cn-domains.txt
+      run: |
+        # 提取加速域名并存入 cn-domains.txt
+        grep -oP '(?<=/).*?(?=/)' accelerated-domains.china.conf > cn-domains.txt
+
+        - name: Commit and push changes
+      env:
+        TOKEN: ${{ secrets.PAT_TOKEN }}
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add cn-domains.txt
+        git commit -m "Update cn-domains.txt"
+        git push https://x-access-token:${TOKEN}@github.com/${{ github.repository }}.git
