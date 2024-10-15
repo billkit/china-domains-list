@@ -17,10 +17,10 @@ jobs:
       run: |
         curl -o gfw.txt https://raw.githubusercontent.com/ruijzhan/chnroute/refs/heads/master/gfwlist.txt
     
-    - name: Add 'full:' prefix to gfw.txt
+    - name: Add 'domain:' prefix to gfw.txt
       run: |
         # 在 gfw.txt 的每行前添加 'full:' 前缀
-        sed -i 's/^/full:/' gfw.txt
+        sed -i 's/^/domain:/' gfw.txt
    
 
     - name: Download accelerated-domains.china.conf
