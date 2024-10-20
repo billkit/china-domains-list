@@ -26,7 +26,10 @@ jobs:
     - name: Download accelerated-domains.china.conf
       run: |
         curl -o accelerated-domains.china.conf https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/refs/heads/master/accelerated-domains.china.conf
-
+     
+        chmod +x Domains_chnlist.sh
+        ./Domains_chnlist.sh
+    
     - name: Extract domains and save to cn-domains.txt
       run: |
         # 提取加速域名并存入 cn-domains.txt
