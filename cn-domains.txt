@@ -5418,6 +5418,7 @@ domain:59yx.com
 domain:5a8.org
 domain:5aaa.com
 domain:5acbd.com
+domain:5adanci.com
 domain:5adanhao.com
 domain:5ag.net
 domain:5ailiwu.com
@@ -10124,6 +10125,7 @@ domain:aohuasports.com
 domain:aohuatextiles.com
 domain:aojauto.com
 domain:aojia-oil.com
+domain:aojiahuashare.com
 domain:aojian.net
 domain:aojian2.net
 domain:aojiaostudio.com
@@ -34453,7 +34455,6 @@ domain:handuyishe.com
 domain:handyfriendship.com
 domain:hanergy.com
 domain:hanergymobileenergy.com
-domain:hanfang8.com
 domain:hanfei.net
 domain:hanfeiyl.com
 domain:hanfengcars.com
@@ -43074,7 +43075,6 @@ domain:jiniance8.com
 domain:jiningjj.com
 domain:jiniu.work
 domain:jiniutech.com
-domain:jinjianbio.com
 domain:jinjiang-group.com
 domain:jinjiang.com
 domain:jinjianginns.com
@@ -44251,7 +44251,6 @@ domain:jskhfm.com
 domain:jskjcms.com
 domain:jsklcy.com
 domain:jskpcg.org
-domain:jsks-ya.com
 domain:jskuajing.com
 domain:jskwt.com
 domain:jslcjt.com
@@ -64646,7 +64645,6 @@ domain:shfoxmotor.com
 domain:shfq.com
 domain:shfrp.com
 domain:shftth.com
-domain:shfuju.com
 domain:shfxrc.com
 domain:shgao.com
 domain:shgaoxin.net
@@ -70002,7 +70000,6 @@ domain:tianjin-iwc.com
 domain:tianjin-patek.com
 domain:tianjingames.com
 domain:tianjingrong.com
-domain:tianjinshunma.com
 domain:tianjinwe.com
 domain:tianjinyijiahua.com
 domain:tianjiyy.com
@@ -80317,6 +80314,7 @@ domain:xueyuanjun.com
 domain:xueyuhuangjinyan.com
 domain:xuezhangbb.com
 domain:xuezhangya.com
+domain:xuezhao.space
 domain:xuezhishi88.com
 domain:xuezhiyou.com
 domain:xuezhouyi.com
@@ -85585,6 +85583,7 @@ domain:zgpingshu.com
 domain:zgps168.com
 domain:zgpts.com
 domain:zgpy168.com
+domain:zgq.ink
 domain:zgqcdt.com
 domain:zgqczj.com
 domain:zgqkk.com
