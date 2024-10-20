@@ -27,8 +27,8 @@ jobs:
       run: |
         curl -o accelerated-domains.china.conf https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/refs/heads/master/accelerated-domains.china.conf
      
-        chmod +x Domains_chnlist.sh
-        ./Domains_chnlist.sh
+        chmod +x Domains_applelist.sh
+        ./Domains_applelist.sh
     
     - name: Extract domains and save to cn-domains.txt
       run: |
