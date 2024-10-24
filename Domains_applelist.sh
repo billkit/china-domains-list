@@ -52,7 +52,9 @@ cat /tmp/geosite_apple.txt \
 cat /tmp/geosite_category-games.txt \
 | sort | uniq | xargs -n1 | sed '/^\s*$/d' >./mosdns_chnlist/Domains.games.txt
 
-
+./mosdns v2dat unpack-domain -o /tmp /tmp/geosite.dat:microsoft
+cat /tmp/geosite_microsoft.txt \
+| sort | uniq | xargs -n1 | sed '/^\s*$/d' >./mosdns_chnlist/Domains.microsoft.txt
 
 wget --show-progress -cqO ./mosdns_chnlist/99-bogus-nxdomain.china.conf https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/bogus-nxdomain.china.conf
 sha256sum ./mosdns_chnlist/99-bogus-nxdomain.china.conf | awk '{print$1}' >./mosdns_chnlist/99-bogus-nxdomain.china.conf.sha256sum
