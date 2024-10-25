@@ -51,6 +51,7 @@ domain:cstat.apple.com
 domain:cstat.cdn-apple.com
 domain:dd-cdn.origin-apple.com.akadns.net
 domain:dejavu.apple.com
+domain:devimages-cdn.apple.com
 domain:devstreaming-cdn.apple.com
 domain:download.developer.apple.com
 domain:experiments.apple.com
