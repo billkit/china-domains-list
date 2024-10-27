@@ -52,8 +52,13 @@ cat /tmp/geosite_apple.txt \
 cat /tmp/geosite_category-games.txt \
 | sort | uniq | xargs -n1 | sed '/^\s*$/d' >./mosdns_chnlist/Domains.games.txt
 
+# 微软相关域名
 ./mosdns v2dat unpack-domain -o /tmp /tmp/geosite.dat:microsoft
+./mosdns v2dat unpack-domain -o /tmp /tmp/geosite.dat:microsoft-dev
+./mosdns v2dat unpack-domain -o /tmp /tmp/geosite.dat:microsoft-pki
 cat /tmp/geosite_microsoft.txt \
+cat /tmp/geosite_microsoft-dev.txt \
+cat /tmp/geosite_microsoft-pki.txt \
 | sort | uniq | xargs -n1 | sed '/^\s*$/d' >./mosdns_chnlist/Domains.microsoft.txt
 
 wget --show-progress -cqO ./mosdns_chnlist/99-bogus-nxdomain.china.conf https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/bogus-nxdomain.china.conf
