@@ -46,11 +46,14 @@ cat /tmp/geosite_apple.txt \
 /tmp/geosite_icloud.txt \
 | sort | uniq | xargs -n1 | sed '/^\s*$/d' >./mosdns_chnlist/Domains.apple.txt
 
-
-
 ./mosdns v2dat unpack-domain -o /tmp /tmp/geosite.dat:category-games
 cat /tmp/geosite_category-games.txt \
 | sort | uniq | xargs -n1 | sed '/^\s*$/d' >./mosdns_chnlist/Domains.games.txt
+
+
+./mosdns v2dat unpack-domain -o /tmp /tmp/geosite.dat:geolocation-!cn
+cat /tmp/geosite_geolocation-!cn.txt \
+| sort | uniq | xargs -n1 | sed '/^\s*$/d' >./mosdns_chnlist/no_cn_list.txt
 
 # 微软相关域名
 ./mosdns v2dat unpack-domain -o /tmp /tmp/geosite.dat:microsoft
