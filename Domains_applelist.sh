@@ -58,19 +58,7 @@ cat /tmp/geosite_category-games.txt \
 
 # 解包非中国域名
 ./mosdns v2dat unpack-domain -o /tmp /tmp/geosite.dat:geolocation-!cn
-./mosdns v2dat unpack-domain -o /tmp /tmp/geosite.dat:!apple
-./mosdns v2dat unpack-domain -o /tmp /tmp/geosite.dat:!apple-cn
-./mosdns v2dat unpack-domain -o /tmp /tmp/geosite.dat:!apple-ads
-./mosdns v2dat unpack-domain -o /tmp /tmp/geosite.dat:!apple-dev
-./mosdns v2dat unpack-domain -o /tmp /tmp/geosite.dat:!apple-update
-./mosdns v2dat unpack-domain -o /mosdns_chnlist /tmp/geosite.dat:!icloud
 cat /tmp/geosite_geolocation-!cn.txt \
-/tmp/geosite_!apple.txt \
-/tmp/geosite_!apple-cn.txt \
-/tmp/geosite_!apple-ads.txt \
-/tmp/geosite_!apple-dev.txt \
-/tmp/geosite_!apple-update.txt \
-/tmp/geosite_!icloud.txt \
 | sort | uniq | xargs -n1 | sed '/^\s*$/d' >./mosdns_chnlist/no_cn_list.txt
 
 # 微软相关域名
