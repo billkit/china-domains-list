@@ -33,7 +33,7 @@ cat /tmp/geosite_private.txt \
 | sort | uniq | xargs -n1 | sed '/^\s*$/d' >./mosdns_chnlist/Domains.chn.txt
 
 # 解包中国IP列表
-./mosdns v2dat unpack-domain -o /tmp /tmp/geoip.dat:cn
+./mosdns v2dat unpack-ip -o /tmp /tmp/geoip.dat:cn
 cat /tmp/geoip_cn.txt \
 | sort | uniq | xargs -n1 | sed '/^\s*$/d' >./mosdns_chnlist/chn_ip.txt
 
