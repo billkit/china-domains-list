@@ -18,7 +18,7 @@ mkdir -p ./mosdns_chnlist
 sudo rm -rf ./mosdns_chnlist/*
 
 wget --show-progress -cqO /tmp/geosite.dat https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/geosite.dat
-wget --show-progress -cqO /tmp/geosite.dat https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/geoip.dat
+wget --show-progress -cqO /tmp/geoip.dat https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/geoip.dat
 chmod +x mosdns
 
 
