@@ -18,10 +18,11 @@ mkdir -p ./mosdns_chnlist
 sudo rm -rf ./mosdns_chnlist/*
 
 wget --show-progress -cqO /tmp/geosite.dat https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/geosite.dat
+wget --show-progress -cqO /tmp/geosite.dat https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/geoip.dat
 chmod +x mosdns
 
 
-
+#解包中国域名
 ./mosdns v2dat unpack-domain -o /tmp /tmp/geosite.dat:private
 ./mosdns v2dat unpack-domain -o /tmp /tmp/geosite.dat:cn
 wget --show-progress -cqO- https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf \
@@ -31,7 +32,12 @@ cat /tmp/geosite_private.txt \
 /tmp/Domains.chn.txt \
 | sort | uniq | xargs -n1 | sed '/^\s*$/d' >./mosdns_chnlist/Domains.chn.txt
 
+# 解包中国IP列表
+./mosdns v2dat unpack-domain -o /tmp /tmp/geoip.dat:cn
+cat /tmp/geoip_cn.txt \
+| sort | uniq | xargs -n1 | sed '/^\s*$/d' >./mosdns_chnlist/chn_ip.txt
 
+# 解包Apple相关域名
 ./mosdns v2dat unpack-domain -o /tmp /tmp/geosite.dat:apple
 ./mosdns v2dat unpack-domain -o /tmp /tmp/geosite.dat:apple-cn
 ./mosdns v2dat unpack-domain -o /tmp /tmp/geosite.dat:apple-ads
@@ -50,7 +56,7 @@ cat /tmp/geosite_apple.txt \
 cat /tmp/geosite_category-games.txt \
 | sort | uniq | xargs -n1 | sed '/^\s*$/d' >./mosdns_chnlist/Domains.games.txt
 
-
+# 解包非中国域名
 ./mosdns v2dat unpack-domain -o /tmp /tmp/geosite.dat:geolocation-!cn
 cat /tmp/geosite_geolocation-!cn.txt \
 | sort | uniq | xargs -n1 | sed '/^\s*$/d' >./mosdns_chnlist/no_cn_list.txt
