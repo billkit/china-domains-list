@@ -63,7 +63,7 @@ cat /tmp/geosite_category-games.txt \
 ./mosdns v2dat unpack-domain -o /tmp /tmp/geosite.dat:!apple-ads
 ./mosdns v2dat unpack-domain -o /tmp /tmp/geosite.dat:!apple-dev
 ./mosdns v2dat unpack-domain -o /tmp /tmp/geosite.dat:!apple-update
-./mosdns v2dat unpack-domain -o /tmp /tmp/geosite.dat:!icloud
+./mosdns v2dat unpack-domain -o /mosdns_chnlist /tmp/geosite.dat:!icloud
 cat /tmp/geosite_geolocation-!cn.txt \
 /tmp/geosite_!apple.txt \
 /tmp/geosite_!apple-cn.txt \
