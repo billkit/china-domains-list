@@ -2443,6 +2443,7 @@ domain:greenvpn.net
 domain:greenvpn.org
 domain:grindr.com
 domain:grotty-monday.com
+domain:ground.news
 domain:groups.google.cn
 domain:grow.google
 domain:gs-discuss.com
@@ -2535,6 +2536,7 @@ domain:hentaitube.tv
 domain:hentaivideoworld.com
 domain:heqinglian.net
 domain:heritage.org
+domain:herokuapp.com
 domain:heungkongdiscuss.com
 domain:hexieshe.com
 domain:hexieshe.xyz
@@ -2688,6 +2690,7 @@ domain:hougaige.com
 domain:howtoforge.com
 domain:hoxx.com
 domain:hpa.gov.tw
+domain:hpjav.com
 domain:hqcdp.org
 domain:hqjapanesesex.com
 domain:hqmovies.com
@@ -2775,6 +2778,7 @@ domain:iamtopone.com
 domain:iask.bz
 domain:iask.ca
 domain:iav19.com
+domain:iavian.net
 domain:ibiblio.org
 domain:ibit.am
 domain:iblist.com
@@ -4082,6 +4086,7 @@ domain:pbxes.org
 domain:pcanywhere.net
 domain:pcc.gov.tw
 domain:pcdvd.com.tw
+domain:pcgamestorrents.com
 domain:pchome.com.tw
 domain:pcij.org
 domain:pcstore.com.tw
