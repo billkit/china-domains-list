@@ -144,6 +144,7 @@ domain:abc.pp.ru
 domain:abc.xyz
 domain:abchinese.com
 domain:abclite.net
+domain:abebooks.co.uk
 domain:abebooks.com
 domain:abematv.akamaized.net
 domain:abitno.linpie.com
@@ -871,6 +872,7 @@ domain:carfax.com
 domain:cari.com.my
 domain:caribbeancom.com
 domain:carmotorshow.com
+domain:carousell.com.hk
 domain:carrd.co
 domain:cartoonmovement.com
 domain:casadeltibetbcn.org
@@ -957,6 +959,7 @@ domain:changeip.org
 domain:changp.com
 domain:changsa.net
 domain:channelnewsasia.com
+domain:chanworld.org
 domain:chaoex.com
 domain:chapm25.com
 domain:chat.lmsys.org
@@ -1124,7 +1127,6 @@ domain:cmule.com
 domain:cmule.org
 domain:cmx.im
 domain:cn-proxy.com
-domain:cn.dayabook.com
 domain:cn.fmnnow.com
 domain:cn.freeones.com
 domain:cn.giganews.com
@@ -1195,6 +1197,7 @@ domain:coolder.com
 domain:coolloud.org.tw
 domain:coolncute.com
 domain:coolstuffinc.com
+domain:copilot.microsoft.com
 domain:cortana.ai
 domain:corumcollege.com
 domain:cos-moe.com
@@ -1313,6 +1316,7 @@ domain:darktech.org
 domain:darktoy.net
 domain:darpa.mil
 domain:darrenliuwei.com
+domain:dashlane.com
 domain:dastrassi.org
 domain:data-vocabulary.org
 domain:data.flurry.com
@@ -1642,7 +1646,6 @@ domain:eroticsaloon.net
 domain:esg.t91y.com
 domain:eslite.com
 domain:esmtp.biz
-domain:esu.dog
 domain:esurance.com
 domain:etaa.org.au
 domain:etadult.com
@@ -4206,6 +4209,7 @@ domain:poloniex.com
 domain:polymer-project.org
 domain:polymerhk.com
 domain:poolin.com
+domain:popai.pro
 domain:popo.tw
 domain:popvote.hk
 domain:popxi.click
@@ -5729,6 +5733,7 @@ domain:vot.org
 domain:vovo2000.com
 domain:voxer.com
 domain:voy.com
+domain:vpl.bibliocommons.com
 domain:vpn.ac
 domain:vpn.cmu.edu
 domain:vpn.sv.cmu.edu
@@ -5894,7 +5899,6 @@ domain:whyx.org
 domain:widevine.com
 domain:wikaba.com
 domain:wiki.cnitter.com
-domain:wiki.esu.im
 domain:wiki.gamerp.jp
 domain:wiki.jqueryui.com
 domain:wiki.keso.cn
