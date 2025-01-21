@@ -101,6 +101,7 @@ domain:64wiki.com
 domain:66.ca
 domain:666kb.com
 domain:6do.news
+domain:6do.world
 domain:6park.com
 domain:6parkbbs.com
 domain:6parker.com
@@ -154,7 +155,6 @@ domain:about.google
 domain:about.me
 domain:aboutgfw.com
 domain:abs.edu
-domain:ac.jiruan.net
 domain:acast.com
 domain:accim.org
 domain:accountkit.com
@@ -205,9 +205,11 @@ domain:ai-kan.net
 domain:ai-wen.net
 domain:ai.binwang.me
 domain:ai.google
+domain:aiosearch.com
 domain:aiph.net
 domain:airasia.com
 domain:airconsole.com
+domain:airitilibrary.com
 domain:airvpn.org
 domain:aisex.com
 domain:aiss.anws.gov.tw
@@ -280,6 +282,7 @@ domain:ancsconf.org
 domain:andfaraway.net
 domain:android-x86.org
 domain:android.com
+domain:androidapksfree.com
 domain:androidify.com
 domain:androidplus.co
 domain:androidtv.com
@@ -389,6 +392,7 @@ domain:asianwomensfilm.de
 domain:asiaone.com
 domain:asiatgp.com
 domain:asiatoday.us
+domain:ask.com
 domain:askstudent.com
 domain:askynz.net
 domain:aspi.org.au
@@ -447,6 +451,7 @@ domain:azureedge.net
 domain:azurerms.com
 domain:azurewebsites.net
 domain:b-ok.cc
+domain:b.hatena.ne.jp
 domain:b0ne.com
 domain:babylonbee.com
 domain:babynet.com.hk
@@ -499,7 +504,6 @@ domain:bbs.brockbbs.com
 domain:bbs.cantonese.asia
 domain:bbs.ecstart.com
 domain:bbs.hanminzu.org
-domain:bbs.hasi.wang
 domain:bbs.huasing.org
 domain:bbs.junglobal.net
 domain:bbs.kimy.com.tw
@@ -547,6 +551,7 @@ domain:bestgore.com
 domain:bestpornstardb.com
 domain:bestvpn.com
 domain:bestvpnanalysis.com
+domain:bestvpnforchina.net
 domain:bestvpnserver.com
 domain:bestvpnservice.com
 domain:bestvpnusa.com
@@ -749,6 +754,7 @@ domain:bookdepository.com
 domain:bookepub.com
 domain:books.com.tw
 domain:booktopia.com.au
+domain:bookwalker.com.tw
 domain:boomssr.com
 domain:borgenmagazine.com
 domain:bot.nu
@@ -865,6 +871,7 @@ domain:canyu.org
 domain:cao.im
 domain:caobian.info
 domain:caochangqing.com
+domain:caoporn.us
 domain:cap.org.hk
 domain:carabinasypistolas.com
 domain:cardinalkungfoundation.org
@@ -890,6 +897,7 @@ domain:catholic.org.tw
 domain:cathvoice.org.tw
 domain:cato.org
 domain:cattt.com
+domain:caus.com
 domain:cbc.ca
 domain:cbs.ntu.edu.tw
 domain:cbsnews.com
@@ -961,7 +969,9 @@ domain:changsa.net
 domain:channelnewsasia.com
 domain:chanworld.org
 domain:chaoex.com
+domain:chaos.social
 domain:chapm25.com
+domain:character.ai
 domain:chat.lmsys.org
 domain:chatgpt.com
 domain:chatnook.com
@@ -996,6 +1006,7 @@ domain:chinachange.org
 domain:chinachannel.hk
 domain:chinacitynews.be
 domain:chinacomments.org
+domain:chinademocrats.org
 domain:chinadialogue.net
 domain:chinadigitaltimes.net
 domain:chinaelections.org
@@ -1161,6 +1172,7 @@ domain:code1984.com
 domain:codeshare.io
 domain:codeskulptor.org
 domain:coin2co.in
+domain:coinbase.com
 domain:coinbene.com
 domain:coinegg.com
 domain:coinex.com
@@ -1447,6 +1459,7 @@ domain:dongtaiwang.net
 domain:dongyangjing.com
 domain:dontfilter.us
 domain:dontmovetochina.com
+domain:doourbest.org
 domain:dorjeshugden.com
 domain:dotplane.com
 domain:dotsub.com
@@ -1850,6 +1863,7 @@ domain:flipkart.com
 domain:flitto.com
 domain:flnet.org
 domain:flog.tw
+domain:flowhongkong.net
 domain:flyvpn.com
 domain:flyzy2005.com
 domain:fnac.be
@@ -1892,6 +1906,7 @@ domain:fpmtmexico.org
 domain:fq.wikia.com
 domain:fqok.org
 domain:fqrouter.com
+domain:frank2019.me
 domain:franklc.com
 domain:freakshare.com
 domain:free-gate.org
@@ -1977,6 +1992,7 @@ domain:fuckcnnic.net
 domain:fuckgfw.org
 domain:fulione.com
 domain:fullerconsideration.com
+domain:fullservicegame.com
 domain:fulue.com
 domain:funf.tw
 domain:funkyimg.com
@@ -2111,9 +2127,11 @@ domain:github.blog
 domain:github.com
 domain:github.io
 domain:githubassets.com
+domain:githubcopilot.com
 domain:githubusercontent.com
 domain:gizlen.net
 domain:gjczz.com
+domain:glarity.app
 domain:glass8.eu
 domain:global.bing.com
 domain:globaljihad.net
@@ -2165,13 +2183,11 @@ domain:goldbetsports.com
 domain:golden-ages.org
 domain:goldeneyevault.com
 domain:goldenfrog.com
-domain:goldjizz.com
 domain:goldstep.net
 domain:goldwave.com
 domain:gongm.in
 domain:gongmeng.info
 domain:gongminliliang.com
-domain:gongwt.com
 domain:goo.gl
 domain:goo.gle
 domain:goo.ne.jp
@@ -2179,6 +2195,7 @@ domain:good.news
 domain:gooday.xyz
 domain:gooddns.info
 domain:goodhope.school
+domain:goodnewsnetwork.org
 domain:goodreaders.com
 domain:goodreads.com
 domain:goodtv.com.tw
@@ -2983,10 +3000,10 @@ domain:jandyx.com
 domain:janwongphoto.com
 domain:japan-whores.com
 domain:japanfirst.asianfreeforum.com
+domain:japanhdv.com
 domain:japantimes.co.jp
 domain:jav.com
 domain:jav101.com
-domain:jav2be.com
 domain:jav68.tv
 domain:javakiba.org
 domain:javbus.com
@@ -3028,7 +3045,7 @@ domain:jinbushe.org
 domain:jingpin.org
 domain:jingsim.org
 domain:jinpianwang.com
-domain:jinroukong.com
+domain:jinrizhiyi.news
 domain:jintian.net
 domain:jinx.com
 domain:jitouch.com
@@ -3038,10 +3055,10 @@ domain:jkb.cc
 domain:jkforum.net
 domain:jkub.com
 domain:jma.go.jp
+domain:jmsc.hku.hk
 domain:jmscult.com
 domain:joachims.org
 domain:jobnewera.wordpress.com
-domain:jobso.tv
 domain:joinclubhouse.com
 domain:joinmastodon.org
 domain:jornaldacidadeonline.com.br
@@ -3156,6 +3173,7 @@ domain:ksdl.org
 domain:ksnews.com.tw
 domain:kspcoin.com
 domain:ktzhk.com
+domain:kuaichedao.co
 domain:kucoin.com
 domain:kui.name
 domain:kukuku.uk
@@ -3244,6 +3262,7 @@ domain:lighten.org.tw
 domain:lighti.me
 domain:lightnovel.cn
 domain:lightyearvpn.com
+domain:lih.kg
 domain:lihkg.com
 domain:like.com
 domain:limiao.net
@@ -3423,6 +3442,7 @@ domain:mefound.com
 domain:mega.co.nz
 domain:mega.io
 domain:mega.nz
+domain:megalodon.jp
 domain:megaproxy.com
 domain:megarotic.com
 domain:megavideo.com
@@ -3457,14 +3477,11 @@ domain:metrohk.com.hk
 domain:metrolife.ca
 domain:metroradio.com.hk
 domain:mewe.com
-domain:meyou.jp
-domain:meyul.com
 domain:mfxmedia.com
 domain:mgoon.com
 domain:mgstage.com
 domain:mh4u.org
 domain:mhradio.org
-domain:michaelanti.com
 domain:michaelmarketl.com
 domain:microsoft
 domain:microsoft.com
@@ -3479,6 +3496,7 @@ domain:middle-way.net
 domain:mihk.hk
 domain:mihr.com
 domain:mihua.org
+domain:mikanani.me
 domain:mike.cz.cc
 domain:mikesoltys.com
 domain:milph.net
@@ -3557,6 +3575,7 @@ domain:molihua.org
 domain:momoshop.com.tw
 domain:mondex.org
 domain:money-link.com.tw
+domain:moneydj.com
 domain:moneyhome.biz
 domain:monica.im
 domain:monitorchina.org
@@ -3754,7 +3773,6 @@ domain:news.ebc.net.tw
 domain:news.hk.msn.com
 domain:news.msn.com.tw
 domain:news.nationalgeographic.com
-domain:news.now.com
 domain:news.omy.sg
 domain:news.seehua.com
 domain:news.sina.com.hk
@@ -3837,6 +3855,7 @@ domain:nordstrom.com
 domain:nordstromimage.com
 domain:nordstromrack.com
 domain:nordvpn.com
+domain:nos.nl
 domain:notepad-plus-plus.org
 domain:notify.dropboxapi.com
 domain:nottinghampost.com
@@ -3991,6 +4010,7 @@ domain:onthehunt.com
 domain:ontrac.com
 domain:oopsforum.com
 domain:open.com.hk
+domain:open.firstory.me
 domain:openai.com
 domain:openallweb.com
 domain:opendemocracy.net
@@ -4087,6 +4107,7 @@ domain:paste.ee
 domain:pastebin.com
 domain:pastie.org
 domain:patreon.com
+domain:patreonusercontent.com
 domain:pawoo.net
 domain:paxful.com
 domain:pbs.org
@@ -4178,6 +4199,7 @@ domain:pixnet.net
 domain:pk.com
 domain:pki.goog
 domain:placemix.com
+domain:play-asia.com
 domain:playboy.com
 domain:playboyplus.com
 domain:player.fm
@@ -4229,6 +4251,7 @@ domain:pornoxo.com
 domain:pornrapidshare.com
 domain:pornsharing.com
 domain:pornsocket.com
+domain:pornstarbyface.com
 domain:pornstarclub.com
 domain:porntube.com
 domain:porntubenews.com
@@ -4252,6 +4275,7 @@ domain:powerapps.com
 domain:powerautomate.com
 domain:powercx.com
 domain:powerphoto.org
+domain:ppy.sh
 domain:prayforchina.net
 domain:premeforwindows7.com
 domain:premproxy.com
@@ -4443,7 +4467,6 @@ domain:religioustolerance.org
 domain:renminbao.com
 domain:renyurenquan.org
 domain:research.google
-domain:research.jmsc.hku.hk
 domain:resilio.com
 domain:resistchina.org
 domain:retweeteffect.com
@@ -4696,6 +4719,7 @@ domain:silkbook.com
 domain:simbolostwitter.com
 domain:simplecd.org
 domain:simpleproductivityblog.com
+domain:simpleswap.io
 domain:sinchew.com.my
 domain:singaporepools.com.sg
 domain:singfortibet.com
@@ -4756,6 +4780,7 @@ domain:smchbooks.com
 domain:smh.com.au
 domain:smhric.org
 domain:smith.edu
+domain:smn.news
 domain:smyxy.org
 domain:snapchat.com
 domain:snapseed.com
@@ -4801,6 +4826,7 @@ domain:sopcast.org
 domain:sorazone.net
 domain:sorting-algorithms.com
 domain:sos.org
+domain:sosad.fun
 domain:sosreader.com
 domain:sostibet.org
 domain:soubory.com
@@ -4815,6 +4841,7 @@ domain:soupofmedia.com
 domain:sourceforge.net
 domain:sourcewadio.com
 domain:south-plus.org
+domain:southmongolia.org
 domain:southnews.com.tw
 domain:southpark.cc.com
 domain:sowers.org.hk
@@ -4823,9 +4850,11 @@ domain:spaces.hightail.com
 domain:spankbang.com
 domain:spankingtube.com
 domain:spankwire.com
+domain:spatial.io
 domain:spb.com
 domain:speakerdeck.com
 domain:specxinzl.jigsy.com
+domain:speedcat.me
 domain:speedify.com
 domain:spem.at
 domain:spencertipping.com
@@ -5114,8 +5143,7 @@ domain:thegay.com
 domain:thegioitinhoc.vn
 domain:thegly.com
 domain:theguardian.com
-domain:thehots.info
-domain:thehousenews.com
+domain:thehindu.com
 domain:thehun.net
 domain:theinitium.com
 domain:themoviedb.org
@@ -5137,6 +5165,7 @@ domain:thetrotskymovie.com
 domain:thetvdb.com
 domain:thevivekspot.com
 domain:thewgo.org
+domain:thewirechina.com
 domain:theync.com
 domain:thinkgeek.com
 domain:thinkingtaiwan.com
@@ -5600,6 +5629,7 @@ domain:usaip.eu
 domain:uscardforum.com
 domain:uscnpm.org
 domain:userapi.nytlog.com
+domain:usercontent.goog
 domain:users.skynet.be
 domain:usfk.mil
 domain:ushuarencity.echainhost.com
@@ -5676,7 +5706,6 @@ domain:video.aol.com
 domain:video.ap.org
 domain:video.fdbox.com
 domain:video.foxbusiness.com
-domain:video.pbs.org
 domain:video.yahoo.com
 domain:videobam.com
 domain:videodetective.com
@@ -5780,6 +5809,7 @@ domain:vpser.net
 domain:vraiesagesse.net
 domain:vrchat.com
 domain:vrmtr.com
+domain:vrporn.com
 domain:vrsmash.com
 domain:vtunnel.com
 domain:vuku.cc
@@ -5850,7 +5880,6 @@ domain:wefightcensorship.org
 domain:wefong.com
 domain:wego.here.com
 domain:weiboleak.com
-domain:weiboscope.jmsc.hku.hk
 domain:weihuo.org
 domain:weijingsheng.org
 domain:weiming.info
@@ -5931,7 +5960,6 @@ domain:windscribe.com
 domain:wingamestore.com
 domain:wingy.site
 domain:winning11.com
-domain:winwhispers.info
 domain:wionews.com
 domain:wire.com
 domain:wiredbytes.com
@@ -6053,9 +6081,8 @@ domain:x-wall.org
 domain:x.co
 domain:x.com
 domain:x.company
-domain:x1949x.com
 domain:x24hr.com
-domain:x365x.com
+domain:x3guide.com
 domain:xa.yimg.com
 domain:xanga.com
 domain:xbabe.com
