@@ -323,7 +323,6 @@ domain:apetube.com
 domain:api-secure.recaptcha.net
 domain:api-verify.recaptcha.net
 domain:api.ai
-domain:api.dropboxapi.com
 domain:api.linksalpha.com
 domain:api.pureapk.com
 domain:api.recaptcha.net
@@ -732,6 +731,7 @@ domain:bloombergview.com
 domain:bloomfortune.com
 domain:blubrry.com
 domain:blueangellive.com
+domain:bmdru.com
 domain:bmfinn.com
 domain:bnbstatic.com
 domain:bnews.co
@@ -1486,6 +1486,7 @@ domain:drgan.net
 domain:drmingxia.org
 domain:dropbooks.tv
 domain:dropbox.com
+domain:dropboxapi.com
 domain:dropboxusercontent.com
 domain:drsunacademy.com
 domain:drtuber.com
@@ -1967,7 +1968,7 @@ domain:freewww.info
 domain:freexinwen.com
 domain:freeyellow.com
 domain:freeyoutubeproxy.net
-domain:friendfeed-media.com
+domain:freezhihu.org
 domain:friendfeed.com
 domain:friends-of-tibet.org
 domain:friendsoftibet.org
@@ -3139,6 +3140,7 @@ domain:khmusic.com.tw
 domain:kichiku-doujinko.com
 domain:kik.com
 domain:killwall.com
+domain:kindle4rss.com
 domain:kindleren.com
 domain:kineox.free.fr
 domain:kingdomsalvation.org
@@ -3562,6 +3564,7 @@ domain:mod.io
 domain:modernchinastudies.org
 domain:moeaic.gov.tw
 domain:moeerolibrary.com
+domain:moeshare.cc
 domain:mofa.gov.tw
 domain:mofaxiehui.com
 domain:mofos.com
@@ -3785,12 +3788,12 @@ domain:news.yahoo.com
 domain:news.ycombinator.com
 domain:news100.com.tw
 domain:newsancai.com
+domain:newsblur.com
 domain:newschinacomment.org
 domain:newscn.org
 domain:newsdetox.ca
 domain:newsdh.com
 domain:newsmax.com
-domain:newspeak.cc
 domain:newstamago.com
 domain:newstapa.org
 domain:newstarnet.com
@@ -3857,7 +3860,6 @@ domain:nordstromrack.com
 domain:nordvpn.com
 domain:nos.nl
 domain:notepad-plus-plus.org
-domain:notify.dropboxapi.com
 domain:nottinghampost.com
 domain:novelasia.com
 domain:now.com
@@ -4195,9 +4197,11 @@ domain:piring.com
 domain:pixeldrain.com
 domain:pixelqi.com
 domain:pixiv.net
+domain:pixivsketch.net
 domain:pixnet.net
 domain:pk.com
 domain:pki.goog
+domain:pkqjiasu.com
 domain:placemix.com
 domain:play-asia.com
 domain:playboy.com
@@ -4360,6 +4364,7 @@ domain:qhigh.com
 domain:qi-gong.me
 domain:qianbai.tw
 domain:qiandao.today
+domain:qianglie.com
 domain:qiangwaikan.com
 domain:qiangyou.org
 domain:qidian.ca
@@ -4415,19 +4420,17 @@ domain:rapbull.net
 domain:rapidmoviez.com
 domain:rapidvpn.com
 domain:rarbgprx.org
-domain:raremovie.cc
-domain:raremovie.net
 domain:rateyourmusic.com
 domain:rationalwiki.org
 domain:raw.githack.com
 domain:rawgit.com
 domain:rawgithub.com
-domain:razyboard.com
 domain:rcam.target.com
 domain:rcinet.ca
 domain:rconversation.blogs.com
 domain:rd.com
 domain:rdio.com
+domain:reabble.com
 domain:read01.com
 domain:read100.com
 domain:readingtimes.com.tw
@@ -4501,6 +4504,7 @@ domain:roadshow.hk
 domain:roboforex.com
 domain:robustnessiskey.com
 domain:rocket-inc.net
+domain:rocket.chat
 domain:rocksdb.org
 domain:rojo.com
 domain:rolfoundation.org
@@ -5290,6 +5294,7 @@ domain:timsah.com
 domain:timtales.com
 domain:tinc-vpn.org
 domain:tineye.com
+domain:tingtalk.me
 domain:tintuc101.com
 domain:tiny.cc
 domain:tinychat.com
@@ -5644,6 +5649,7 @@ domain:ustream.tv
 domain:usus.cc
 domain:utopianpal.com
 domain:uu-gg.com
+domain:uujiasu.com
 domain:uukanshu.com
 domain:uvwxyz.xyz
 domain:uwants.com
@@ -5765,6 +5771,7 @@ domain:voy.com
 domain:vpl.bibliocommons.com
 domain:vpn.ac
 domain:vpn.cmu.edu
+domain:vpn.net
 domain:vpn.sv.cmu.edu
 domain:vpn4all.com
 domain:vpnaccount.org
@@ -5875,6 +5882,7 @@ domain:websitepulse.com
 domain:webwarper.net
 domain:webworkerdaily.com
 domain:wechatlawsuit.com
+domain:weebly.com
 domain:weekmag.info
 domain:wefightcensorship.org
 domain:wefong.com
@@ -5931,7 +5939,6 @@ domain:wiki.cnitter.com
 domain:wiki.gamerp.jp
 domain:wiki.jqueryui.com
 domain:wiki.keso.cn
-domain:wiki.moegirl.org
 domain:wiki.oauth.net
 domain:wiki.phonegap.com
 domain:wikileaks-forum.com
@@ -6091,10 +6098,10 @@ domain:xbtce.com
 domain:xcafe.in
 domain:xcity.jp
 domain:xcritic.com
-domain:xda-developers.com
 domain:xerotica.com
 domain:xfinity.com
 domain:xfm.pp.ru
+domain:xfxssr.me
 domain:xgmyd.com
 domain:xhamster.com
 domain:xianba.net
@@ -6137,6 +6144,7 @@ domain:xn--9pr62r24a.com
 domain:xn--czq75pvv1aj5c.org
 domain:xn--i2ru8q2qg.com
 domain:xn--ngstr-lra8j.com
+domain:xn--noss43i.com
 domain:xn--oiq.cc
 domain:xn--p8j9a0d9c9a.xn--q9jyb4c
 domain:xnxx.com
