@@ -809,6 +809,7 @@ domain:btcbank.bank
 domain:btctrade.im
 domain:btdig.com
 domain:btdigg.org
+domain:btguard.com
 domain:btku.me
 domain:btku.org
 domain:btspread.com
@@ -1430,6 +1431,7 @@ domain:dlive.tv
 domain:dlsite.com
 domain:dlyoutube.com
 domain:dm530.net
+domain:dma.mil
 domain:dmc.nico
 domain:dmcdn.net
 domain:dmhy.org
@@ -2433,7 +2435,7 @@ domain:googlemashups.com
 domain:googlepagecreator.com
 domain:googleplay.com
 domain:googleplus.com
-domain:googlescholar.comUSA
+domain:googlescholar.com
 domain:googlesile.com
 domain:googlesource.com
 domain:googleusercontent.com
@@ -3006,7 +3008,6 @@ domain:izaobao.us
 domain:izles.net
 domain:izlesem.org
 domain:j.mp
-domain:ja.wikipedia.org
 domain:jable.tv
 domain:jamaat.org
 domain:jamestown.org
@@ -4178,7 +4179,6 @@ domain:phayul.com
 domain:philborges.com
 domain:phmsociety.org
 domain:phncdn.com
-domain:phobos.apple.com
 domain:phonefactor.net
 domain:phosphation13.rssing.com
 domain:photodharma.net
@@ -5584,6 +5584,7 @@ domain:typepad.com
 domain:typora.io
 domain:u15.info
 domain:u9un.com
+domain:ua5v.com
 domain:ub0.cc
 domain:ubddns.org
 domain:uberproxy.net
@@ -5607,6 +5608,8 @@ domain:ukliferadio.co.uk
 domain:uku.im
 domain:ulike.net
 domain:ulop.net
+domain:ultrasurf.us
+domain:ultravpn.com
 domain:ultravpn.fr
 domain:ultraxs.com
 domain:umich.edu
@@ -5658,6 +5661,7 @@ domain:us.to
 domain:usacn.com
 domain:usaip.eu
 domain:uscardforum.com
+domain:uscg.mil
 domain:uscnpm.org
 domain:userapi.nytlog.com
 domain:usercontent.goog
@@ -5825,6 +5829,7 @@ domain:vpnmentor.com
 domain:vpnpick.com
 domain:vpnpop.com
 domain:vpnpronet.com
+domain:vpnproxymaster.com
 domain:vpnreactor.com
 domain:vpnreviewz.com
 domain:vpnsecure.me
@@ -5967,6 +5972,8 @@ domain:wiki.jqueryui.com
 domain:wiki.keso.cn
 domain:wiki.oauth.net
 domain:wiki.phonegap.com
+domain:wikibooks.org
+domain:wikidata.org
 domain:wikileaks-forum.com
 domain:wikileaks.ch
 domain:wikileaks.com
@@ -5979,8 +5986,11 @@ domain:wikilivres.info
 domain:wikimapia.org
 domain:wikimedia.org
 domain:wikipedia.org
+domain:wikiversity.org
+domain:wikivoyage.org
 domain:wikiwand.com
 domain:wikiwiki.jp
+domain:wiktionary.org
 domain:wildammo.com
 domain:williamhill.com
 domain:willw.net
@@ -6009,6 +6019,7 @@ domain:wjbk.org
 domain:wlcnew.jigsy.com
 domain:wlx.sowiki.net
 domain:wmflabs.org
+domain:wmfusercontent.org
 domain:wn.com
 domain:wnacg.com
 domain:wnacg.org
@@ -6219,6 +6230,7 @@ domain:yande.re
 domain:yanghengjun.com
 domain:yangjianli.com
 domain:yasni.co.uk
+domain:yasukuni.or.jp
 domain:yayabay.com
 domain:ydy.com
 domain:yeahteentube.com
@@ -6290,6 +6302,7 @@ domain:yuanming.net
 domain:yuanzhengtang.org
 domain:yulghun.com
 domain:yunchao.net
+domain:yunomi.tokyo
 domain:yuvutu.com
 domain:yvesgeleyn.com
 domain:ywpw.com
