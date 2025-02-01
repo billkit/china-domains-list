@@ -1235,6 +1235,7 @@ domain:123jci.com
 domain:123jctrz.com
 domain:123k.cc
 domain:123kanfang.com
+domain:123langlang.com
 domain:123meiyan.com
 domain:123menpiao.com
 domain:123nice.net
@@ -1280,6 +1281,7 @@ domain:127.net
 domain:1278721.com
 domain:127xx.com
 domain:127z.com
+domain:1280-pic.cc
 domain:128456.com
 domain:1288.tv
 domain:12880.com
@@ -2435,7 +2437,6 @@ domain:21xianhua.com
 domain:21xl.info
 domain:21xrx.com
 domain:21xuema.com
-domain:21yk.com
 domain:21yod.com
 domain:21yq.com
 domain:21ytv.com
@@ -2752,6 +2753,7 @@ domain:28yj.com
 domain:28z9.com
 domain:28zhe.com
 domain:2903866.net
+domain:291315.com
 domain:2918.com
 domain:2925.com
 domain:29293.com
@@ -3081,7 +3083,6 @@ domain:333.com
 domain:333056.com
 domain:33313q.com
 domain:33315.com
-domain:3332266.com
 domain:333333.com
 domain:3335665.com
 domain:33360.com
@@ -3955,7 +3956,6 @@ domain:414500.net
 domain:415677.com
 domain:4177.com
 domain:41818.net
-domain:418999.com
 domain:419600.com
 domain:41d5.com
 domain:41game.com
@@ -6266,6 +6266,7 @@ domain:6bdns.com
 domain:6c6c.com
 domain:6cang.com
 domain:6cit.com
+domain:6cmap.com
 domain:6cnzz.com
 domain:6d4d5.com
 domain:6d4g.com
@@ -7352,7 +7353,6 @@ domain:8jzw.cc
 domain:8k7k.com
 domain:8kaa.com
 domain:8kana.com
-domain:8kb8y722.shop
 domain:8kmm.com
 domain:8kvkt7.com
 domain:8kwebs.com
@@ -7828,6 +7828,7 @@ domain:94afx.com
 domain:94cb.com
 domain:94cto.com
 domain:94gan.net
+domain:94goo.com
 domain:94he38.com
 domain:94i5.com
 domain:94ip.com
@@ -8037,6 +8038,7 @@ domain:980512.com
 domain:980cje.com
 domain:98158.com
 domain:98182.com
+domain:98187411.com
 domain:9831428.com
 domain:984g.com
 domain:985.so
@@ -9100,6 +9102,7 @@ domain:ahphi.com
 domain:ahplm.com
 domain:ahqmdq.com
 domain:ahrbg.com
+domain:ahrcu.com
 domain:ahread.com
 domain:ahrenkun.com
 domain:ahrunzi.com
@@ -9766,6 +9769,7 @@ domain:alexangioli.com
 domain:alexhaohao.com
 domain:alexinea.com
 domain:alexoviedo999.com
+domain:alexpad.fun
 domain:alexyan.cc
 domain:alfachemar.com
 domain:alfafull.com
@@ -10629,7 +10633,6 @@ domain:aoyoux.com
 domain:aoyu100.com
 domain:aoyunque.com
 domain:aozhanls.com
-domain:aozhouci.site
 domain:aozhougoufang.com
 domain:aozhuanyun.com
 domain:ap1983.com
@@ -11063,7 +11066,6 @@ domain:aseoe.com
 domain:asf4asgfrxc.com
 domain:asfuwu.com
 domain:asfzl.net
-domain:asganggui.com
 domain:asgezhi.com
 domain:ashan.org
 domain:ashanyouxi.com
@@ -12422,7 +12424,6 @@ domain:baronzhang.com
 domain:barreau.bj
 domain:barretlee.com
 domain:bartender.cc
-domain:baseballdiy.com
 domain:basechem.org
 domain:basecity.com
 domain:based-edu.com
@@ -13118,6 +13119,7 @@ domain:betop-cn.com
 domain:betop365.com
 domain:betophall.com
 domain:bettbio.com
+domain:better365.com
 domain:betteredu.net
 domain:betterzip.net
 domain:betterzipcn.com
@@ -13311,6 +13313,7 @@ domain:bianeng.com
 domain:bianews.com
 domain:bianfeng.com
 domain:bianhaiyun.com
+domain:bianjianzen.com
 domain:bianjiqi.net
 domain:bianjiyi.com
 domain:bianlifeng.com
@@ -13487,6 +13490,7 @@ domain:bilezu.com
 domain:bili.fan
 domain:biliapi.com
 domain:biliapi.net
+domain:biliapi.xyz
 domain:bilibil.com
 domain:bilibili.cc
 domain:bilibili.co
@@ -14266,6 +14270,7 @@ domain:blinghour.com
 domain:blissfulates.com
 domain:blissmall.net
 domain:blizzardcn.com
+domain:blkj58.com
 domain:blksails.net
 domain:bllsbz.com
 domain:bln7.com
@@ -14577,7 +14582,6 @@ domain:bomeeting.net
 domain:bomin-china.com
 domain:boming-sc.com
 domain:bomman.com
-domain:bomohk.com
 domain:bomyg.com
 domain:bon-top.com
 domain:bon-wine.com
@@ -14853,6 +14857,7 @@ domain:brsnzp.com
 domain:brtbeacon.com
 domain:brtbeacon.net
 domain:brttc.com
+domain:brtvcloud.com
 domain:brtxg.com
 domain:brunoxu.com
 domain:brxjzp.com
@@ -15728,6 +15733,7 @@ domain:calb-tech.com
 domain:calculusdata.com
 domain:caldigit.net
 domain:caledoniancable.com
+domain:calendar520.com
 domain:calendarli.com
 domain:cali-light.com
 domain:callbei.com
@@ -15819,6 +15825,7 @@ domain:canrill.com
 domain:cansee.net
 domain:cansine.com
 domain:cantoge.com
+domain:cantontower.com
 domain:canvcan.com
 domain:canway.net
 domain:canwayit.com
@@ -16595,6 +16602,7 @@ domain:cdnhwchcg02.com
 domain:cdnhwcibv122.com
 domain:cdnhwckfz116.com
 domain:cdnhwckon103.com
+domain:cdnhwcljk104.com
 domain:cdnhwclxu105.com
 domain:cdnhwclxw05.com
 domain:cdnhwcoem01.com
@@ -16608,6 +16616,7 @@ domain:cdnhwcuim119.com
 domain:cdnhwcupf06.com
 domain:cdnhwcvix16.com
 domain:cdnhwcxcy07.com
+domain:cdnhwczba04.com
 domain:cdnhwczmn114.com
 domain:cdnhwczth23.com
 domain:cdnhwczxh101.com
@@ -18452,7 +18461,6 @@ domain:chinayishuhua.com
 domain:chinayk.com
 domain:chinaymc.com
 domain:chinayounao.com
-domain:chinayouxin888.com
 domain:chinayoxfc8otianye.com
 domain:chinayq.com
 domain:chinays.com
@@ -18935,6 +18943,7 @@ domain:cict.com
 domain:cidf.net
 domain:cidgroup.com
 domain:cidi.ai
+domain:cidian5.com
 domain:cidiancn.com
 domain:cidipp.com
 domain:cidschina.com
@@ -19107,6 +19116,7 @@ domain:ciyuan.men
 domain:ciyuanji.com
 domain:ciyuans.com
 domain:ciyuansi.com
+domain:ciyun.link
 domain:ciyynodegroup.cyou
 domain:cizhixin.com
 domain:cizip.com
@@ -20570,6 +20580,7 @@ domain:coocare.com
 domain:coocent.net
 domain:coocox.org
 domain:coodir.com
+domain:coodove.com
 domain:coofandy.com
 domain:coofans.com
 domain:cooffee.net
@@ -20937,6 +20948,8 @@ domain:cqph.com
 domain:cqpinjian.com
 domain:cqpix.com
 domain:cqpost.com
+domain:cqpwy.com
+domain:cqpwz.com
 domain:cqqgsafe.com
 domain:cqqigao.com
 domain:cqqiyi.com
@@ -23982,6 +23995,7 @@ domain:djzr88.com
 domain:djzyg.com
 domain:dk-lexus.com
 domain:dk8s.com
+domain:dkasffredf.xyz
 domain:dkdangle.com
 domain:dkewl.com
 domain:dkgyw.com
@@ -24067,7 +24081,6 @@ domain:dlqcgz.com
 domain:dlrkb.com
 domain:dls88.com
 domain:dlsccn.com
-domain:dlsjcsb.com
 domain:dlsjj88.com
 domain:dlsjyy.com
 domain:dlsqb.com
@@ -26151,6 +26164,7 @@ domain:edu777.com
 domain:edu84.com
 domain:edu84.net
 domain:edu88.com
+domain:eduaiplat.com
 domain:eduardoam.com
 domain:eduartisan.com
 domain:educg.net
@@ -28017,7 +28031,6 @@ domain:fe-cable.com
 domain:fe-mm.com
 domain:fe2x.cc
 domain:fe520.com
-domain:fe8fssm3nq.site
 domain:feadi.com
 domain:feanton.com
 domain:fecmall.com
@@ -28463,7 +28476,6 @@ domain:fiifh.com
 domain:fiinote.com
 domain:fiio.com
 domain:fiio.net
-domain:filclothing.com
 domain:filcochina.com
 domain:file001.com
 domain:filediag.com
@@ -28687,7 +28699,6 @@ domain:fjybyjjysos.com
 domain:fjyc8.com
 domain:fjycw.com
 domain:fjyklc.com
-domain:fjymxny.com
 domain:fjyunba.com
 domain:fjyxdm.com
 domain:fjyxgl.com
@@ -28794,6 +28805,7 @@ domain:flwatertech.com
 domain:flwkb.com
 domain:flxc.net
 domain:flxnj.com
+domain:flxzz.com
 domain:fly-exp.com
 domain:fly139.com
 domain:fly1999.com
@@ -29280,6 +29292,7 @@ domain:fsnewage.com
 domain:fsoet.com
 domain:fsohu.com
 domain:fsoptronics.com
+domain:fsou.com
 domain:fsoufsou.com
 domain:fspage.com
 domain:fspcdn.com
@@ -30252,7 +30265,6 @@ domain:gcwduoduo.com
 domain:gcwith.com
 domain:gcyts.com
 domain:gcyy08.com
-domain:gczp.cc
 domain:gczyg.com
 domain:gd-chenxing.com
 domain:gd-hskj.com
@@ -30712,6 +30724,7 @@ domain:gf139.com
 domain:gf7979cn.com
 domain:gfan.com
 domain:gfanstore.com
+domain:gfbk.net
 domain:gfcdn.xyz
 domain:gfcity.com
 domain:gfcname.com
@@ -32006,6 +32019,7 @@ domain:greenxf.com
 domain:greenxiazai.com
 domain:greepi.com
 domain:grender.com
+domain:greplay.com
 domain:grescw.com
 domain:gretf.com
 domain:greycdn.net
@@ -32064,6 +32078,7 @@ domain:gs1cn.org
 domain:gs2.ww.prod.dl.playstation.net
 domain:gs2012.com
 domain:gs307.com
+domain:gs6699.com
 domain:gsadds.com
 domain:gsafc.com
 domain:gsafety.com
@@ -32162,6 +32177,7 @@ domain:gt-99-js-ii-i1-0o-j9-o0-1i-0o-sd-hg-kj.com
 domain:gt-key.com
 domain:gt-oil.com
 domain:gt-semi.com
+domain:gt47xc.com
 domain:gt520.com
 domain:gtadata.com
 domain:gtags.net
@@ -32766,6 +32782,7 @@ domain:guzhangting.com
 domain:guzhilin.com
 domain:guzhongtrade.com
 domain:guziyy.com
+domain:guzwiayz.com
 domain:gvacdn.com
 domain:gvi-tech.com
 domain:gvlocalization.com
@@ -33066,7 +33083,6 @@ domain:gxdairy.com
 domain:gxdajin.com
 domain:gxdajixiong.com
 domain:gxdake.com
-domain:gxdalonghu.com
 domain:gxdanbao.com
 domain:gxdangan.com
 domain:gxdansi.com
@@ -34491,6 +34507,7 @@ domain:gxweipeng.com
 domain:gxweite.com
 domain:gxwellsun.com
 domain:gxwenlian.com
+domain:gxwenyutech.com
 domain:gxwgdq.com
 domain:gxwgjf.com
 domain:gxwhsy.com
@@ -34628,6 +34645,7 @@ domain:gxxszy.net
 domain:gxxtdt.com
 domain:gxxtlq.com
 domain:gxxtzg.com
+domain:gxxundongtech.com
 domain:gxxuyang.com
 domain:gxxw.com
 domain:gxxwjs.net
@@ -36128,6 +36146,7 @@ domain:haowaicaijing.com
 domain:haowallpaper.com
 domain:haowandeni.com
 domain:haowang.shop
+domain:haowanma.info
 domain:haowanok.com
 domain:haowanxi.com
 domain:haowanyou.com
@@ -36701,7 +36720,6 @@ domain:hczshb.com
 domain:hczxmr.com
 domain:hczypay.com
 domain:hczyw.com
-domain:hd-r.icu
 domain:hd-tvb.com
 domain:hd.gg
 domain:hd027.com
@@ -36762,6 +36780,7 @@ domain:hdp88.com
 domain:hdpyqa.com
 domain:hdpyqc.com
 domain:hdpyqd.com
+domain:hdpyqf.com
 domain:hdrcw.com
 domain:hdsay.net
 domain:hdsdyyy.com
@@ -36779,6 +36798,7 @@ domain:hdvbg.com
 domain:hdwbcloud.com
 domain:hdwbsaas.com
 domain:hdwebpyqa.com
+domain:hdwebpyqc.com
 domain:hdwebpyqe.com
 domain:hdwjc.com
 domain:hdwtpay.com
@@ -37326,6 +37346,7 @@ domain:hf10000.com
 domain:hf12345.vip
 domain:hf365.com
 domain:hf777.com
+domain:hf8h8h8aaa.com
 domain:hfabiao.com
 domain:hfanss.com
 domain:hfbaogao.com
@@ -37384,7 +37405,6 @@ domain:hfsava.com
 domain:hfsid.com
 domain:hfsspf.com
 domain:hfssw.com
-domain:hfsunway.com
 domain:hfswcz.com
 domain:hfsxkj.com
 domain:hft-sz.com
@@ -38006,6 +38026,7 @@ domain:hlnhw.com
 domain:hlnmg.com
 domain:hlnpic.com
 domain:hlo-trade.com
+domain:hloenda-fffffffcai.com
 domain:hloong.com
 domain:hlpolice.com
 domain:hlpretty.net
@@ -38527,7 +38548,6 @@ domain:honglipai.net
 domain:honglulan.com
 domain:hongmen.cc
 domain:hongmen.com
-domain:hongmianzhihui.com
 domain:hongmitech.com
 domain:hongmo.xyz
 domain:hongmoka.com
@@ -39690,6 +39710,7 @@ domain:hufangkeji.com
 domain:hufangyun.com
 domain:hufe.cc
 domain:hufu699.com
+domain:hugane.com
 domain:hugd.com
 domain:hugecdn168.com
 domain:hugecore.net
@@ -40296,7 +40317,6 @@ domain:hxc-power.com
 domain:hxcd.net
 domain:hxcdn.net
 domain:hxchem.net
-domain:hxchya.com
 domain:hxclouds.com
 domain:hxct.com
 domain:hxct.ltd
@@ -40713,7 +40733,6 @@ domain:hzt2006.com
 domain:hzteaexpo.com
 domain:hztek.com
 domain:hzthinker.net
-domain:hztosz.com
 domain:hztuoliang.com
 domain:hztvmg.com
 domain:hztx2020.com
@@ -40892,6 +40911,7 @@ domain:iandun.com
 domain:ianvisa.com
 domain:iaoyou.com
 domain:iapijy.com
+domain:iapkk.com
 domain:iapolo.com
 domain:iappdaily.com
 domain:iapple123.com
@@ -41066,7 +41086,6 @@ domain:iceflowsoft.com
 domain:icefoxgame.com
 domain:icehotisland.com
 domain:iceinto.com
-domain:icekr.com
 domain:icekylin.online
 domain:icemle.org
 domain:icentown.com
@@ -42440,7 +42459,6 @@ domain:iol8.com
 domain:ioms.cc
 domain:ioneball.com
 domain:ionewu.com
-domain:ionichina.com
 domain:iooeoo.com
 domain:iooiooi.com
 domain:iooqoo.com
@@ -43003,6 +43021,7 @@ domain:itnb.cc
 domain:itnec.org
 domain:itnihao.com
 domain:itnxs.com
+domain:ito-co.com
 domain:itoec.org
 domain:itogame.com
 domain:itoka.com
@@ -44191,6 +44210,7 @@ domain:jianlixiu.com
 domain:jianloubao.com
 domain:jianlow.com
 domain:jianlw.com
+domain:jianmao.net
 domain:jianmeng.net
 domain:jianmite.com
 domain:jianmu.run
@@ -44251,8 +44271,10 @@ domain:jianzhanbao.net
 domain:jianzhangongsi.com
 domain:jianzhian.com
 domain:jianzhibao.com
+domain:jianzhidaxue.com
 domain:jianzhidou.com
 domain:jianzhikeji.com
+domain:jianzhikeji.net
 domain:jianzhimao.com
 domain:jianzhiwangzhan.com
 domain:jianzhiweike.net
@@ -44529,6 +44551,7 @@ domain:jihujiasuqi.com
 domain:jihulab.com
 domain:jihuoma.com
 domain:jihuoyx.com
+domain:jiimore.com
 domain:jijia.com
 domain:jijiagames.com
 domain:jijian.link
@@ -44557,6 +44580,7 @@ domain:jikejidi.com
 domain:jikejishu.com
 domain:jikemac.com
 domain:jikeq.com
+domain:jiketuchuang.com
 domain:jikewan.com
 domain:jikexiaojiang.com
 domain:jikexiu.com
@@ -44573,6 +44597,7 @@ domain:jilinwula.com
 domain:jilinxiangyun.com
 domain:jilishan.com
 domain:jiliyun.com
+domain:jilu.info
 domain:jiluchengshi.com
 domain:jiluzhe.net
 domain:jilvfaka.com
@@ -44654,7 +44679,6 @@ domain:jinerkang.com
 domain:jinfan-keji.com
 domain:jinfangka.com
 domain:jinfenghl.com
-domain:jinfengkou.com
 domain:jinfengpaint.com
 domain:jinfengwine.com
 domain:jinfh.net
@@ -45024,6 +45048,7 @@ domain:jisuapi.com
 domain:jisuchou.com
 domain:jisuclouds.com
 domain:jisuim.com
+domain:jisuimage.com
 domain:jisuimg.com
 domain:jisujie.com
 domain:jisukandian.com
@@ -45485,6 +45510,7 @@ domain:jmads.net
 domain:jmbbs.com
 domain:jmbloc.com
 domain:jmbon.com
+domain:jmchn.com
 domain:jmd-china.com
 domain:jmd-leatherbag.com
 domain:jmdedu.com
@@ -45532,6 +45558,7 @@ domain:jmxw.net
 domain:jmycapacitor.com
 domain:jmyleather.com
 domain:jmyna.net
+domain:jmyqsl.com
 domain:jmyspx.com
 domain:jmzcgs.com
 domain:jmzgo.com
@@ -45604,7 +45631,6 @@ domain:jnwenlian.com
 domain:jnxdgs.com
 domain:jnxtzdh.com
 domain:jnydgm.com
-domain:jnyestar.com
 domain:jnzcsyj.com
 domain:jnzhuoxin.com
 domain:jnzl.com
@@ -45800,6 +45826,7 @@ domain:jperation.com
 domain:jpfmor.com
 domain:jpg.cm
 domain:jpghd.com
+domain:jpgjingpinx.com
 domain:jpgjzzs.com
 domain:jpgreat7.com
 domain:jphot.net
@@ -46319,6 +46346,7 @@ domain:juhaokanya.com
 domain:juhaom.com
 domain:juhe.com
 domain:juheweb.com
+domain:juhomai.com
 domain:juhome.net
 domain:juhuasuan.com
 domain:juhui581.com
@@ -46460,7 +46488,6 @@ domain:juntongtian.com
 domain:juntu.com
 domain:junwu262.com
 domain:junxianhr.com
-domain:junxilinux.com
 domain:junyao.tech
 domain:junyimeng.com
 domain:junying.com
@@ -46874,6 +46901,7 @@ domain:jyrq.net
 domain:jys0755.com
 domain:jysbcj.com
 domain:jysd.com
+domain:jysedu.com
 domain:jyshare.com
 domain:jyshoubao.com
 domain:jyskuaiji.com
@@ -46945,7 +46973,6 @@ domain:jzjgift.com
 domain:jzke.com
 domain:jzkjjt.com
 domain:jzkoo.net
-domain:jzkqzl.com
 domain:jzmbti.com
 domain:jzmlzy.com
 domain:jzmob.com
@@ -50263,6 +50290,7 @@ domain:lhbye.com
 domain:lhcreditevaluation.com
 domain:lhcy168.com
 domain:lhdbgs.com
+domain:lhdeer.com
 domain:lhdown.com
 domain:lhdwx.com
 domain:lhdxz.com
@@ -50276,6 +50304,7 @@ domain:lhjzlw.com
 domain:lhkaye.com
 domain:lhl.zone
 domain:lhl7.com
+domain:lhlnx.com
 domain:lhmp.cc
 domain:lhnic.com
 domain:lhp-cdn-game.online
@@ -51828,6 +51857,7 @@ domain:lovefree.cc
 domain:lovehaimi.com
 domain:lovehhy.net
 domain:lovehifi.com
+domain:loveifgames.com
 domain:loveinhere.com
 domain:loveinhtw.com
 domain:lovejavascript.com
@@ -52284,6 +52314,7 @@ domain:luszy.com
 domain:lutao.com
 domain:luteng888.com
 domain:lutongda.com
+domain:lutongnet.com
 domain:luv66.com
 domain:luwei.me
 domain:luweiteng.xyz
@@ -54694,6 +54725,7 @@ domain:mingdongman.com
 domain:mingfengtang.com
 domain:mingfucdn.com
 domain:mingfudns.com
+domain:mingfuyun.com
 domain:minghaoshangwu.com
 domain:mingheyaoye.com
 domain:mingheyiyao.com
@@ -55710,7 +55742,6 @@ domain:msm.moe
 domain:msmartlife.com
 domain:msmbjp.com
 domain:msndvr.com
-domain:msnyncj.com
 domain:msolok.com
 domain:mspacecd.com
 domain:mspharm.com
@@ -56506,7 +56537,6 @@ domain:nan1688.com
 domain:nanbeige.com
 domain:nanbeijt.com
 domain:nanbeilaboratory.com
-domain:nanbeimfycdn.com
 domain:nanbeiyou.com
 domain:nanbeiyu.shop
 domain:nanbushenghuo.com
@@ -57411,6 +57441,7 @@ domain:nj-hust.com
 domain:nj-netgalaxy.com
 domain:nj-qiyiguo.net
 domain:nj-ss.com
+domain:nj-tencentclb.cloud
 domain:nj1937.org
 domain:nj29jt.net
 domain:njatl.com
@@ -58408,6 +58439,7 @@ domain:nvdisngg-sdfsdy.com
 domain:nvepu.com
 domain:nvhuangmm.com
 domain:nvidia-china.com
+domain:nvkul.com
 domain:nvpuse.com
 domain:nvpuwo.com
 domain:nvsay.com
@@ -58937,6 +58969,7 @@ domain:onekey.cc
 domain:onekeyghost.com
 domain:onelife-love.com
 domain:onemob.mobi
+domain:onenice.tech
 domain:oneniceapp.com
 domain:onenoter.com
 domain:onephper.com
@@ -59329,6 +59362,7 @@ domain:oukan.online
 domain:ouklc.com
 domain:ouklqd.com
 domain:oukyx.com
+domain:oulagongshi.com
 domain:ouliwang.com
 domain:oulvnet.com
 domain:oumakspt.com
@@ -60709,6 +60743,7 @@ domain:plottersyservicioshdz.com
 domain:plottinglogistics.com
 domain:plpwz.com
 domain:plrsw.com
+domain:plsbd.com
 domain:plsdeyy.com
 domain:plsfybjy.com
 domain:plsmy.com
@@ -61944,7 +61979,6 @@ domain:qiandaohu.cc
 domain:qiandaqian.com
 domain:qiandd.com
 domain:qiandeups.com
-domain:qiandianju.com
 domain:qianduan.com
 domain:qianduanheidong.com
 domain:qiandw.com
@@ -62232,7 +62266,6 @@ domain:qikouu.com
 domain:qikqiak.com
 domain:qiku.com
 domain:qikuaibao.com
-domain:qikuaiwx.com
 domain:qikucdn.com
 domain:qikula.com
 domain:qilang.net
@@ -63194,6 +63227,7 @@ domain:queenl.com
 domain:quefan.com
 domain:quegame.com
 domain:quegui.run
+domain:quehu.com
 domain:queji.tw
 domain:queniuaa.com
 domain:queniuab.com
@@ -64154,6 +64188,7 @@ domain:recycle366.com
 domain:red-apple.net
 domain:redatoms.com
 domain:redbaby.com
+domain:redbascket.com
 domain:redbeeai.com
 domain:redbox123.com
 domain:redcome.com
@@ -64579,6 +64614,7 @@ domain:rkddzda.com
 domain:rkeji.com
 domain:rkgaming.com
 domain:rkkgyy.com
+domain:rklive888.com
 domain:rksec.com
 domain:rkvir.com
 domain:rkzxhyy.com
@@ -64657,7 +64693,6 @@ domain:rockbrain.net
 domain:rockdata.net
 domain:rockemb.com
 domain:rockerfm.com
-domain:rocketlab-aka.cc
 domain:rockflow.tech
 domain:rockjitui.com
 domain:rockru.com
@@ -66554,6 +66589,7 @@ domain:sf-saas.com
 domain:sf-zs.net
 domain:sf007.com
 domain:sf024.com
+domain:sf0jm.xyz
 domain:sf7855.com
 domain:sf888.net
 domain:sfacg.com
@@ -67395,6 +67431,7 @@ domain:shfq.com
 domain:shfrp.com
 domain:shftth.com
 domain:shfxrc.com
+domain:shfy2020.com
 domain:shgao.com
 domain:shgaoxin.net
 domain:shgbitcloud.com
@@ -68044,7 +68081,6 @@ domain:shuchengdt.com
 domain:shuchongread.com
 domain:shuchuandata.com
 domain:shucong.com
-domain:shudan.vip
 domain:shudaxia.com
 domain:shudc.com
 domain:shudianwang.com
@@ -68961,6 +68997,7 @@ domain:sky123th.com
 domain:sky1shop.com
 domain:skyallhere.com
 domain:skyao.io
+domain:skyapp1.tv
 domain:skyard.com
 domain:skybluek.com
 domain:skycaiji.com
@@ -69544,6 +69581,7 @@ domain:songshudiandian.com
 domain:songshuhui.net
 domain:songshujiedan.com
 domain:songshushuo.com
+domain:songshuyouxi.com
 domain:songsongruanwen.com
 domain:songsongyingxiao.com
 domain:songsongyun.com
@@ -70983,6 +71021,7 @@ domain:sxjinfengjiuye.com
 domain:sxjntech.com
 domain:sxjtyhjt.com
 domain:sxjwlkj.com
+domain:sxjxdyqfw.com
 domain:sxjybk.com
 domain:sxjzxww.com
 domain:sxkids.com
@@ -72223,7 +72262,6 @@ domain:taoyi-support.com
 domain:taoyi120.net
 domain:taoyizhu.com
 domain:taoyougou.com
-domain:taoyuan2010.com
 domain:taoyuewenhua.net
 domain:taozaisheng.com
 domain:taozg.store
@@ -72614,6 +72652,7 @@ domain:tencentmail.com
 domain:tencentmeeting.com
 domain:tencentmind.com
 domain:tencentmusic.com
+domain:tencentrio.com
 domain:tencentsuite.com
 domain:tencenttds.com
 domain:tencentwm.com
@@ -73002,6 +73041,7 @@ domain:tiancaixing.com
 domain:tiancaixing.net
 domain:tiancao360.com
 domain:tianche.net
+domain:tianchihao.com
 domain:tianchu.com
 domain:tianchuixiang.com
 domain:tianchy.com
@@ -73303,6 +73343,7 @@ domain:tiko.ink
 domain:tiktoknewaccount.com
 domain:tikubaba.com
 domain:tikuol.com
+domain:tile100.com
 domain:tileywy.com
 domain:tillcn.com
 domain:tillglance.com
@@ -73415,6 +73456,7 @@ domain:titamobi.com
 domain:titan007.com
 domain:titan24.com
 domain:titanar.com
+domain:titanlaw.com
 domain:titanmatrix.com
 domain:titapark.com
 domain:tititxt.com
@@ -73601,6 +73643,7 @@ domain:tljas.com
 domain:tljcw.com
 domain:tljob8001.com
 domain:tljwbj.com
+domain:tlkuazr.com
 domain:tlomo.com
 domain:tloptic.com
 domain:tlqwine.com
@@ -75823,6 +75866,7 @@ domain:urselect.com
 domain:urtrust.com
 domain:ury8n.sbs
 domain:us-ex.com
+domain:us-qianzheng.com
 domain:us0.me
 domain:us3gwireless.net
 domain:usa-idc.com
@@ -76006,6 +76050,7 @@ domain:uuzuonline.com
 domain:uuzuonline.net
 domain:uuzz.com
 domain:uuzz.net
+domain:uv25h.com
 domain:uvecca.com
 domain:uviewui.com
 domain:uvledtek.com
@@ -76234,7 +76279,6 @@ domain:vcrfiw.lol
 domain:vcsint.com
 domain:vcsmemo.com
 domain:vcudu.com
-domain:vcvbet.com
 domain:vcxmx.xyz
 domain:vcxpe.com
 domain:vdaye.com
@@ -76399,6 +76443,7 @@ domain:vic18.com
 domain:vicchen.me
 domain:vicigaming.com
 domain:vickn.com
+domain:vicl.net
 domain:vicovico.com
 domain:vicp.cc
 domain:vicp.fun
@@ -76952,7 +76997,6 @@ domain:vv8yx.com
 domain:vv91.com
 domain:vv91.net
 domain:vvbin.com
-domain:vvbtc.com
 domain:vvddcc.com
 domain:vvebo.vip
 domain:vvfeng.com
@@ -77665,6 +77709,7 @@ domain:wbtech.com
 domain:wbw.im
 domain:wbxinxi.com
 domain:wc-soft.com
+domain:wc0122log.com
 domain:wc44.com
 domain:wcccc.cc
 domain:wcd.im
@@ -78102,7 +78147,6 @@ domain:weishangmh.com
 domain:weishangshijie.com
 domain:weishangtui.vip
 domain:weishangye.com
-domain:weishangzhiyuan.com
 domain:weishengrc.com
 domain:weishi.com
 domain:weishi016.com
@@ -78489,7 +78533,6 @@ domain:weyee.com
 domain:weyesimg.com
 domain:weyhd.com
 domain:weyic.com
-domain:weyman.me
 domain:weyo.me
 domain:wezeit.com
 domain:wezhan.hk
@@ -80432,6 +80475,7 @@ domain:wxxfltg.com
 domain:wxxsyg.com
 domain:wxxtdz.com
 domain:wxy1314.com
+domain:wxyhgk.com
 domain:wxyuannuo.com
 domain:wxyxrc.com
 domain:wxzfkj.com
@@ -82234,7 +82278,6 @@ domain:xingsuyun58.com
 domain:xingtai0319.com
 domain:xingtai123.com
 domain:xingtangzp.com
-domain:xingtongfj.com
 domain:xingtongsw.com
 domain:xingtu.com
 domain:xingtui520.com
@@ -82574,6 +82617,7 @@ domain:xipunet.com
 domain:xipushuju.net
 domain:xiqb.com
 domain:xiqianyangyi.com
+domain:xiqifun.com
 domain:xiqihe.com
 domain:xiqinrc.com
 domain:xiqkj.com
@@ -83241,7 +83285,6 @@ domain:xn--fiq4mgq69drxaiym2g5wnynb77huij0bchq7vj5ay61o3cwdq2ah92mlg9c.com
 domain:xn--fiq6q20pz51d.com
 domain:xn--fiq73f39fwr0b4wk.net
 domain:xn--fiq7v55hnsepqz.net
-domain:xn--fiq7vt9g2pbx5fxtf7xzb0m6jzkjfc43h.com
 domain:xn--fiq8ituh5mn9d1qbc28lu5dusc.xn--vuq861b
 domain:xn--fiqp15ft6ya.com
 domain:xn--fiqrtn9duw9e.cc
@@ -83367,6 +83410,7 @@ domain:xn--wbsz85a2a.com
 domain:xn--wjq26j0tivl6c.com
 domain:xn--wlqw5ebvdhpi5hepihs3c.com
 domain:xn--wtqs2doz3b.com
+domain:xn--wxtr44c.live
 domain:xn--xcr7i593ag60ahsk7zi.com
 domain:xn--xcrv5deweeznlnez29a.xn--3ds443g
 domain:xn--xhq8sm16c5ls.com
@@ -83860,6 +83904,7 @@ domain:xuexi.la
 domain:xuexi199.com
 domain:xuexi365.com
 domain:xuexi637.com
+domain:xuexi684.com
 domain:xuexi863.com
 domain:xuexiaodaquan.com
 domain:xuexiaozhaopin.com
@@ -84322,6 +84367,7 @@ domain:xytrades.com
 domain:xytsgt.com
 domain:xytzg.com
 domain:xytzjt.com
+domain:xyuncloud.com
 domain:xyunhui.com
 domain:xyunjiasu.com
 domain:xyunqi.com
@@ -84451,6 +84497,7 @@ domain:xzzhongye.com
 domain:xzzp.net
 domain:xzzulin.com
 domain:y-feng.com
+domain:y-i-y.com
 domain:y-os.net
 domain:y.cool
 domain:y.to
@@ -85319,6 +85366,7 @@ domain:yhchn.com
 domain:yhcjcw.com
 domain:yhcko.com
 domain:yhcmovie.com
+domain:yhcny.com
 domain:yhcplatform.com
 domain:yhcqw.com
 domain:yhd.com
@@ -85419,6 +85467,7 @@ domain:yibaixun.com
 domain:yiban.io
 domain:yiban1314.com
 domain:yibaogao.com
+domain:yibaotech.com
 domain:yibei.com
 domain:yibeiic.com
 domain:yibeiwangluo.com
@@ -85996,7 +86045,6 @@ domain:yishixue.com
 domain:yishiyinxiang.com
 domain:yishouapp.com
 domain:yishu168.com
-domain:yishuixiufu.com
 domain:yishujia.net
 domain:yishujie.com
 domain:yishuliuxue.com
@@ -86171,9 +86219,11 @@ domain:yizhidayu.com
 domain:yizhifubj.com
 domain:yizhijia.com
 domain:yizhikan.com
+domain:yizhiknow.com
 domain:yizhiqc.com
 domain:yizhiqingxie.com
 domain:yizhiwechat.com
+domain:yizhiweixin.com
 domain:yizhiws.com
 domain:yizhixiaogame.com
 domain:yizhou158.com
@@ -86796,7 +86846,6 @@ domain:youcloud.com
 domain:youda.pro
 domain:youda8.com
 domain:youdajx.com
-domain:youdanhui.com
 domain:youdao.com
 domain:youdaocaifu.com
 domain:youdas.com
@@ -87719,6 +87768,7 @@ domain:yuexirc.com
 domain:yuexiu.com
 domain:yuexunedu.com
 domain:yuexunfanyi.com
+domain:yueya.net
 domain:yueyaa.com
 domain:yueyan365.com
 domain:yueyangshop.com
@@ -88594,6 +88644,7 @@ domain:yyzsoft.com
 domain:yyzw.com
 domain:yyzxcj.com
 domain:yyzxw.com
+domain:yyzy-play.vip
 domain:yyzyytj.com
 domain:yyzzsem.com
 domain:yz-iot.com
@@ -88718,6 +88769,7 @@ domain:z120.com
 domain:z12345.com
 domain:z17.link
 domain:z1987.com
+domain:z1cdn.com
 domain:z2sci.com
 domain:z2u.tv
 domain:z316.com
@@ -88733,6 +88785,7 @@ domain:z729.com
 domain:z7xz.com
 domain:z8q.cc
 domain:z9cdn.com
+domain:z9ehxz.com
 domain:za-doctor.com
 domain:zabrinas925.com
 domain:zabxib.com
@@ -88953,6 +89006,7 @@ domain:zcgou.com
 domain:zcgsfy.com
 domain:zchat.tech
 domain:zchbsb9.com
+domain:zchmbx.com
 domain:zchmh.com
 domain:zchrgroup.com
 domain:zcimg.com
@@ -90931,7 +90985,6 @@ domain:ziqingi.com
 domain:ziqoixtv.com
 domain:ziquyun.com
 domain:zirang.art
-domain:ziranjuan.com
 domain:ziranren.com
 domain:zircite.com
 domain:ziroom.com
@@ -91207,6 +91260,7 @@ domain:zjptcc.com
 domain:zjpubservice.com
 domain:zjqichuang.com
 domain:zjqinzijianding.com
+domain:zjqjs.com
 domain:zjqqmy.com
 domain:zjrc.com
 domain:zjrc.net
