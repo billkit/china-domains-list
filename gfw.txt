@@ -267,6 +267,7 @@ domain:amazon.com
 domain:ameblo.jp
 domain:americangreencard.com
 domain:americanunfinished.com
+domain:americorps.gov
 domain:amiblockedornot.com
 domain:amigobbs.net
 domain:amitabhafoundation.us
@@ -912,6 +913,7 @@ domain:cbtc.org.hk
 domain:cccat.cc
 domain:cccat.co
 domain:ccdtr.org
+domain:ccfd.org.tw
 domain:cchere.com
 domain:ccim.org
 domain:cclife.ca
@@ -2178,7 +2180,6 @@ domain:go141.com
 domain:goagent.biz
 domain:goagent.codeplex.com
 domain:goagentplus.com
-domain:gobet.cc
 domain:godaddy.com
 domain:godfootsteps.org
 domain:godns.work
@@ -2463,6 +2464,7 @@ domain:graph.org
 domain:graphis.ne.jp
 domain:graphql.org
 domain:gravatar.com
+domain:greasyfork.org
 domain:great-firewall.com
 domain:great-roc.org
 domain:greatfire.org
@@ -2934,6 +2936,7 @@ domain:inxian.com
 domain:iownyour.biz
 domain:iownyour.org
 domain:ipalter.com
+domain:ipdefenseforum.com
 domain:ipfire.org
 domain:ipfs.io
 domain:iphone4hongkong.com
@@ -3872,6 +3875,7 @@ domain:no-ip.org
 domain:nobel.se
 domain:nobelprize.org
 domain:nobodycanstop.us
+domain:nodeseek.com
 domain:nofile.io
 domain:nokogiri.org
 domain:nokola.com
@@ -3895,7 +3899,6 @@ domain:npa.go.jp
 domain:npa.gov.tw
 domain:npm.gov.tw
 domain:npnt.me
-domain:nps.gov
 domain:npsboost.com
 domain:nradio.me
 domain:nrk.no
@@ -4095,6 +4098,7 @@ domain:ozyoyo.com
 domain:pachosting.com
 domain:pacificpoker.com
 domain:packetix.net
+domain:pacom.mil
 domain:pacopacomama.com
 domain:padmanet.com
 domain:page.bid.yahoo.com
@@ -5668,7 +5672,6 @@ domain:usercontent.goog
 domain:users.skynet.be
 domain:usfk.mil
 domain:ushuarencity.echainhost.com
-domain:usinfo.state.gov
 domain:usma.edu
 domain:usmc.mil
 domain:usmgtcg.ning.com
@@ -6075,7 +6078,6 @@ domain:wuyanblog.com
 domain:wwitv.com
 domain:www.abclite.net
 domain:www.ajsands.com
-domain:www.americorps.gov
 domain:www.antd.org
 domain:www.aolnews.com
 domain:www.businessinsider.com.au
