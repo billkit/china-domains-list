@@ -96,6 +96,7 @@ domain:5aimiku.com
 domain:5i01.com
 domain:5isotoi5.org
 domain:5maodang.com
+domain:611study.icu
 domain:63i.com
 domain:64museum.org
 domain:64tianwang.com
@@ -3812,6 +3813,7 @@ domain:news.singtao.ca
 domain:news.tvbs.com.tw
 domain:news.yahoo.com
 domain:news.ycombinator.com
+domain:news1.kr
 domain:news100.com.tw
 domain:newsancai.com
 domain:newsblur.com
@@ -4195,6 +4197,7 @@ domain:picidae.net
 domain:picturedip.com
 domain:pictures.playboy.com
 domain:picturesocial.com
+domain:picuki.com
 domain:pigav.com
 domain:pimg.tw
 domain:pin-cong.com
@@ -4977,7 +4980,6 @@ domain:streema.com
 domain:strikingly.com
 domain:strongvpn.com
 domain:strongwindpress.com
-domain:student.tw
 domain:studentsforafreetibet.org
 domain:stumbleupon.com
 domain:stupidvideos.com
