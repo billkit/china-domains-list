@@ -36,9 +36,6 @@ domain:1bao.org
 domain:1dumb.com
 domain:1e100.net
 domain:1eew.com
-domain:1lib.at
-domain:1lib.ph
-domain:1lib.to
 domain:1mobile.com
 domain:1mobile.tw
 domain:1point3acres.com
@@ -140,7 +137,6 @@ domain:9news.com.au
 domain:a-normal-day.com
 domain:a248.e.akamai.net
 domain:a5.com.ru
-domain:aadrm.com
 domain:aamacau.com
 domain:abc.com
 domain:abc.net.au
@@ -170,8 +166,6 @@ domain:acgnx.se
 domain:acmedia365.com
 domain:acmetoy.com
 domain:acnw.com.au
-domain:acompli.com
-domain:acompli.net
 domain:actfortibet.org
 domain:actimes.com.au
 domain:activpn.com
@@ -236,7 +230,6 @@ domain:alhayat.com
 domain:alicejapan.co.jp
 domain:aliengu.com
 domain:alive.bar
-domain:aljazeera.com
 domain:alkasir.com
 domain:all4mom.org
 domain:allcoin.com
@@ -401,9 +394,7 @@ domain:askstudent.com
 domain:askynz.net
 domain:aspi.org.au
 domain:aspistrategist.org.au
-domain:aspnetcdn.com
 domain:assembla.com
-domain:assets-yammer.com
 domain:assets.bwbx.io
 domain:assimp.org
 domain:astrill.com
@@ -448,11 +439,6 @@ domain:azerbaycan.tv
 domain:azerimix.com
 domain:azirevpn.com
 domain:azubu.tv
-domain:azure-apim.net
-domain:azure.com
-domain:azure.net
-domain:azureedge.net
-domain:azurerms.com
 domain:azurewebsites.net
 domain:b-ok.cc
 domain:b.hatena.ne.jp
@@ -589,7 +575,6 @@ domain:bild.de
 domain:biliworld.com
 domain:billypan.com
 domain:binance.com
-domain:bing.com
 domain:binux.me
 domain:bird.so
 domain:bit-z.com
@@ -1220,7 +1205,6 @@ domain:coolloud.org.tw
 domain:coolncute.com
 domain:coolstuffinc.com
 domain:copilot.microsoft.com
-domain:cortana.ai
 domain:corumcollege.com
 domain:cos-moe.com
 domain:cosmic.monar.ch
@@ -1269,7 +1253,6 @@ domain:cuihua.org
 domain:cuiweiping.net
 domain:culture.tw
 domain:cumlouder.com
-domain:cursor.so
 domain:curvefish.com
 domain:cusp.hk
 domain:cusu.hk
@@ -1400,7 +1383,6 @@ domain:dharmakara.net
 domain:dhcp.biz
 domain:diaoyuislands.org
 domain:difangwenge.org
-domain:digicert.com
 domain:digiland.tw
 domain:digisfera.com
 domain:digitalnomadsproject.org
@@ -1452,8 +1434,6 @@ domain:dnset.com
 domain:dnsrd.com
 domain:dnssec.net
 domain:dnvod.tv
-domain:docker.com
-domain:docker.io
 domain:docs.new
 domain:doctorvoice.org
 domain:documentingreality.com
@@ -1478,7 +1458,6 @@ domain:dotsub.com
 domain:dotvpn.com
 domain:doub.io
 domain:doubibackup.com
-domain:doubleclick.net
 domain:doublethinklab.org
 domain:doubmirror.cf
 domain:dougscripts.com
@@ -1584,7 +1563,6 @@ domain:ecimg.tw
 domain:ecministry.net
 domain:economist.com
 domain:ecsm.vs.com
-domain:ed2000k.com
 domain:edgecastcdn.net
 domain:edicypages.com
 domain:edmontonchina.cn
@@ -1629,8 +1607,6 @@ domain:englishfromengland.co.uk
 domain:englishpen.org
 domain:enlighten.org.tw
 domain:entermap.com
-domain:entrust.com
-domain:entrust.net
 domain:environment.google
 domain:epa.gov.tw
 domain:epac.to
@@ -1706,7 +1682,6 @@ domain:expecthim.com
 domain:expekt.com
 domain:experts-univers.com
 domain:exploader.net
-domain:express.co.uk
 domain:expressvpn.com
 domain:exrates.me
 domain:extmatrix.com
@@ -1893,7 +1868,6 @@ domain:fofg-europe.net
 domain:fofg.org
 domain:fofldfradio.org
 domain:fooooo.com
-domain:forefront.ai
 domain:foreignaffairs.com
 domain:foreignpolicy.com
 domain:forum.baby-kingdom.com
@@ -2095,7 +2069,6 @@ domain:genius.com
 domain:geocities.co.jp
 domain:geocities.com
 domain:geocities.jp
-domain:geotrust.com
 domain:geph.io
 domain:gerefoundation.org
 domain:get.app
@@ -2114,7 +2087,6 @@ domain:getjetso.com
 domain:getlantern.org
 domain:getmalus.com
 domain:getmdl.io
-domain:getmicrosoftkey.com
 domain:getoutline.org
 domain:getsocialscope.com
 domain:getsync.com
@@ -2128,12 +2100,10 @@ domain:gfsale.com
 domain:gfw.org.ua
 domain:gfw.press
 domain:gfw.report
-domain:gfx.ms
 domain:ggpht.com
 domain:ggssl.com
 domain:ghidra-sre.org
 domain:ghostpath.com
-domain:ghproxy.com
 domain:ghut.org
 domain:giantessnight.com
 domain:gifree.com
@@ -2156,8 +2126,6 @@ domain:globaljihad.net
 domain:globalmediaoutreach.com
 domain:globalmuseumoncommunism.org
 domain:globalrescue.net
-domain:globalsign.com
-domain:globalsign.net
 domain:globaltm.org
 domain:globalvoices.org
 domain:globalvoicesonline.org
@@ -2412,7 +2380,6 @@ domain:google.tt
 domain:google.vg
 domain:google.vu
 domain:google.ws
-domain:googleapis-cn.com
 domain:googleapis.cn
 domain:googleapis.com
 domain:googleapps.com
@@ -2608,7 +2575,6 @@ domain:hihistory.net
 domain:hiitch.com
 domain:hikinggfw.org
 domain:hilive.tv
-domain:himalaya.exchange
 domain:himalayan-foundation.org
 domain:himalayanglacier.com
 domain:himemix.com
@@ -3108,7 +3074,6 @@ domain:justdied.com
 domain:justfreevpn.com
 domain:justhost.ru
 domain:justicefortenzin.org
-domain:justmysocks.net
 domain:justmysocks1.net
 domain:justpaste.it
 domain:justtristan.com
@@ -3148,7 +3113,6 @@ domain:kebrum.com
 domain:kechara.com
 domain:keepandshare.com
 domain:keezmovies.com
-domain:kemono.party
 domain:kendatire.com
 domain:kendincos.net
 domain:kenengba.com
@@ -3266,7 +3230,6 @@ domain:lers.google
 domain:lesoir.be
 domain:letou.com
 domain:letscorp.net
-domain:letsencrypt.org
 domain:lflink.com
 domain:lflinkup.com
 domain:lflinkup.net
@@ -3320,8 +3283,6 @@ domain:liuhanyu.com
 domain:liujianshu.com
 domain:liuxiaobo.net
 domain:liuxiaotong.com
-domain:live.com
-domain:live.net
 domain:livecoin.net
 domain:livedoor.jp
 domain:liveleak.com
@@ -3377,7 +3338,6 @@ domain:lvhai.org
 domain:lvv2.com
 domain:ly.gov.tw
 domain:lyfhk.net
-domain:lync.com
 domain:lzjscript.com
 domain:lzmtnews.org
 domain:m-team.cc
@@ -3448,7 +3408,6 @@ domain:matters.town
 domain:matthewdgreen.wordpress.com
 domain:mattwilcox.net
 domain:maturejp.com
-domain:maxcdn.com
 domain:maxing.jp
 domain:mayimayi.com
 domain:mcadforums.com
@@ -3513,14 +3472,6 @@ domain:mgstage.com
 domain:mh4u.org
 domain:mhradio.org
 domain:michaelmarketl.com
-domain:microsoft
-domain:microsoft.com
-domain:microsoft365.com
-domain:microsoftazuread-sso.com
-domain:microsoftonline-p.com
-domain:microsoftonline.com
-domain:microsoftstream.com
-domain:microsoftusercontent.com
 domain:microvpn.com
 domain:middle-way.net
 domain:mihk.hk
@@ -3638,20 +3589,9 @@ domain:mrbonus.com
 domain:mrface.com
 domain:mrslove.com
 domain:mrtweet.com
-domain:ms
 domain:msa-it.org
-domain:msauth.net
-domain:msauthimages.net
-domain:msecnd.net
-domain:msft.net
-domain:msftauth.net
-domain:msftauthimages.net
-domain:msftidentity.com
 domain:msguancha.com
 domain:msha.gov
-domain:msidentity.com
-domain:msn.com
-domain:msocdn.com
 domain:mswe1.org
 domain:mthruf.com
 domain:mtw.tl
@@ -3976,15 +3916,9 @@ domain:ocsp.int-x3.letsencrypt.org
 domain:october-review.org
 domain:oculus.com
 domain:oculuscdn.com
-domain:odycdn.com
 domain:odysee.com
-domain:odysee.tv
 domain:oex.com
 domain:offbeatchina.com
-domain:office.com
-domain:office.net
-domain:office365.com
-domain:officeapps.live.com
 domain:officeoftibet.com
 domain:ofile.org
 domain:ogaoga.org
@@ -4008,19 +3942,15 @@ domain:olympicwatch.org
 domain:omct.org
 domain:omgili.com
 domain:omni7.jp
-domain:omniroot.com
 domain:omnitalk.com
 domain:omnitalk.org
 domain:omny.fm
 domain:on.cc
 domain:on2.com
 domain:onapp.com
-domain:onedrive.com
 domain:onedrive.live.com
 domain:onedumb.com
 domain:onejav.com
-domain:onenote.com
-domain:onenote.net
 domain:onion.city
 domain:onion.ly
 domain:online.recoveryversion.org
@@ -4028,7 +3958,6 @@ domain:onlinecha.com
 domain:onlineyoutube.com
 domain:onlygayvideo.com
 domain:onlytweets.com
-domain:onmicrosoft.com
 domain:onmoon.com
 domain:onmoon.net
 domain:onmypc.biz
@@ -4080,8 +4009,6 @@ domain:oursogo.com
 domain:oursteps.com.au
 domain:oursweb.net
 domain:ourtv.hk
-domain:outlook.com
-domain:outlookmobile.com
 domain:overcast.fm
 domain:overdaily.org
 domain:overplay.net
@@ -4185,7 +4112,6 @@ domain:phayul.com
 domain:philborges.com
 domain:phmsociety.org
 domain:phncdn.com
-domain:phonefactor.net
 domain:phosphation13.rssing.com
 domain:photodharma.net
 domain:photofocus.com
@@ -4255,7 +4181,6 @@ domain:podbean.com
 domain:podcast.co
 domain:podictionary.com
 domain:poe.com
-domain:poecdn.net
 domain:pokerstars.com
 domain:pokerstars.net
 domain:politicalchina.org
@@ -4305,8 +4230,6 @@ domain:potvpn.com
 domain:pourquoi.tw
 domain:power.com
 domain:powerapple.com
-domain:powerapps.com
-domain:powerautomate.com
 domain:powercx.com
 domain:powerphoto.org
 domain:ppy.sh
@@ -4360,7 +4283,6 @@ domain:pts.org.tw
 domain:ptt.cc
 domain:pttgame.com
 domain:pttvan.org
-domain:public-trust.com
 domain:pubu.com.tw
 domain:puffinbrowser.com
 domain:puffstore.com
@@ -4682,7 +4604,6 @@ domain:sfileydy.com
 domain:sfshibao.com
 domain:sftindia.org
 domain:sftuk.org
-domain:sfx.ms
 domain:shadeyouvpn.com
 domain:shadow.ma
 domain:shadowsky.xyz
@@ -4704,8 +4625,6 @@ domain:share.ovi.com
 domain:share.youthwant.com.tw
 domain:sharebee.com
 domain:sharecool.org
-domain:sharepoint.com
-domain:sharepointonline.com
 domain:sharpdaily.com.hk
 domain:sharpdaily.hk
 domain:sharpdaily.tw
@@ -4758,8 +4677,6 @@ domain:simpleswap.io
 domain:sinchew.com.my
 domain:singaporepools.com.sg
 domain:singfortibet.com
-domain:singlelogin.me
-domain:singlelogin.re
 domain:singpao.com.hk
 domain:singtao.com
 domain:singtaousa.com
@@ -4790,8 +4707,6 @@ domain:sketchappsources.com
 domain:skimtube.com
 domain:skybet.com
 domain:skyking.com.tw
-domain:skype.com
-domain:skypeassets.com
 domain:skyvegas.com
 domain:skyxvpn.com
 domain:slacker.com
@@ -5018,20 +4933,14 @@ domain:surfshark.com
 domain:suroot.com
 domain:surrenderat20.net
 domain:sustainability.google
-domain:svc.ms
 domain:svsfx.com
 domain:swagbucks.com
-domain:sway-cdn.com
-domain:sway-extensions.com
-domain:sway.com
 domain:swissinfo.ch
 domain:swissvpn.net
 domain:switch1.jp
 domain:switchvpn.net
 domain:sydneytoday.com
 domain:sylfoundation.org
-domain:symcb.com
-domain:symcd.com
 domain:syncback.com
 domain:synergyse.com
 domain:sysresccd.org
@@ -5395,7 +5304,6 @@ domain:tparents.org
 domain:tpi.org.tw
 domain:tracfone.com
 domain:tradingview.com
-domain:trafficmanager.net
 domain:trans.wenweipo.com
 domain:translate.goog
 domain:transparency.org
@@ -5729,8 +5637,6 @@ domain:venetianmacao.com
 domain:ventureswell.com
 domain:veoh.com
 domain:vercel.app
-domain:verisign.com
-domain:verisign.net
 domain:vermonttibet.org
 domain:versavpn.com
 domain:verybs.com
@@ -5766,7 +5672,6 @@ domain:vinniev.com
 domain:vip-enterprise.com
 domain:virtualrealporn.com
 domain:visibletweets.com
-domain:visualstudio.com
 domain:vital247.org
 domain:viu.com
 domain:viu.tv
@@ -5857,7 +5762,6 @@ domain:vrsmash.com
 domain:vtunnel.com
 domain:vuku.cc
 domain:vultryhw.com
-domain:vyprvpn.com
 domain:w.idaiwan.com
 domain:waffle1999.com
 domain:wahas.com
@@ -5945,7 +5849,6 @@ domain:westkit.net
 domain:westpoint.edu
 domain:wetplace.com
 domain:wetpussygames.com
-domain:wevpn.com
 domain:wexiaobo.org
 domain:wezhiyong.org
 domain:wezone.net
@@ -5999,10 +5902,6 @@ domain:wiktionary.org
 domain:wildammo.com
 domain:williamhill.com
 domain:willw.net
-domain:windows-ppe.net
-domain:windows.com
-domain:windows.net
-domain:windowsazure.com
 domain:windowsphoneme.com
 domain:windscribe.com
 domain:wingamestore.com
@@ -6228,8 +6127,6 @@ domain:yahoo.com.hk
 domain:yakbutterblues.com
 domain:yam.com
 domain:yam.org.tw
-domain:yammer.com
-domain:yammerusercontent.com
 domain:yande.re
 domain:yanghengjun.com
 domain:yangjianli.com
