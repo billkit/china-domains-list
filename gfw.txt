@@ -1166,6 +1166,7 @@ domain:cochina.org
 domain:code1984.com
 domain:codeshare.io
 domain:codeskulptor.org
+domain:cofacts.tw
 domain:coin2co.in
 domain:coinbase.com
 domain:coinbene.com
@@ -2451,6 +2452,7 @@ domain:greenreadings.com
 domain:greenvpn.net
 domain:greenvpn.org
 domain:grindr.com
+domain:grok.com
 domain:grotty-monday.com
 domain:ground.news
 domain:groups.google.cn
