@@ -109,6 +109,7 @@ boswp.com
 botframework.com
 brazilpartneruniversity.com
 breakdown.me
+c-msedge.net
 callersbane.com
 cegid-cloud.cn
 centralvalidation.com
@@ -273,6 +274,7 @@ iotinactionevents.com
 jwt.ms
 kidgrid.tv
 kumo.com
+l-msedge.net
 latampartneruniversity.com
 live.com
 live.com.au
@@ -358,6 +360,7 @@ microsoftcommunitytraining.com
 microsoftdiplomados.com
 microsofteca.com
 microsoftedge.com
+microsoftedgeinsider.com
 microsoftgamestack.com
 microsofthouse.com
 microsofthouse.net
@@ -405,6 +408,7 @@ microsoftsiteselection.com
 microsoftsqlserver.com
 microsoftstart.com
 microsoftstore.com
+microsoftstore.com.cn
 microsoftstore.com.hk
 microsoftstream.com
 microsoftteams.com
@@ -440,7 +444,9 @@ msftauth.cn
 msftauth.net
 msftauthimages.cn
 msftcloudes.cn
+msftconnecttest.com
 msfteducation.ca
+msftncsi.com
 msftnet.org
 msgamesresearch.com
 msidentity.cn
@@ -464,6 +470,7 @@ msudalosti.com
 msunlimitedcloudsummit.com
 mymicrosoft.com
 myoctocat.com
+nelreports.net
 nextechafrica.net
 npm.community
 npmjs.com
@@ -484,6 +491,7 @@ office365.cn
 office365.com
 office365love.com
 office365tw.com
+officeplus.cn
 officewebapps.cn
 onedrive.co
 onedrive.co.uk
@@ -546,6 +554,7 @@ skype.net
 skypeassets.com
 skypeassets.net
 skypedata.akadns.net
+spo-msedge.net
 sprinklesapp.com
 sqlserveronlinux.com
 staffhub.ms
@@ -556,6 +565,7 @@ svc.ms
 sway-cdn.com
 sway.com
 sysinternals.com
+t-msedge.net
 tailwindtraders.com
 techhub.ms
 tellmewhygame.com
