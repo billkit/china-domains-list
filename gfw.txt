@@ -6028,6 +6028,7 @@ domain:wzyboy.im
 domain:x-art.com
 domain:x-berry.com
 domain:x-wall.org
+domain:x.ai
 domain:x.co
 domain:x.com
 domain:x.company
