@@ -47,6 +47,7 @@ domain:2008xianzhang.info
 domain:2017.hk
 domain:2021hkcharter.com
 domain:2047.name
+domain:2049bbs.xyz
 domain:21andy.com
 domain:21sextury.com
 domain:228.net.tw
@@ -94,6 +95,7 @@ domain:5aimiku.com
 domain:5i01.com
 domain:5isotoi5.org
 domain:5maodang.com
+domain:611study.com
 domain:611study.icu
 domain:63i.com
 domain:64museum.org
@@ -101,6 +103,8 @@ domain:64tianwang.com
 domain:64wiki.com
 domain:66.ca
 domain:666kb.com
+domain:666pool.cn
+domain:69shuba.cx
 domain:6do.news
 domain:6do.world
 domain:6park.com
@@ -220,6 +224,7 @@ domain:akademiye.org
 domain:akamaihd.net
 domain:akiba-online.com
 domain:akiba-web.com
+domain:akinator.com
 domain:akow.org
 domain:al-islam.com
 domain:al-qimmah.net
@@ -233,6 +238,7 @@ domain:alhayat.com
 domain:alicejapan.co.jp
 domain:aliengu.com
 domain:alive.bar
+domain:aljazeera.com
 domain:alkasir.com
 domain:all4mom.org
 domain:allcoin.com
@@ -260,7 +266,6 @@ domain:alwaysdata.net
 domain:alwaysvpn.com
 domain:am730.com.hk
 domain:amazon.co.jp
-domain:amazon.com
 domain:ameblo.jp
 domain:americangreencard.com
 domain:americanunfinished.com
@@ -309,6 +314,7 @@ domain:anthropic.com
 domain:anti1984.com
 domain:antichristendom.com
 domain:antiwave.net
+domain:antpool.com
 domain:anyporn.com
 domain:anysex.com
 domain:ao3.org
@@ -328,6 +334,7 @@ domain:api.ai
 domain:api.linksalpha.com
 domain:api.pureapk.com
 domain:api.recaptcha.net
+domain:api.steampowered.com
 domain:apiary.io
 domain:apidocs.linksalpha.com
 domain:apigee.com
@@ -366,6 +373,7 @@ domain:archive.md
 domain:archive.org
 domain:archive.ph
 domain:archive.today
+domain:archive.vn
 domain:archiveofourown.com
 domain:archiveofourown.org
 domain:archives.gov
@@ -405,7 +413,6 @@ domain:assimp.org
 domain:astrill.com
 domain:atc.org.au
 domain:atchinese.com
-domain:atdmt.com
 domain:atgfw.org
 domain:athenaeizou.com
 domain:atlanta168.com
@@ -530,6 +537,8 @@ domain:bdsmvideos.net
 domain:beaconevents.com
 domain:bebo.com
 domain:beeg.com
+domain:beepool.com
+domain:beepool.org
 domain:beevpn.com
 domain:behance.net
 domain:behindkink.com
@@ -554,6 +563,7 @@ domain:bestvpnserver.com
 domain:bestvpnservice.com
 domain:bestvpnusa.com
 domain:bet365.com
+domain:betaclouds.net
 domain:betfair.com
 domain:betternet.co
 domain:bettervpn.com
@@ -563,6 +573,7 @@ domain:bewww.net
 domain:beyondfirewall.com
 domain:bfnn.org
 domain:bfsh.hk
+domain:bgme.me
 domain:bgvpn.com
 domain:bianlei.com
 domain:biantailajiao.com
@@ -582,6 +593,7 @@ domain:bild.de
 domain:biliworld.com
 domain:billypan.com
 domain:binance.com
+domain:binancezh.cc
 domain:binux.me
 domain:bird.so
 domain:bit-z.com
@@ -617,6 +629,7 @@ domain:blockcast.it
 domain:blockcn.com
 domain:blockedbyhk.com
 domain:blockless.com
+domain:blocktempo.com
 domain:blog.calibre-ebook.com
 domain:blog.cnyes.com
 domain:blog.cryptographyengineering.com
@@ -655,6 +668,7 @@ domain:blogcity.me
 domain:blogdns.org
 domain:blogger.com
 domain:blogimg.jp
+domain:blogjav.net
 domain:bloglines.com
 domain:bloglovin.com
 domain:blogs.libraryinformationtechnology.com
@@ -799,7 +813,11 @@ domain:bsky.network
 domain:bsky.social
 domain:bt95.com
 domain:btaia.com
+domain:btbit.net
 domain:btbtav.com
+domain:btbtt.co
+domain:btbtt.me
+domain:btc.com
 domain:btc98.com
 domain:btcbank.bank
 domain:btctrade.im
@@ -847,6 +865,7 @@ domain:c-spanvideo.org
 domain:c.mi.com
 domain:c100tibet.org
 domain:c2cx.com
+domain:c3pool.com
 domain:cableav.tv
 domain:cablegatesearch.net
 domain:cachinese.com
@@ -865,6 +884,7 @@ domain:cam4.com
 domain:cam4.jp
 domain:cam4.sg
 domain:camfrog.com
+domain:campaign-archive.com
 domain:campaignforuyghurs.org
 domain:cams.com
 domain:cams.org.sg
@@ -892,6 +912,7 @@ domain:casinobellini.com
 domain:casinoking.com
 domain:casinoriva.com
 domain:castbox.fm
+domain:catbox.moe
 domain:catch22.net
 domain:catchgod.com
 domain:catfightpayperview.xxx
@@ -935,6 +956,7 @@ domain:cdn.jwplayer.com
 domain:cdn.printfriendly.com
 domain:cdn.seatguru.com
 domain:cdn.softlayer.net
+domain:cdn.statically.io
 domain:cdn1.lp.saboom.com
 domain:cdnews.com.tw
 domain:cdninstagram.com
@@ -977,6 +999,7 @@ domain:chaos.social
 domain:chapm25.com
 domain:character.ai
 domain:chat.lmsys.org
+domain:chat.openai.com
 domain:chatgpt.com
 domain:chatnook.com
 domain:chaturbate.com
@@ -1042,6 +1065,7 @@ domain:chinasucks.net
 domain:chinatopsex.com
 domain:chinatown.com.au
 domain:chinatweeps.com
+domain:chinauncensored.tv
 domain:chinaview.wordpress.com
 domain:chinaway.org
 domain:chinaworker.info
@@ -1109,6 +1133,7 @@ domain:civilhrfront.org
 domain:civiliangunner.com
 domain:civilmedia.tw
 domain:civitai.com
+domain:cixiaoya.club
 domain:ck101.com
 domain:cl.d0z.net
 domain:clarionproject.org
@@ -1131,6 +1156,7 @@ domain:cloakpoint.com
 domain:cloud.dify.ai
 domain:cloud.mail.ru
 domain:cloudflare-ipfs.com
+domain:cloudfront.net
 domain:cloudfunctions.net
 domain:club1069.com
 domain:clubhouseapi.com
@@ -1230,6 +1256,7 @@ domain:coze.com
 domain:cpj.org
 domain:cq99.us
 domain:crackle.com
+domain:crazypool.org
 domain:crazys.cc
 domain:crazyshit.com
 domain:crbug.com
@@ -1244,10 +1271,12 @@ domain:crocotube.com
 domain:crossfire.co.kr
 domain:crossthewall.net
 domain:crossvpn.net
+domain:crosswall.org
 domain:croxyproxy.com
 domain:crrev.com
 domain:crucial.com
 domain:crunchyroll.com
+domain:cruxpool.com
 domain:csdparty.com
 domain:csis.org
 domain:csmonitor.com
@@ -1276,13 +1305,10 @@ domain:cyberghostvpn.com
 domain:cynscribe.com
 domain:cytode.us
 domain:d-fukyu.com
+domain:d.cash
 domain:d100.net
-domain:d1b183sg0nvnuh.cloudfront.net
-domain:d1c37gjwa26taa.cloudfront.net
 domain:d2bay.com
 domain:d2pass.com
-domain:d3c33hcgiwev3.cloudfront.net
-domain:d3rhr7kgmtrq1v.cloudfront.net
 domain:dabr.co.uk
 domain:dabr.eu
 domain:dabr.me
@@ -1348,6 +1374,7 @@ domain:dbgjd.com
 domain:dcard.tw
 domain:dcmilitary.com
 domain:ddc.com.tw
+domain:ddex.io
 domain:ddhw.info
 domain:ddns.info
 domain:ddns.me.uk
@@ -1362,6 +1389,7 @@ domain:deadline.com
 domain:deaftone.com
 domain:debug.com
 domain:deck.ly
+domain:deck.new
 domain:decodet.co
 domain:deepai.org
 domain:deepmind.com
@@ -1447,6 +1475,7 @@ domain:dnset.com
 domain:dnsrd.com
 domain:dnssec.net
 domain:dnvod.tv
+domain:doc.new
 domain:docker.com
 domain:docker.io
 domain:docs.new
@@ -1474,8 +1503,10 @@ domain:dotsub.com
 domain:dotvpn.com
 domain:doub.io
 domain:doubibackup.com
+domain:doubiyunbackup.com
 domain:doublethinklab.org
 domain:doubmirror.cf
+domain:douchi.space
 domain:dougscripts.com
 domain:douhokanko.net
 domain:doujincafe.com
@@ -1483,6 +1514,7 @@ domain:dowei.org
 domain:download.aircrack-ng.org
 domain:download.cnet.com
 domain:dphk.org
+domain:dpool.top
 domain:dpp.org.tw
 domain:dpr.info
 domain:dragonex.io
@@ -1587,6 +1619,7 @@ domain:edns.biz
 domain:edoors.com
 domain:edubridge.com
 domain:edupro.org
+domain:edx-cdn.org
 domain:eeas.europa.eu
 domain:eesti.ee
 domain:eevpn.com
@@ -1634,6 +1667,7 @@ domain:epochtimes-romania.com
 domain:epochtimes.co.il
 domain:epochtimes.co.kr
 domain:epochtimes.com
+domain:epochtimes.com.tw
 domain:epochtimes.cz
 domain:epochtimes.de
 domain:epochtimes.fr
@@ -1672,6 +1706,7 @@ domain:etadult.com
 domain:etaiwannews.com
 domain:etherdelta.com
 domain:ethermine.org
+domain:etherscan.com
 domain:etherscan.io
 domain:etizer.org
 domain:etokki.com
@@ -1686,6 +1721,7 @@ domain:eulam.com
 domain:eurekavpt.com
 domain:euronews.com
 domain:evchk.wikia.com
+domain:everipedia.org
 domain:evschool.net
 domain:exam.gov.tw
 domain:exblog.jp
@@ -1863,6 +1899,7 @@ domain:flagsonline.it
 domain:flecheinthepeche.fr
 domain:fleshbot.com
 domain:fleursdeslettres.com
+domain:flexpool.io
 domain:flgg.us
 domain:flgjustice.org
 domain:flickr.com
@@ -1875,6 +1912,7 @@ domain:flitto.com
 domain:flnet.org
 domain:flog.tw
 domain:flowhongkong.net
+domain:flypool.org
 domain:flyvpn.com
 domain:flyzy2005.com
 domain:fnac.be
@@ -1889,6 +1927,8 @@ domain:fofldfradio.org
 domain:fooooo.com
 domain:foreignaffairs.com
 domain:foreignpolicy.com
+domain:form.new
+domain:forms.new
 domain:forum.baby-kingdom.com
 domain:forum.cyberctm.com
 domain:forum.idsam.com
@@ -1962,11 +2002,13 @@ domain:freenetproject.org
 domain:freenewscn.com
 domain:freeopenvpn.com
 domain:freeoz.org
+domain:freess.org
 domain:freessh.us
 domain:freetcp.com
 domain:freetibet.net
 domain:freetibet.org
 domain:freetibetanheroes.org
+domain:freetls.fastly.net
 domain:freetribe.me
 domain:freeviewmovies.com
 domain:freevpn.me
@@ -1984,6 +2026,7 @@ domain:freezhihu.org
 domain:friendfeed.com
 domain:friends-of-tibet.org
 domain:friendsoftibet.org
+domain:fril.jp
 domain:fring.com
 domain:fringenetwork.com
 domain:from-pr.com
@@ -2002,6 +2045,7 @@ domain:ftv.com.tw
 domain:ftvnews.com.tw
 domain:ftx.com
 domain:fucd.com
+domain:fuchsia.dev
 domain:fuckcnnic.net
 domain:fuckgfw.org
 domain:fulione.com
@@ -2114,7 +2158,6 @@ domain:getsocialscope.com
 domain:getsync.com
 domain:gettr.com
 domain:gettrials.com
-domain:gettyimages.com
 domain:getuploader.com
 domain:gfbv.de
 domain:gfgold.com.hk
@@ -2122,6 +2165,7 @@ domain:gfsale.com
 domain:gfw.org.ua
 domain:gfw.press
 domain:gfw.report
+domain:gfwatch.org
 domain:ggpht.com
 domain:ggssl.com
 domain:ghidra-sre.org
@@ -2137,6 +2181,7 @@ domain:gitbook.io
 domain:github.blog
 domain:github.com
 domain:github.io
+domain:githubassets.com
 domain:githubcopilot.com
 domain:githubusercontent.com
 domain:gizlen.net
@@ -2144,6 +2189,7 @@ domain:gjczz.com
 domain:glarity.app
 domain:glass8.eu
 domain:global.bing.com
+domain:global.ssl.fastly.net
 domain:globaljihad.net
 domain:globalmediaoutreach.com
 domain:globalmuseumoncommunism.org
@@ -2169,6 +2215,7 @@ domain:go-pki.com
 domain:go-to-zlibrary.se
 domain:go.nesnode.com
 domain:go141.com
+domain:go5.dev
 domain:goagent.biz
 domain:goagent.codeplex.com
 domain:goagentplus.com
@@ -2403,7 +2450,6 @@ domain:google.tt
 domain:google.vg
 domain:google.vu
 domain:google.ws
-domain:googleapis.cn
 domain:googleapis.com
 domain:googleapps.com
 domain:googlearth.com
@@ -2528,6 +2574,7 @@ domain:hahlo.com
 domain:haijiao.com
 domain:haiwaikan.com
 domain:hakkatv.org.tw
+domain:halktv.com.tr
 domain:handcraftedsoftware.org
 domain:hanime.tv
 domain:hanunyi.com
@@ -2606,6 +2653,7 @@ domain:himemix.com
 domain:himemix.net
 domain:hitbtc.com
 domain:hitomi.la
+domain:hiveon.net
 domain:hiwifi.com
 domain:hizb-ut-tahrir.info
 domain:hizb-ut-tahrir.org
@@ -2778,6 +2826,7 @@ domain:huobi.com
 domain:huobi.me
 domain:huobi.pro
 domain:huobi.sc
+domain:huobipool.com
 domain:huobipro.com
 domain:huping.net
 domain:hurgokbayrak.com
@@ -2839,6 +2888,7 @@ domain:ifan.cz.cc
 domain:ifanqiang.com
 domain:ifcss.org
 domain:ifjc.org
+domain:ifreechina.wordpress.com
 domain:ifreewares.com
 domain:ift.tt
 domain:igcd.net
@@ -2882,11 +2932,13 @@ domain:imgchili.net
 domain:imgmega.com
 domain:imgur.com
 domain:imkev.com
+domain:imlive.co
 domain:imlive.com
 domain:immigration.gov.tw
 domain:immoral.jp
 domain:impact.org.au
 domain:impp.mn
+domain:improd.works
 domain:in-disguise.com
 domain:in99.org
 domain:incapdns.net
@@ -2921,6 +2973,7 @@ domain:internetfreedom.org
 domain:internetpopculture.com
 domain:inthenameofconfuciusmovie.com
 domain:investigating.wordpress.com
+domain:invidio.us
 domain:inxian.com
 domain:iownyour.biz
 domain:iownyour.org
@@ -3013,6 +3066,7 @@ domain:japanhdv.com
 domain:japantimes.co.jp
 domain:jav.com
 domain:jav101.com
+domain:jav321.com
 domain:jav68.tv
 domain:javakiba.org
 domain:javbus.com
@@ -3098,7 +3152,9 @@ domain:justdied.com
 domain:justfreevpn.com
 domain:justhost.ru
 domain:justicefortenzin.org
+domain:justmysocks.net
 domain:justmysocks1.net
+domain:justmysockscn.com
 domain:justpaste.it
 domain:justtristan.com
 domain:juyuange.org
@@ -3117,6 +3173,7 @@ domain:kagyuoffice.org.tw
 domain:kaiyuan.de
 domain:kakao.com
 domain:kalachakralugano.org
+domain:kanald.com.tr
 domain:kankan.today
 domain:kannewyork.com
 domain:kanshifang.com
@@ -3155,6 +3212,7 @@ domain:kindleren.com
 domain:kineox.free.fr
 domain:kingdomsalvation.org
 domain:kinghost.com
+domain:kingkong.com.tw
 domain:kingstone.com.tw
 domain:kink.com
 domain:kinmen.org.tw
@@ -3303,6 +3361,7 @@ domain:listennotes.com
 domain:listentoyoutube.com
 domain:listorious.com
 domain:lists.w3.org
+domain:litenews.hk
 domain:liu-xiaobo.org
 domain:liudejun.com
 domain:liuhanyu.com
@@ -3369,6 +3428,7 @@ domain:lzmtnews.org
 domain:m-team.cc
 domain:m.hkgalden.com
 domain:m.me
+domain:m.moegirl.org
 domain:m.plixi.com
 domain:m.slandr.net
 domain:ma.hao123.com
@@ -3422,6 +3482,7 @@ domain:mash.to
 domain:maskedip.com
 domain:mastodon.cloud
 domain:mastodon.host
+domain:mastodon.online
 domain:mastodon.social
 domain:mastodon.xyz
 domain:matainja.com
@@ -3445,6 +3506,7 @@ domain:mcfog.com
 domain:mcreasite.com
 domain:md-t.org
 domain:me.me
+domain:me.ns.ci
 domain:me.youthwant.com.tw
 domain:meansys.com
 domain:media.nu.nl
@@ -3473,9 +3535,12 @@ domain:memehk.com
 domain:memes.tw
 domain:memri.org
 domain:memrijttm.org
+domain:mercari.com
+domain:mercari.jp
 domain:mercatox.com
 domain:mercdn.net
 domain:mercyprophet.org
+domain:mergersandinquisitions.com
 domain:mergersandinquisitions.org
 domain:meridian-trust.org
 domain:meripet.biz
@@ -3536,12 +3601,14 @@ domain:mingpaovan.com
 domain:mingshengbao.com
 domain:minhhue.net
 domain:miniforum.org
+domain:miningpoolhub.com
 domain:ministrybooks.org
 domain:minzhuhua.net
 domain:minzhuzhanxian.com
 domain:minzhuzhongguo.org
 domain:miraheze.org
 domain:miroguide.com
+domain:mirror.xyz
 domain:mirrorbooks.com
 domain:mirrormedia.mg
 domain:missav.com
@@ -3600,6 +3667,7 @@ domain:moon.fm
 domain:moonbbs.com
 domain:moonbingo.com
 domain:moptt.tw
+domain:moresci.sale
 domain:morningsun.org
 domain:moroneta.com
 domain:mos.ru
@@ -3623,6 +3691,7 @@ domain:mrtweet.com
 domain:msa-it.org
 domain:msguancha.com
 domain:msha.gov
+domain:mstdn.social
 domain:mswe1.org
 domain:mthruf.com
 domain:mtw.tl
@@ -3635,6 +3704,7 @@ domain:multiupload.com
 domain:mummysgold.com
 domain:murmur.tw
 domain:musicade.net
+domain:musixmatch.com
 domain:muslimvideo.com
 domain:muzi.com
 domain:muzi.net
@@ -3676,6 +3746,7 @@ domain:myfreshnet.com
 domain:myftp.info
 domain:myftp.name
 domain:myiphide.com
+domain:myjs.tw
 domain:mykomica.org
 domain:mylftv.com
 domain:mymediarom.com
@@ -3714,6 +3785,7 @@ domain:nalandawest.org
 domain:namgyal.org
 domain:namgyalmonastery.org
 domain:namsisi.com
+domain:nanopool.org
 domain:nanyang.com
 domain:nanyangpost.com
 domain:nanzao.com
@@ -3733,6 +3805,7 @@ domain:navyreserve.navy.mil
 domain:naweeklytimes.com
 domain:nbcnews.com
 domain:nbtvpn.com
+domain:nbyy.tv
 domain:nccwatch.org.tw
 domain:nch.com.tw
 domain:nchrd.org
@@ -3828,6 +3901,7 @@ domain:nic.google
 domain:nic.gov
 domain:nicovideo.jp
 domain:nighost.org
+domain:nightswatch.top
 domain:nikkei.com
 domain:ninecommentaries.com
 domain:ninjacloak.com
@@ -3934,6 +4008,7 @@ domain:nytimg.com
 domain:nytstyle.com
 domain:nzchinese.com
 domain:nzchinese.net.nz
+domain:o3o.ca
 domain:oanda.com
 domain:oann.com
 domain:observechina.net
@@ -3963,11 +4038,13 @@ domain:ok.ru
 domain:okayfreedom.com
 domain:okex.com
 domain:okk.tw
+domain:okpool.me
 domain:okx.com
 domain:old-cat.net
 domain:old.honeynet.org
 domain:old.nabble.com
 domain:olehdtv.com
+domain:olelive.com
 domain:olevod.com
 domain:olumpo.com
 domain:olympicwatch.org
@@ -3980,9 +4057,11 @@ domain:omny.fm
 domain:on.cc
 domain:on2.com
 domain:onapp.com
+domain:onedrive.com
 domain:onedrive.live.com
 domain:onedumb.com
 domain:onejav.com
+domain:onevps.com
 domain:onion.city
 domain:onion.ly
 domain:online.recoveryversion.org
@@ -4002,7 +4081,7 @@ domain:ontrac.com
 domain:oopsforum.com
 domain:open.com.hk
 domain:open.firstory.me
-domain:openai.com
+domain:open.spotify.com
 domain:openallweb.com
 domain:opendemocracy.net
 domain:opendn.xyz
@@ -4071,6 +4150,7 @@ domain:paldengyal.com
 domain:paljorpublications.com
 domain:paltalk.com
 domain:panamapapers.sueddeutsche.de
+domain:pandafan.pub
 domain:pandapow.co
 domain:pandapow.net
 domain:pandavpn-jp.com
@@ -4100,6 +4180,7 @@ domain:patreon.com
 domain:patreonusercontent.com
 domain:pawoo.net
 domain:paxful.com
+domain:payments-jp.amazon.com
 domain:pbs.org
 domain:pbwiki.com
 domain:pbworks.com
@@ -4168,18 +4249,6 @@ domain:ping.fm
 domain:pinimg.com
 domain:pinkrod.com
 domain:pinoy-n.com
-domain:pinterest.at
-domain:pinterest.ca
-domain:pinterest.co.kr
-domain:pinterest.co.uk
-domain:pinterest.com
-domain:pinterest.com.mx
-domain:pinterest.de
-domain:pinterest.dk
-domain:pinterest.fr
-domain:pinterest.jp
-domain:pinterest.nl
-domain:pinterest.se
 domain:pioneer-worker.forums-free.com
 domain:pipii.tv
 domain:piposay.com
@@ -4225,8 +4294,10 @@ domain:politicalchina.org
 domain:politicalconsultation.org
 domain:politiscales.net
 domain:poloniex.com
+domain:polymarket.com
 domain:polymer-project.org
 domain:polymerhk.com
+domain:poolbinance.com
 domain:poolin.com
 domain:popai.pro
 domain:popo.tw
@@ -4264,6 +4335,7 @@ domain:postadult.com
 domain:postimg.org
 domain:posts.careerengine.us
 domain:potato.im
+domain:potatso.com
 domain:potvpn.com
 domain:pourquoi.tw
 domain:power.com
@@ -4274,6 +4346,7 @@ domain:ppy.sh
 domain:prayforchina.net
 domain:premeforwindows7.com
 domain:premproxy.com
+domain:presentation.new
 domain:presentationzen.com
 domain:presidentlee.tw
 domain:prestige-av.com
@@ -4306,6 +4379,7 @@ domain:proxynetwork.org.uk
 domain:proxypy.net
 domain:proxyroad.com
 domain:proxytunnel.net
+domain:proxz.com
 domain:proyectoclubes.com
 domain:prozz.net
 domain:psblog.name
@@ -4355,6 +4429,7 @@ domain:qiandao.today
 domain:qianglie.com
 domain:qiangwaikan.com
 domain:qiangyou.org
+domain:qianmo.tw
 domain:qidian.ca
 domain:qienkuen.org
 domain:qiwen.lu
@@ -4380,7 +4455,9 @@ domain:qusi8.net
 domain:qvodzy.org
 domain:qxbbs.org
 domain:qz.com
+domain:r-pool.net
 domain:r0.ru
+domain:r10s.jp
 domain:r18.com
 domain:radicalparty.org
 domain:radiko.jp
@@ -4399,6 +4476,7 @@ domain:raidtalk.com.tw
 domain:rainbowplan.org
 domain:raindrop.io
 domain:raizoji.or.jp
+domain:rakuten.co.jp
 domain:ramcity.com.au
 domain:rangwang.biz
 domain:rangzen.net
@@ -4443,6 +4521,7 @@ domain:redd.it
 domain:reddit.com
 domain:redditlist.com
 domain:redditmedia.com
+domain:redditspace.com
 domain:redditstatic.com
 domain:redhotlabs.com
 domain:redtube.com
@@ -4534,7 +4613,7 @@ domain:s.yimg.com
 domain:s1.nudezz.com
 domain:s1heng.com
 domain:s1s1s1.com
-domain:s3-ap-northeast-1.amazonaws.com
+domain:s3-ap-*.amazonaws.com
 domain:s3-ap-southeast-1.amazonaws.com
 domain:s3-ap-southeast-2.amazonaws.com
 domain:s3.amazonaws.com
@@ -4600,6 +4679,7 @@ domain:secretsline.biz
 domain:secure.hustler.com
 domain:secure.logmein.com
 domain:secure.raxcdn.com
+domain:secure.shadowsocks.nu
 domain:secureservercdn.net
 domain:securetunnel.com
 domain:securityinabox.org
@@ -4656,8 +4736,8 @@ domain:shambalapost.com
 domain:shambhalasun.com
 domain:shangfang.org
 domain:shapeservices.com
+domain:share-videos.se
 domain:share.america.gov
-domain:share.dmhy.org
 domain:share.ovi.com
 domain:share.youthwant.com.tw
 domain:sharebee.com
@@ -4667,6 +4747,7 @@ domain:sharpdaily.hk
 domain:sharpdaily.tw
 domain:shat-tibet.com
 domain:shattered.io
+domain:sheet.new
 domain:sheets.new
 domain:sheikyermami.com
 domain:shellfire.de
@@ -4692,6 +4773,7 @@ domain:shooshtime.com
 domain:shop2000.com.tw
 domain:shopee.tw
 domain:shopping.com
+domain:shopping.yahoo.co.jp
 domain:showbiz.omy.sg
 domain:showhaotu.com
 domain:showtime.jp
@@ -4707,7 +4789,9 @@ domain:signal.org
 domain:sijihuisuo.club
 domain:sijihuisuo.com
 domain:silkbook.com
+domain:silvergatebank.com
 domain:simbolostwitter.com
+domain:simplecd.me
 domain:simplecd.org
 domain:simpleproductivityblog.com
 domain:simpleswap.io
@@ -4732,12 +4816,14 @@ domain:sipml5.org
 domain:sis.xxx
 domain:sis001.com
 domain:sis001.us
+domain:site.new
 domain:site2unblock.com
 domain:site90.net
 domain:sitebro.tw
 domain:sitekreator.com
 domain:siteks.uk.to
 domain:sitemaps.org
+domain:sites.new
 domain:six-degrees.io
 domain:sixth.biz
 domain:sjrt.org
@@ -4748,6 +4834,7 @@ domain:skyking.com.tw
 domain:skyvegas.com
 domain:skyxvpn.com
 domain:slacker.com
+domain:slashine.onl
 domain:slaytizle.com
 domain:sleazydream.com
 domain:sleazyfork.org
@@ -4770,7 +4857,6 @@ domain:smhric.org
 domain:smith.edu
 domain:smn.news
 domain:smyxy.org
-domain:snapchat.com
 domain:snapseed.com
 domain:snaptu.com
 domain:sndcdn.com
@@ -4778,6 +4864,8 @@ domain:sneakme.net
 domain:snowlionpub.com
 domain:sobees.com
 domain:soc.mil
+domain:social.datalabour.com
+domain:social.edu.ci
 domain:socialblade.com
 domain:socialwhale.com
 domain:socks-proxy.net
@@ -4828,6 +4916,7 @@ domain:soup.io
 domain:soupofmedia.com
 domain:sourceforge.net
 domain:sourcewadio.com
+domain:south-plus.net
 domain:south-plus.org
 domain:southmongolia.org
 domain:southnews.com.tw
@@ -4838,6 +4927,7 @@ domain:spaces.hightail.com
 domain:spankbang.com
 domain:spankingtube.com
 domain:spankwire.com
+domain:sparkpool.com
 domain:spatial.io
 domain:spb.com
 domain:speakerdeck.com
@@ -4849,10 +4939,11 @@ domain:spencertipping.com
 domain:spendee.com
 domain:spicevpn.com
 domain:spideroak.com
+domain:spiderpool.com
 domain:spike.com
 domain:sports.williamhill.com
 domain:spotflux.com
-domain:spotify.com
+domain:spreadsheet.new
 domain:spreadshirt.es
 domain:spreaker.com
 domain:spring4u.info
@@ -4879,6 +4970,8 @@ domain:sspanel.net
 domain:sspro.ml
 domain:ssr.tools
 domain:ssrshare.com
+domain:ssrshare.us
+domain:ssrtool.com
 domain:sss.camp
 domain:sstm.moe
 domain:sstmlt.moe
@@ -4902,6 +4995,7 @@ domain:statueofdemocracy.org
 domain:stboy.net
 domain:stc.com.sa
 domain:steamcommunity.com
+domain:steamstatic.com
 domain:steel-storm.com
 domain:steemit.com
 domain:steganos.com
@@ -4916,6 +5010,7 @@ domain:stitcher.com
 domain:sto.cc
 domain:stoporganharvesting.org
 domain:stoptibetcrisis.net
+domain:storage.yandex.net
 domain:storagenewsletter.com
 domain:store.steampowered.com
 domain:stories.google
@@ -4983,6 +5078,7 @@ domain:switchvpn.net
 domain:sydney.bing.com
 domain:sydneytoday.com
 domain:sylfoundation.org
+domain:synapse.org
 domain:syncback.com
 domain:synergyse.com
 domain:syosetu.com
@@ -5043,6 +5139,7 @@ domain:taoism.net
 domain:taolun.info
 domain:tapanwap.com
 domain:tapatalk.com
+domain:tardigrade.io
 domain:tarr.uspto.gov
 domain:tascn.com.au
 domain:taup.net
@@ -5102,6 +5199,7 @@ domain:tensorflow.org
 domain:tenzinpalmo.com
 domain:terabox.com
 domain:tew.org
+domain:textnow.com
 domain:textnow.me
 domain:tfc-taiwan.org.tw
 domain:tfhub.dev
@@ -5285,6 +5383,7 @@ domain:tintuc101.com
 domain:tiny.cc
 domain:tinychat.com
 domain:tinypaste.com
+domain:tinyurl.com
 domain:tipas.net
 domain:tipo.gov.tw
 domain:tistory.com
@@ -5305,6 +5404,8 @@ domain:tnp.org
 domain:to-porno.com
 domain:togetter.com
 domain:toh.info
+domain:token.im
+domain:tokenlon.im
 domain:tokyo-247.com
 domain:tokyo-hot.com
 domain:tokyo-porn-tube.com
@@ -5333,6 +5434,7 @@ domain:torcn.com
 domain:torguard.net
 domain:torlock.com
 domain:torproject.org
+domain:torrentgalaxy.to
 domain:torrentkitty.tv
 domain:torrentprivacy.com
 domain:torrentproject.se
@@ -5342,6 +5444,7 @@ domain:tortoisesvn.net
 domain:torvpn.com
 domain:tosh.comedycentral.com
 domain:totalvpn.com
+domain:tou.tv
 domain:toutiaoabc.com
 domain:towngain.com
 domain:toypark.in
@@ -5403,6 +5506,7 @@ domain:tumblr.com
 domain:tumutanzi.com
 domain:tumview.com
 domain:tunein.com
+domain:tunein.streamguys1.com
 domain:tunnelbear.com
 domain:tunnelblick.net
 domain:tunnelr.com
@@ -5429,7 +5533,6 @@ domain:tw-blog.com
 domain:tw-npo.org
 domain:tw.gigacircle.com
 domain:tw.hao123.com
-domain:tw.iqiyi.com
 domain:tw.jiepang.com
 domain:tw.streetvoice.com
 domain:tw.tomonews.net
@@ -5520,6 +5623,7 @@ domain:twitturly.com
 domain:twitvid.com
 domain:twitzap.com
 domain:twiyia.com
+domain:twkan.com
 domain:twnorth.org.tw
 domain:twreporter.org
 domain:twskype.com
@@ -5584,6 +5688,7 @@ domain:unirule.cloud
 domain:unitedsocialpress.com
 domain:unix100.com
 domain:unknownspace.org
+domain:unmineable.com
 domain:unodedos.com
 domain:unpo.org
 domain:unseen.is
@@ -5634,6 +5739,7 @@ domain:utopianpal.com
 domain:uu-gg.com
 domain:uujiasu.com
 domain:uukanshu.com
+domain:uupool.cn
 domain:uvwxyz.xyz
 domain:uwants.com
 domain:uwants.net
@@ -5651,6 +5757,7 @@ domain:uyghurtribunal.com
 domain:uygur.fc2web.com
 domain:uygur.org
 domain:uymaarip.com
+domain:v2.help
 domain:v2ex.com
 domain:v2fly.org
 domain:v2ray.com
@@ -5682,6 +5789,7 @@ domain:vern.cc
 domain:versavpn.com
 domain:verybs.com
 domain:vevo.com
+domain:vewas.net
 domain:vft.com.tw
 domain:viber.com
 domain:vica.info
@@ -5703,6 +5811,7 @@ domain:videopress.com
 domain:vidinfo.org
 domain:vietdaikynguyen.com
 domain:vijayatemple.org
+domain:vilanet.me
 domain:vilavpn.com
 domain:vimeo.com
 domain:vimperator.org
@@ -5738,6 +5847,7 @@ domain:voaindonesia.com
 domain:voanews.com
 domain:voatibetan.com
 domain:voatibetanenglish.com
+domain:vocaroo.com
 domain:vocativ.com
 domain:vocn.tv
 domain:vocus.cc
@@ -5802,6 +5912,7 @@ domain:vrsmash.com
 domain:vtunnel.com
 domain:vuku.cc
 domain:vultryhw.com
+domain:w-pool.com
 domain:w.idaiwan.com
 domain:waffle1999.com
 domain:wahas.com
@@ -5858,6 +5969,7 @@ domain:webrtc.org
 domain:webrush.net
 domain:webs-tv.net
 domain:website.informer.com
+domain:website.new
 domain:websitepulse.com
 domain:webwarper.net
 domain:webworkerdaily.com
@@ -5941,7 +6053,6 @@ domain:wikisource.org
 domain:wikiversity.org
 domain:wikivoyage.org
 domain:wikiwand.com
-domain:wikiwiki.jp
 domain:wiktionary.org
 domain:wildammo.com
 domain:williamhill.com
@@ -5982,6 +6093,7 @@ domain:woolyss.com
 domain:woopie.jp
 domain:woopie.tv
 domain:wordpress.com
+domain:work2icu.org
 domain:workatruna.com
 domain:workerdemo.org.hk
 domain:workerempowerment.org
@@ -6027,6 +6139,7 @@ domain:www.abclite.net
 domain:www.ajsands.com
 domain:www.antd.org
 domain:www.aolnews.com
+domain:www.bing.com
 domain:www.businessinsider.com.au
 domain:www.cmoinc.org
 domain:www.dmm.com
@@ -6128,6 +6241,7 @@ domain:xlfmwz.info
 domain:xm.com
 domain:xml-training-guide.com
 domain:xmovies.com
+domain:xn--11xs86f.icu
 domain:xn--4gq171p.com
 domain:xn--9pr62r24a.com
 domain:xn--czq75pvv1aj5c.org
@@ -6136,6 +6250,7 @@ domain:xn--ngstr-lra8j.com
 domain:xn--noss43i.com
 domain:xn--oiq.cc
 domain:xn--p8j9a0d9c9a.xn--q9jyb4c
+domain:xnpool.com
 domain:xnxx.com
 domain:xpdo.net
 domain:xpud.org
@@ -6143,6 +6258,8 @@ domain:xrentdvd.com
 domain:xsden.info
 domain:xskywalker.com
 domain:xskywalker.net
+domain:xt.com
+domain:xt.pub
 domain:xtube.com
 domain:xuchao.net
 domain:xuchao.org
@@ -6303,10 +6420,12 @@ domain:zhenlibu.info
 domain:zhenlibu1984.com
 domain:zhenxiang.biz
 domain:zhinengluyou.com
+domain:zhizhu.top
 domain:zhongguo.ca
 domain:zhongguorenquan.org
 domain:zhongguotese.net
 domain:zhongmeng.org
+domain:zhongzidi.com
 domain:zhoushuguang.com
 domain:zhreader.com
 domain:zhuangbi.me
@@ -6329,6 +6448,8 @@ domain:zonaeuropa.com
 domain:zonghexinwen.com
 domain:zonghexinwen.net
 domain:zoogvpn.com
+domain:zoominfo.com
+domain:zooqle.com
 domain:zootool.com
 domain:zoozle.net
 domain:zophar.net

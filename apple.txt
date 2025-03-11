@@ -7,9 +7,6 @@ domain:adcdownload.apple.com.akadns.net
 domain:adcdownload.apple.com
 domain:amp-api-updates.apps.apple.com
 domain:amp-api.media.apple.com
-domain:api-p-ap-c.smoot.apple.com
-domain:api-p-ap-d.smoot.apple.com
-domain:api-p-ap-e.smoot.apple.com
 domain:app-site-association.cdn-apple.com
 domain:appldnld.apple.com
 domain:appldnld.g.aaplimg.com
@@ -61,7 +58,6 @@ domain:gsp10-ssl-cn.ls.apple.com
 domain:gsp12-cn.ls.apple.com
 domain:gsp13-cn.ls.apple.com
 domain:gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
-domain:gsp4-cn.ls.apple.com.edgekey.net
 domain:gsp4-cn.ls.apple.com
 domain:gsp5-cn.ls.apple.com
 domain:gsp85-cn-ssl.ls.apple.com
@@ -71,7 +67,6 @@ domain:gspe19-cn-ssl.ls.apple.com
 domain:gspe19-cn.ls-apple.com.akadns.net
 domain:gspe19-cn.ls.apple.com
 domain:gspe21-ssl.ls.apple.com
-domain:gspe21.ls.apple.com
 domain:gspe35-ssl.ls.apple.com
 domain:gspe79-cn-ssl.ls.apple.com
 domain:guzzoni-apple-com.v.aaplimg.com
@@ -80,9 +75,7 @@ domain:guzzoni.smoot.apple.com
 domain:iadsdk.apple.com
 domain:icloud-cdn.icloud.com.akadns.net
 domain:icloud.cdn-apple.com
-domain:images.apple.com.akadns.net
 domain:images.apple.com.edgekey.net.globalredir.akadns.net
-domain:images.apple.com
 domain:init-kt.apple.com
 domain:init-p01md-lb.push-apple.com.akadns.net
 domain:init-p01md.apple.com
@@ -169,6 +162,5 @@ domain:weather-map.apple.com
 domain:weather-map2.apple.com
 domain:weatherkit.apple.com
 domain:www.apple.com.edgekey.net.globalredir.akadns.net
-domain:www.apple.com.edgekey.net
 domain:www.apple.com
 domain:xp.apple.com
