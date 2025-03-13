@@ -11212,6 +11212,7 @@ full:paper-attachments.s3.amazonaws.com
 full:pchomeonline.com.tw
 full:pki.google.com
 full:poshtestgallery.cloudapp.net
+full:pplx-res.cloudinary.com
 full:practivate.adobe
 full:practivate.adobe.com
 full:practivate.adobe.ipp
@@ -22534,6 +22535,7 @@ ppb-mod.buzz
 ppe.lawyer
 pplah.com
 pplusstatic.com
+pplx.ai
 ppp91.cc
 pppds.com
 ppre.ac.uk
