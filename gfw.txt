@@ -47,6 +47,7 @@ domain:2008xianzhang.info
 domain:2017.hk
 domain:2021hkcharter.com
 domain:2047.name
+domain:2047.one
 domain:2049bbs.xyz
 domain:21andy.com
 domain:21sextury.com
@@ -535,6 +536,7 @@ domain:bcex.ca
 domain:bcmorning.com
 domain:bdsmvideos.net
 domain:beaconevents.com
+domain:bearteach.com
 domain:bebo.com
 domain:beeg.com
 domain:beepool.com
@@ -868,6 +870,8 @@ domain:c2cx.com
 domain:c3pool.com
 domain:cableav.tv
 domain:cablegatesearch.net
+domain:cachefly.com
+domain:cachefly.net
 domain:cachinese.com
 domain:cacnw.com
 domain:cactusvpn.com
@@ -1298,6 +1302,7 @@ domain:cumlouder.com
 domain:curvefish.com
 domain:cusp.hk
 domain:cusu.hk
+domain:cutout.pro
 domain:cutscenes.net
 domain:cw.com.tw
 domain:cyberghost.natado.com
@@ -1762,6 +1767,7 @@ domain:facebookquotes4u.com
 domain:faceless.me
 domain:facesofnyfw.com
 domain:facesoftibetanselfimmolators.info
+domain:factchecklab.org
 domain:factpedia.org
 domain:fail.hk
 domain:faith100.org
@@ -1849,7 +1855,6 @@ domain:fdc64.org
 domain:fdc89.jp
 domain:feedburner.com
 domain:feeder.co
-domain:feedly.comfastgpt.run
 domain:feeds.fileforum.com
 domain:feedx.net
 domain:feelssh.com
@@ -2038,6 +2043,7 @@ domain:frootvpn.com
 domain:froth.zone
 domain:fscked.org
 domain:fsurf.com
+domain:ft.com
 domain:ftchinese.com
 domain:ftp1.biz
 domain:ftpserver.biz
@@ -2123,6 +2129,7 @@ domain:gclubs.com
 domain:gcmasia.com
 domain:gcpnews.com
 domain:gcr.io
+domain:gdaily.org
 domain:gdbt.net
 domain:gdzf.org
 domain:geek-art.net
@@ -2154,6 +2161,7 @@ domain:getlantern.org
 domain:getmalus.com
 domain:getmdl.io
 domain:getoutline.org
+domain:getsession.org
 domain:getsocialscope.com
 domain:getsync.com
 domain:gettr.com
@@ -3826,6 +3834,7 @@ domain:netcolony.com
 domain:netflav.com
 domain:netflix.com
 domain:netflix.net
+domain:netlify.app
 domain:netme.cc
 domain:netsarang.com
 domain:netsneak.com
@@ -4912,6 +4921,7 @@ domain:soumo.info
 domain:soundcloud.com
 domain:soundofhope.kr
 domain:soundofhope.org
+domain:soundon.fm
 domain:soup.io
 domain:soupofmedia.com
 domain:sourceforge.net
@@ -5204,6 +5214,7 @@ domain:textnow.me
 domain:tfc-taiwan.org.tw
 domain:tfhub.dev
 domain:tfiflve.com
+domain:tg-me.com
 domain:th.hao123.com
 domain:thaicn.com
 domain:thb.gov.tw
@@ -5232,7 +5243,6 @@ domain:theguardian.com
 domain:thehindu.com
 domain:thehun.net
 domain:theinitium.com
-domain:themoviedb.org
 domain:thenewslens.com
 domain:thepiratebay.org
 domain:theporndude.com
