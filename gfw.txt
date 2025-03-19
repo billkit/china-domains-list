@@ -324,6 +324,7 @@ domain:aofriend.com
 domain:aofriend.com.au
 domain:aojiao.org
 domain:aolchannels.aol.com
+domain:aomedia.org
 domain:aomiwang.com
 domain:apartmentratings.com
 domain:apartments.com
@@ -1829,7 +1830,6 @@ domain:fartit.com
 domain:farwestchina.com
 domain:fast.wistia.com
 domain:fastestvpn.com
-domain:fastgpt.run
 domain:fastpic.ru
 domain:fastssh.com
 domain:faststone.org
@@ -4353,7 +4353,7 @@ domain:powercx.com
 domain:powerphoto.org
 domain:ppy.sh
 domain:prayforchina.net
-domain:premeforwindows7.com
+domain:prcleader.org
 domain:premproxy.com
 domain:presentation.new
 domain:presentationzen.com
