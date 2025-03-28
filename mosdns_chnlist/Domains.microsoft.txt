@@ -5,6 +5,7 @@
 21vbluecloud.net
 a-msedge.net
 aadrm.cn
+aadrm.com
 adaptivecards.io
 aggresmart.com
 aka.ms
@@ -380,6 +381,7 @@ microsoftadvertising.com
 microsoftadvertisingregionalawards.com
 microsoftaffiliates.com
 microsoftapp.net
+microsoftazuread-sso.com
 microsoftazuresponsorships.com
 microsoftazurestatus.cn
 microsoftcloud.com
@@ -543,6 +545,8 @@ outlook.com
 passport.net
 pbiwebcontent.cn
 pixapp.net
+playfab.com
+playfabapi.com
 poshtestgallery.com
 powerapps.cn
 powerappscdn.net
