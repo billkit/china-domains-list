@@ -423,6 +423,7 @@ domain:atnext.com
 domain:auctions.yahoo.co.jp
 domain:audacy.com
 domain:auntology.fandom.com
+domain:auth.openai.com
 domain:authorizeddns.net
 domain:authorizeddns.org
 domain:authorizeddns.us
@@ -4088,6 +4089,7 @@ domain:open.firstory.me
 domain:open.spotify.com
 domain:openallweb.com
 domain:opendemocracy.net
+domain:opendesktop.org
 domain:opendn.xyz
 domain:openervpn.in
 domain:openid.net
