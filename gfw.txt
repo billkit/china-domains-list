@@ -422,6 +422,7 @@ domain:atlaspost.com
 domain:atnext.com
 domain:auctions.yahoo.co.jp
 domain:audacy.com
+domain:audiomack.com
 domain:auntology.fandom.com
 domain:auth.openai.com
 domain:authorizeddns.net
@@ -1162,7 +1163,6 @@ domain:cloakpoint.com
 domain:cloud.dify.ai
 domain:cloud.mail.ru
 domain:cloudflare-ipfs.com
-domain:cloudfront.net
 domain:cloudfunctions.net
 domain:club1069.com
 domain:clubhouseapi.com
@@ -4623,6 +4623,7 @@ domain:s3-ap-*.amazonaws.com
 domain:s3-ap-southeast-1.amazonaws.com
 domain:s3-ap-southeast-2.amazonaws.com
 domain:s3.amazonaws.com
+domain:s3.eu-central-1.amazonaws.com
 domain:s8forum.com
 domain:sa.hao123.com
 domain:sacks.com
