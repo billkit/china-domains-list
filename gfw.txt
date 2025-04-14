@@ -120,6 +120,7 @@ domain:85cc.us
 domain:85st.com
 domain:881903.com
 domain:888.com
+domain:8888.google
 domain:888poker.com
 domain:89-64.org
 domain:89.64.charter.constitutionalism.solutions
@@ -1162,6 +1163,7 @@ domain:clipfish.de
 domain:cloakpoint.com
 domain:cloud.dify.ai
 domain:cloud.mail.ru
+domain:cloudflare-dns.com
 domain:cloudflare-ipfs.com
 domain:cloudfunctions.net
 domain:club1069.com
@@ -1816,6 +1818,7 @@ domain:fangong.org
 domain:fangongheike.com
 domain:fanhaodang.com
 domain:fanhaolou.com
+domain:fani.com
 domain:fanqiang.network
 domain:fanqiang.tk
 domain:fanqiangdang.com
@@ -1835,6 +1838,7 @@ domain:fastpic.ru
 domain:fastssh.com
 domain:faststone.org
 domain:fatbtc.com
+domain:favcomic.com
 domain:fawanghuihui.org
 domain:faydao.com
 domain:faz.net
@@ -2564,6 +2568,7 @@ domain:gyatsostudio.com
 domain:gzm.tv
 domain:gzone-anime.info
 domain:h-china.org
+domain:h-ciyuan.com
 domain:h-moe.com
 domain:h1n1china.org
 domain:h528.com
@@ -3470,6 +3475,7 @@ domain:manicur4ik.ru
 domain:mansion.com
 domain:mansionpoker.com
 domain:manta.com
+domain:manwa.me
 domain:manyvoices.news
 domain:maplew.com
 domain:marc.info
@@ -4803,6 +4809,7 @@ domain:simplecd.org
 domain:simpleproductivityblog.com
 domain:simpleswap.io
 domain:sinchew.com.my
+domain:sing-box.sagernet.org
 domain:singaporepools.com.sg
 domain:singfortibet.com
 domain:singlelogin.se
@@ -4912,6 +4919,7 @@ domain:sos.org
 domain:sosad.fun
 domain:sosreader.com
 domain:sostibet.org
+domain:sotwe.com
 domain:soubory.com
 domain:soul-plus.net
 domain:soulcaliburhentai.net
@@ -4974,6 +4982,7 @@ domain:ssglobal.me
 domain:ssh91.com
 domain:ssl.webpack.de
 domain:ssl443.org
+domain:ssm.fun
 domain:sspanel.net
 domain:sspro.ml
 domain:ssr.tools
@@ -5269,6 +5278,7 @@ domain:thisav.com
 domain:thlib.org
 domain:thomasbernhard.org
 domain:thongdreams.com
+domain:thotsbay.tv
 domain:threadreaderapp.com
 domain:threads.net
 domain:threatchaos.com
@@ -5766,6 +5776,7 @@ domain:uygur.fc2web.com
 domain:uygur.org
 domain:uymaarip.com
 domain:v2.help
+domain:v2.hysteria.network
 domain:v2ex.com
 domain:v2fly.org
 domain:v2ray.com
