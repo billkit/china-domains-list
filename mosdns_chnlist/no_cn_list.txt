@@ -176,6 +176,7 @@
 1lib.eu
 1lib.limited
 1lib.pl
+1lib.sk
 1lib.to
 1lib.tw
 1mobile.com
@@ -12206,6 +12207,7 @@ go-lang.com
 go-lang.net
 go-lang.org
 go-pki.com
+go-to-library.sk
 go-to-zlibrary.se
 go.com
 go.dev
@@ -15462,6 +15464,7 @@ ita-do.com
 itaboo.info
 itaeromanga.com
 italiabeatsbydrdre.com
+italian-books.sk
 italiatibet.org
 itasoftware.com
 itcanwait.com
@@ -31448,9 +31451,13 @@ yyjlymb.xyz
 yysub.net
 yzld188.top
 yzzk.com
+z-lib.gd
+z-lib.gs
 z-lib.io
 z-lib.org
+z-lib.ps
 z-library.se
+z-library.sk
 z00.world
 z18r.co
 z18r.com
