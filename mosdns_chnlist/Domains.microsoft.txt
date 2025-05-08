@@ -448,6 +448,7 @@ microsofttradein.com
 microsofttranslator-int.cn
 microsofttranslator.com
 microsoftuwp.com
+minecraft-services.net
 minecraft.net
 minecraftservices.com
 minecraftshop.com
