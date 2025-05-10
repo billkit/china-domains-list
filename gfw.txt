@@ -1205,6 +1205,8 @@ domain:cobinhood.com
 domain:cochina.co
 domain:cochina.org
 domain:code1984.com
+domain:codeium.com
+domain:codeiumdata.com
 domain:codeshare.io
 domain:codeskulptor.org
 domain:cofacts.tw
