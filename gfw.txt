@@ -210,6 +210,7 @@ domain:agro.hk
 domain:ai-kan.net
 domain:ai-wen.net
 domain:ai.binwang.me
+domain:ai.google
 domain:aiosearch.com
 domain:aiph.net
 domain:airasia.com
@@ -3920,6 +3921,10 @@ domain:nic.gov
 domain:nicovideo.jp
 domain:nighost.org
 domain:nightswatch.top
+domain:nikke-en.com
+domain:nikke-jp.com
+domain:nikke-kr.com
+domain:nikke.hotcool.tw
 domain:nikkei.com
 domain:ninecommentaries.com
 domain:ninjacloak.com
@@ -3953,6 +3958,7 @@ domain:nordstromimage.com
 domain:nordstromrack.com
 domain:nordvpn.com
 domain:nos.nl
+domain:notebooklm.google
 domain:notepad-plus-plus.org
 domain:nottinghampost.com
 domain:novelasia.com
@@ -5400,6 +5406,7 @@ domain:ticket.com.tw
 domain:tigervpn.com
 domain:tiktok.com
 domain:tiktokcdn-us.com
+domain:tiktokcdn.com
 domain:tiktokv.com
 domain:tiktokv.us
 domain:tiltbrush.com
