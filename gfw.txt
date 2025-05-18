@@ -517,6 +517,7 @@ domain:bbs.kimy.com.tw
 domain:bbs.mikocon.com
 domain:bbs.morbell.com
 domain:bbs.mychat.to
+domain:bbs.naixi.net
 domain:bbs.netbig.com
 domain:bbs.nyinfor.com
 domain:bbs.ozchinese.com
@@ -3306,6 +3307,8 @@ domain:latelinenews.com
 domain:lausan.hk
 domain:lbank.info
 domain:ld.hao123img.com
+domain:ldplayer.net
+domain:ldplayer.tw
 domain:le-vpn.com
 domain:leafyvpn.net
 domain:lecloud.net
@@ -4659,6 +4662,7 @@ domain:safechat.com
 domain:safeguarddefenders.com
 domain:safervpn.com
 domain:safety.google
+domain:sagernet.org
 domain:saintyculture.com
 domain:saiq.me
 domain:sakuralive.com
@@ -5405,6 +5409,7 @@ domain:tibetwrites.org
 domain:ticket.com.tw
 domain:tigervpn.com
 domain:tiktok.com
+domain:tiktokcdn-eu.com
 domain:tiktokcdn-us.com
 domain:tiktokcdn.com
 domain:tiktokv.com
