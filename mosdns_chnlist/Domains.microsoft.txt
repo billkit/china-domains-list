@@ -563,6 +563,7 @@ projectmurphy.net
 projectsangam.com
 pwabuilder.com
 pxt.io
+r.bing.com
 reactorms.com.cn
 regexp:^github-production-release-asset-[0-9a-zA-Z]{6}.s3.amazonaws.com$
 renovacionoffice.com
@@ -605,6 +606,7 @@ tailwindtraders.com
 techhub.ms
 tellmewhygame.com
 tfsallin.net
+th.bing.com
 thegithubshop.com
 timelinestoryteller.com
 trafficmanager.cn
