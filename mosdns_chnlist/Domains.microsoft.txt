@@ -149,6 +149,7 @@ chinacloud-mobile.cn
 chinacloudapi.cn
 chinacloudapp.cn
 chinacloudsites.cn
+clarity.ms
 cloudapp.net
 cloudappsecurity.com
 cn.bing.com
@@ -476,6 +477,7 @@ msft.net
 msftauth.cn
 msftauth.net
 msftauthimages.cn
+msftauthimages.net
 msftcloudes.cn
 msftconnecttest.com
 msfteducation.ca
