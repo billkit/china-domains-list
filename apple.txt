@@ -27,6 +27,7 @@ domain:cds-cdn.v.aaplimg.com
 domain:cds.apple.com.akadns.net
 domain:cds.apple.com
 domain:cdsassets.apple.com
+domain:certs.apple.com
 domain:cl1-cdn.origin-apple.com.akadns.net
 domain:cl1.apple.com
 domain:cl2-cn.apple.com
