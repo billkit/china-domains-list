@@ -18,6 +18,7 @@ applicationinsights.io
 applicationinsights.net
 appserviceenvironment.cn
 aria.ms
+asobostudio.com
 asp.net
 aspnetcdn.com
 atom.io
@@ -182,9 +183,11 @@ elderscrolls.com
 engkoo.com
 fasttrackreadysupport.com
 femalefounderscomp.com
+flightsimulator.com
 flipwithsurface.com
 fluidpreview.com
 footprintdns.com
+forza.net
 forzamotorsport.net
 forzaracingchampionship.com
 forzarc.com
@@ -210,6 +213,7 @@ full:download.visualstudio.microsoft.com
 full:dtlgalleryint.cloudapp.net
 full:emoi-cncdn.bing.com
 full:f.c2r.ts.cdn.office.net
+full:flightsimulator.azureedge.net
 full:fs.microsoft.com
 full:github-cloud.s3.amazonaws.com
 full:img-prod-cms-rt-microsoft-com.akamaized.net
@@ -227,6 +231,7 @@ full:officecdn-microsoft-com.akamaized.net
 full:officecdn.microsoft.com
 full:oneocsp.microsoft.com
 full:poshtestgallery.cloudapp.net
+full:prodforza.blob.core.windows.net
 full:psg-int-centralus.cloudapp.net
 full:psg-int-eastus.cloudapp.net
 full:qh.dlservice.microsoft.com
