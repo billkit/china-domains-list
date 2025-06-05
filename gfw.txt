@@ -956,6 +956,7 @@ domain:cdig.info
 domain:cdjp.org
 domain:cdn-images.mailchimp.com
 domain:cdn-telegram.org
+domain:cdn.arstechnica.net
 domain:cdn.assets.lfpcontent.com
 domain:cdn.helixstudios.net
 domain:cdn.jwplayer.com
@@ -1116,6 +1117,7 @@ domain:chubun.com
 domain:churchinhongkong.org
 domain:chushigangdrug.ch
 domain:ci-en.jp
+domain:cici.com
 domain:ciciai.com
 domain:cienen.com
 domain:cineastentreff.de
