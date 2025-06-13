@@ -1263,6 +1263,7 @@ domain:counter.social
 domain:coursehero.com
 domain:coze.com
 domain:cpj.org
+domain:cpu-monkey.com
 domain:cq99.us
 domain:crackle.com
 domain:crazypool.org
@@ -2849,7 +2850,6 @@ domain:hutong9.net
 domain:huyandex.com
 domain:hwadzan.tw
 domain:hwayue.org.tw
-domain:hwinfo.com
 domain:hxwk.org
 domain:hxwq.org
 domain:hybrid-analysis.com
