@@ -1966,6 +1966,7 @@ domain:github.io
 domain:githubassets.com
 domain:githubcopilot.com
 domain:githubusercontent.com
+domain:gitlab.net
 domain:gizlen.net
 domain:gjczz.com
 domain:glarity.app
@@ -2393,6 +2394,7 @@ domain:himalayan-foundation.org
 domain:himalayanglacier.com
 domain:himemix.com
 domain:hindustantimes.com
+domain:hinet.net
 domain:hitbtc.com
 domain:hitomi.la
 domain:hiveon.net
