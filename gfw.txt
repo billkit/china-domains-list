@@ -1043,7 +1043,6 @@ domain:clipfish.de
 domain:cloud.dify.ai
 domain:cloud.mail.ru
 domain:cloudflare-ipfs.com
-domain:cloudfront.net
 domain:cloudfunctions.net
 domain:club1069.com
 domain:clubhouseapi.com
@@ -1404,6 +1403,7 @@ domain:dw-world.com
 domain:dw-world.de
 domain:dw.com
 domain:dw.de
+domain:dweb.link
 domain:dwnews.com
 domain:dwnews.net
 domain:dynamic-dns.net
@@ -2685,6 +2685,7 @@ domain:inxian.com
 domain:iownyour.org
 domain:ipdefenseforum.com
 domain:ipfire.org
+domain:ipfs.4everland.io
 domain:ipfs.io
 domain:iphone4hongkong.com
 domain:iphonetaiwan.org
@@ -3511,6 +3512,7 @@ domain:nflximg.com
 domain:nflximg.net
 domain:nflxso.net
 domain:nflxvideo.net
+domain:nftstorage.link
 domain:nga.mil
 domain:ngensis.com
 domain:nhentai.net
@@ -4543,6 +4545,7 @@ domain:store.steampowered.com
 domain:storj.io
 domain:storm.mg
 domain:stormmediagroup.com
+domain:storry.tv
 domain:stoweboyd.com
 domain:straitstimes.com
 domain:stranabg.com
@@ -5363,6 +5366,7 @@ domain:vuku.cc
 domain:vultryhw.com
 domain:w-pool.com
 domain:w.idaiwan.com
+domain:w3s.link
 domain:waffle1999.com
 domain:wahas.com
 domain:waikeung.org
