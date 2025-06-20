@@ -1740,6 +1740,7 @@ domain:focustaiwan.tw
 domain:focusvpn.com
 domain:fofg.org
 domain:fooooo.com
+domain:forbes.com
 domain:foreignaffairs.com
 domain:foreignpolicy.com
 domain:form.new
