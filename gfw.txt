@@ -352,6 +352,7 @@ domain:arte.tv
 domain:artofpeacefoundation.org
 domain:artstation.com
 domain:artsy.net
+domain:arvanstorage.ir
 domain:asacp.org
 domain:asdfg.jp
 domain:asg.to
@@ -2263,6 +2264,7 @@ domain:gotgeeks.com
 domain:gotquestions.org
 domain:gotrusted.com
 domain:gotw.ca
+domain:gov.ir
 domain:gov.taipei
 domain:gov.tw
 domain:gr8domain.biz
@@ -2702,7 +2704,9 @@ domain:ipredator.se
 domain:iptv.com.tw
 domain:iptvbin.com
 domain:ipvanish.com
+domain:irangov.ir
 domain:iredmail.org
+domain:irna.ir
 domain:ironpython.net
 domain:ironsocket.com
 domain:is-a-hunter.com
@@ -3937,6 +3941,7 @@ domain:prcleader.org
 domain:premproxy.com
 domain:presentation.new
 domain:presentationzen.com
+domain:president.ir
 domain:presidentlee.tw
 domain:prestige-av.com
 domain:primevideo.com
