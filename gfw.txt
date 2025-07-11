@@ -1742,6 +1742,7 @@ domain:fochk.org
 domain:focustaiwan.tw
 domain:focusvpn.com
 domain:fofg.org
+domain:follow.is
 domain:fooooo.com
 domain:forbes.com
 domain:foreignaffairs.com
@@ -2018,7 +2019,6 @@ domain:goldeneyevault.com
 domain:goldenfrog.com
 domain:goldstep.net
 domain:goldwave.com
-domain:gollow.is
 domain:gongm.in
 domain:goo.gl
 domain:goo.gle
