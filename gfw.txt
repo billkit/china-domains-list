@@ -548,6 +548,7 @@ domain:bitchute.com
 domain:bitcointalk.org
 domain:bitcoinworld.com
 domain:bitfinex.com
+domain:bitget.com
 domain:bithumb.com
 domain:bitmex.com
 domain:bitshare.com
@@ -1043,6 +1044,7 @@ domain:clipconverter.cc
 domain:clipfish.de
 domain:cloud.dify.ai
 domain:cloud.mail.ru
+domain:cloudflare-dns.com
 domain:cloudflare-ipfs.com
 domain:cloudfunctions.net
 domain:club1069.com
@@ -5174,6 +5176,7 @@ domain:unseen.is
 domain:unstable.icu
 domain:unwire.hk
 domain:uocn.org
+domain:upbit.com
 domain:updates.tdesktop.com
 domain:upghsbc.com
 domain:upholdjustice.org
@@ -5595,7 +5598,6 @@ domain:www.monlamit.org
 domain:www.moztw.org
 domain:www.msn.com
 domain:www.nbc.com
-domain:www.nodeloc.com
 domain:www.owind.com
 domain:www.oxid.it
 domain:www.powerpointninja.com
