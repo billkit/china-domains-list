@@ -511,6 +511,7 @@ domain:bestvpnusa.com
 domain:bet365.com
 domain:betaclouds.net
 domain:betfair.com
+domain:betterhash.net
 domain:betternet.co
 domain:bettervpn.com
 domain:bettween.com
@@ -2372,6 +2373,7 @@ domain:hentaivideoworld.com
 domain:heqinglian.net
 domain:heritage.org
 domain:herokuapp.com
+domain:herominers.com
 domain:hexieshe.com
 domain:hexieshe.xyz
 domain:hexxeh.net
@@ -2742,6 +2744,7 @@ domain:isupportuyghurs.org
 domain:itaiwan.gov.tw
 domain:italiatibet.org
 domain:itasoftware.com
+domain:itch.io
 domain:itemdb.com
 domain:itemfix.com
 domain:ithelp.ithome.com.tw
