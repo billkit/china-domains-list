@@ -3766,6 +3766,7 @@ domain:palacemoon.com
 domain:paljorpublications.com
 domain:paltalk.com
 domain:panamapapers.sueddeutsche.de
+domain:pancakeswap.finance
 domain:pandafan.pub
 domain:pandapow.co
 domain:pandapow.net
@@ -3832,6 +3833,7 @@ domain:periscope.tv
 domain:perplexity.ai
 domain:persecutionblog.com
 domain:persiankitty.com
+domain:pewresearch.org
 domain:phapluan.org
 domain:phayul.com
 domain:philborges.com
@@ -3961,6 +3963,7 @@ domain:prism-break.org
 domain:prisoneralert.com
 domain:pritunl.com
 domain:privacybox.de
+domain:privacyguides.org
 domain:private.com
 domain:privateinternetaccess.com
 domain:privatepaste.com
