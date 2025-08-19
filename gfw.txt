@@ -1272,6 +1272,7 @@ domain:delicious.com
 domain:demo.unlock-music.dev
 domain:democrats.org
 domain:demosisto.hk
+domain:deno.dev
 domain:depositphotos.com
 domain:desc.se
 domain:desipro.de
@@ -1340,6 +1341,7 @@ domain:dnvod.tv
 domain:doc.new
 domain:docker.com
 domain:docker.io
+domain:docs.deno.com
 domain:docs.new
 domain:doctorvoice.org
 domain:documentingreality.com
@@ -1863,6 +1865,7 @@ domain:fuq.com
 domain:furbo.org
 domain:furhhdl.org
 domain:furinkan.com
+domain:furrybar.com
 domain:futurechinaforum.org
 domain:futuremessage.org
 domain:fux.com
@@ -3442,6 +3445,7 @@ domain:nationalreview.com
 domain:nationsonline.org
 domain:nationwide.com
 domain:naughtyamerica.com
+domain:naver.com
 domain:navyfamily.navy.mil
 domain:navyreserve.navy.mil
 domain:naweeklytimes.com
