@@ -5152,6 +5152,7 @@ domain:uderzo.it
 domain:udn.com
 domain:udn.com.tw
 domain:udnbkk.com
+domain:udomain.hk
 domain:uforadio.com.tw
 domain:ufreevpn.com
 domain:ugo.com
