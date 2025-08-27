@@ -1682,6 +1682,7 @@ domain:fdc64.org
 domain:fdc89.jp
 domain:feedburner.com
 domain:feeder.co
+domain:feedly.com
 domain:feeds.fileforum.com
 domain:feedx.net
 domain:feelssh.com
@@ -3313,6 +3314,7 @@ domain:mofos.com
 domain:mog.com
 domain:mohu.club
 domain:mohu.rocks
+domain:moj.gov.tw
 domain:mojim.com
 domain:mol.gov.tw
 domain:molihua.org
