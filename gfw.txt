@@ -735,6 +735,8 @@ domain:brutaltgp.com
 domain:bsky.app
 domain:bsky.network
 domain:bsky.social
+domain:bt4g.org
+domain:bt4gprx.com
 domain:bt95.com
 domain:btaia.com
 domain:btbit.net
@@ -4685,6 +4687,7 @@ domain:talkcc.com
 domain:talkonly.net
 domain:tanc.org
 domain:tangren.us
+domain:tanks.gg
 domain:taoism.net
 domain:tapanwap.com
 domain:tapatalk.com
