@@ -4480,6 +4480,7 @@ domain:solana.com
 domain:solarsystem.nasa.gov
 domain:solidaritetibet.org
 domain:solidfiles.com
+domain:solscan.io
 domain:solv.finance
 domain:somee.com
 domain:songjianjun.com
