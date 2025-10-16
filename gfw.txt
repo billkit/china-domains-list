@@ -363,6 +363,7 @@ domain:asia-gaming.com
 domain:asiaharvest.org
 domain:asianage.com
 domain:asianews.it
+domain:asianfanfics.com
 domain:asiansexdiary.com
 domain:asiaone.com
 domain:asiatgp.com
@@ -5017,6 +5018,7 @@ domain:trt.net.tr
 domain:trtc.com.tw
 domain:truebuddha-md.org
 domain:trulyergonomic.com
+domain:trustwallet.com
 domain:truthsocial.com
 domain:truveo.com
 domain:tryheart.jp
@@ -5846,6 +5848,7 @@ domain:z-lib.gd
 domain:z-lib.gl
 domain:z-lib.io
 domain:z-lib.org
+domain:z-library.ec
 domain:z-library.sk
 domain:zacebook.com
 domain:zalmos.com
