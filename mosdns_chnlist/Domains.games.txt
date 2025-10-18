@@ -38,6 +38,7 @@
 5054399.net
 71acg.com
 71acg.net
+9xgame.com
 ac-pocketcamp.com
 aki-game.com
 amiibo.com
@@ -254,6 +255,7 @@ full:ssl-lvlt.cdn.ea.com
 full:static-login.gog-statics.com
 full:steambroadcast.akamaized.net
 full:steamcdn-a.akamaihd.net
+full:steamcloudsweden.blob.core.windows.net
 full:steamcommunity-a.akamaihd.net
 full:steamcommunity-a.akamaihd.net.edgesuite.net
 full:steammobile.akamaized.net
@@ -274,10 +276,13 @@ full:xz.pphimalayanrt.com
 funnycore.com
 futpromos.com
 futunited.com
+fxt365.com
 game-repack.site
+gameabc.com
 gamebonfire.com
 gameitop.com
 gameloop.com
+gamemei.com
 gamepass.com
 gamesfirsthelsinki.com
 garena.co.id
@@ -378,6 +383,7 @@ lolpcs.com
 lolshop.co.kr
 lolstatic.com
 lolusercontent.com
+longtugame.com
 lordofultima.com
 loverslab.com
 lowiro.com
@@ -433,6 +439,7 @@ mo.co
 modrinth.com
 mojang.com
 molesports.com
+morefreegame.com
 mszdld.cn
 mszdld.com
 mszdld.net
@@ -785,6 +792,7 @@ wiisports.com
 wiisportsresort.com
 wiiugamepad.com
 wiivc.net
+winegame.net
 wmsjsteam.com
 wo1wan.com
 worldflipper.akamaized.net
@@ -820,6 +828,7 @@ xindong.com
 xn--mts47c3w9b1qr.cn
 xn--mts47c3w9b1qr.net
 xn--owtw8cc49ajfl.cn
+ycgame.com
 ynoproject.net
 yogify.com
 yoshisnewisland.com
