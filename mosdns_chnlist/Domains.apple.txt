@@ -804,6 +804,7 @@ configuration.apple.com
 cooliphonecasesstore.com
 coolmonster.net
 coreml.net
+courier-push-apple.com.akadns.net
 cozydrdrebeats.com
 cqcorea.com
 cuffiesaldi.com
@@ -1008,9 +1009,9 @@ full:clientflow.apple.com.akadns.net
 full:cma.itunes.apple.com
 full:cn-smp-paymentservices.apple.com
 full:communities.apple.com
+full:configuration-lb.ls-apple.com.akadns.net
 full:configuration.apple.com
 full:configuration.apple.com.akadns.net
-full:courier-push-apple.com.akadns.net
 full:crl-lb.apple.com.akadns.net
 full:crl.apple.com
 full:cstat.apple.com
