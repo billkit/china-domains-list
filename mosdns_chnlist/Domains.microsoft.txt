@@ -221,8 +221,6 @@ full:img-s-msn-com.akamaized.net
 full:learn.microsoft.com
 full:location.microsoft.com
 full:mscrl.microsoft.com
-full:msgr.dlservice.microsoft.com
-full:msgruser.dlservice.microsoft.com
 full:mwf-service.akamaized.net
 full:myvs.download.prss.microsoft.com
 full:ocsp.microsoft.com
@@ -234,14 +232,11 @@ full:poshtestgallery.cloudapp.net
 full:prodforza.blob.core.windows.net
 full:psg-int-centralus.cloudapp.net
 full:psg-int-eastus.cloudapp.net
-full:qh.dlservice.microsoft.com
 full:res-1.cdn.office.net
 full:res.cdn.office.net
 full:rink.hockeyapp.net
 full:sdx.microsoft.com
 full:shell.cdn.office.net
-full:silverlight.dlservice.microsoft.com
-full:slupdate.dlservice.microsoft.com
 full:software.download.prss.microsoft.com
 full:statics-marketingsites-eas-ms-com.akamaized.net
 full:statics-marketingsites-eus-ms-com.akamaized.net
@@ -256,11 +251,9 @@ full:vscode.download.prss.microsoft.com
 full:vscode.search.windows.net
 full:vsmarketplacebadge.apphb.com
 full:vz.download.prss.microsoft.com
-full:wl.dlservice.microsoft.com
 full:wscont1.apps.microsoft.com
 full:wscont2.apps.microsoft.com
 full:www.microsoft.com
-full:xb.dlservice.microsoft.com
 gamepass.com
 gamesstack.com
 gameuxmasterguide.com
