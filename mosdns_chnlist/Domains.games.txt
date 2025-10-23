@@ -224,6 +224,7 @@ full:bnetshopus.akamaized.net
 full:c.ppy.sh
 full:cdngarenanow-a.akamaihd.net
 full:cloudsync-prod.s3.amazonaws.com
+full:datarouter.apps.netherrealm.com
 full:dlgarenanow-a.akamaihd.net
 full:dlmobilegarena-a.akamaihd.net
 full:ea.tt.omtrdc.net
@@ -271,6 +272,7 @@ full:ubisoft-uplay-savegames.s3.amazonaws.com
 full:ubistatic3-a.akamaihd.net
 full:uplaypc-s-ubisoft.cdn.ubi.com
 full:videos-rockstargames-com.akamaized.net
+full:wb-agora-hydra-file-storage-k1.s3.amazonaws.com
 full:www4-static.gog-statics.com
 full:xz.pphimalayanrt.com
 funnycore.com
@@ -776,6 +778,10 @@ vrzwk.top
 wanwan4399.com
 wariolandshakeit.com
 wariowarediy.com
+warnerbrosgames.com
+wbagora.com
+wbgames.com
+wbinsights.com
 wcbygame.com
 we4399.com
 webgame163.com
