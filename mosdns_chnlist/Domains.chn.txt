@@ -27335,6 +27335,7 @@ cztrjs.com
 cztv.cc
 cztv.com
 cztv.tv
+cztvcdn.com
 cztvcloud.com
 cztzkg.com
 czur.com
@@ -38798,6 +38799,7 @@ geekluo.com
 geekmaker.com
 geekman.vip
 geeknev.com
+geekpark
 geekpark.net
 geekpwn.org
 geeksblog.cc
@@ -93454,7 +93456,6 @@ tinywan.com
 tinyyuan.com
 tipaipai.com
 tipask.com
-tipdim.org
 tipdm.com
 tipdm.org
 tipray.com
