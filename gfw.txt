@@ -166,6 +166,7 @@ domain:addictedtocoffee.de
 domain:addons.mozilla.org
 domain:addyoutube.com
 domain:adelaidebbs.com
+domain:adguard-vpn.com
 domain:admin.recaptcha.net
 domain:admob.com
 domain:adpl.org.hk
@@ -2178,6 +2179,7 @@ domain:hautelookcdn.com
 domain:have8.com
 domain:hbg.com
 domain:hbo.com
+domain:hbomax.com
 domain:hclips.com
 domain:hd.stheadline.com
 domain:hdtvb.net
@@ -3120,6 +3122,7 @@ domain:mixpod.com
 domain:mixx.com
 domain:mizzmona.com
 domain:mjib.gov.tw
+domain:mjj.rip
 domain:mjlsh.usc.cuhk.edu.hk
 domain:mlc.ai
 domain:mlcool.com
@@ -4032,6 +4035,7 @@ domain:rule34video.com
 domain:rumble.com
 domain:runbtx.com
 domain:rushbee.com
+domain:rustdesk.com
 domain:rusvpn.com
 domain:ruten.com.tw
 domain:rutracker.net
