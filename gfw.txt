@@ -191,6 +191,7 @@ domain:agnesb.fr
 domain:agoogleaday.com
 domain:agro.hk
 domain:ai.binwang.me
+domain:ai.dev
 domain:aiosearch.com
 domain:aiph.net
 domain:airasia.com
@@ -1003,6 +1004,7 @@ domain:cloud.dify.ai
 domain:cloud.mail.ru
 domain:cloudflare-dns.com
 domain:cloudflare-ipfs.com
+domain:cloudflarestatus.com
 domain:cloudfunctions.net
 domain:club1069.com
 domain:clubhouseapi.com
@@ -2852,6 +2854,7 @@ domain:liaowangxizang.net
 domain:liberal.org.hk
 domain:libertysculpturepark.com
 domain:libertytimes.com.tw
+domain:library-access.sk
 domain:library.usc.cuhk.edu.hk
 domain:libredd.it
 domain:lifemiles.com
@@ -3077,6 +3080,7 @@ domain:microvpn.com
 domain:middle-way.net
 domain:mihr.com
 domain:mihua.org
+domain:mij.rip
 domain:mikanani.me
 domain:mike.cz.cc
 domain:mikesoltys.com
@@ -3121,6 +3125,7 @@ domain:mixi.jp
 domain:mixpod.com
 domain:mixx.com
 domain:mizzmona.com
+domain:mji.rip
 domain:mjib.gov.tw
 domain:mjj.rip
 domain:mjlsh.usc.cuhk.edu.hk
@@ -5541,6 +5546,7 @@ domain:xml-training-guide.com
 domain:xmovies.com
 domain:xn--11xs86f.icu
 domain:xn--4gq171p.com
+domain:xn--9iqy04a7fi01l.com
 domain:xn--9pr62r24a.com
 domain:xn--czq75pvv1aj5c.org
 domain:xn--i2ru8q2qg.com
