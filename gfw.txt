@@ -2113,6 +2113,7 @@ domain:gravatar.com
 domain:greasyfork.org
 domain:greatfire.org
 domain:greatfire.us7.list-manage.com
+domain:greatfirevpn.com
 domain:greatfirewall.biz
 domain:greatfirewallofchina.org
 domain:greatroc.org
@@ -5380,6 +5381,7 @@ domain:wikinews.org
 domain:wikipedia.com
 domain:wikipedia.org
 domain:wikisource.org
+domain:wikiunblocked.org
 domain:wikiversity.org
 domain:wikivoyage.org
 domain:wikiwand.com
