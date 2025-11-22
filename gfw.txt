@@ -2952,7 +2952,6 @@ domain:ly.gov.tw
 domain:lyfhk.net
 domain:lzjscript.com
 domain:lzmtnews.org
-domain:m-team.cc
 domain:m.hkgalden.com
 domain:m.me
 domain:m.moegirl.org
