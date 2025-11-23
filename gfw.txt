@@ -3274,6 +3274,7 @@ domain:nalandabodhi.org
 domain:nalandawest.org
 domain:namgyal.org
 domain:namgyalmonastery.org
+domain:namu.wiki
 domain:nanopool.org
 domain:nanyang.com
 domain:nanyangpost.com
@@ -3698,6 +3699,7 @@ domain:picacomic.com
 domain:picacomiccn.com
 domain:picasaweb.com
 domain:picidae.net
+domain:picsart.com
 domain:picturedip.com
 domain:picturesocial.com
 domain:picuki.com
