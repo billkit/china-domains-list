@@ -140,6 +140,8 @@ boswp.com
 botframework.com
 brazilpartneruniversity.com
 breakdown.me
+browser.events.data.msn.cn
+browser.events.data.msn.com
 c-msedge.net
 callersbane.com
 cegid-cloud.cn
