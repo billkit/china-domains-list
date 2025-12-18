@@ -554,6 +554,7 @@ domain:bird.so
 domain:bit-z.com
 domain:bit.do
 domain:bit.ly
+domain:bitbaby.com
 domain:bitbay.net
 domain:bitchute.com
 domain:bitcointalk.org
@@ -2435,6 +2436,7 @@ domain:iconpaper.org
 domain:icu-project.org
 domain:id.hao123.com
 domain:id.heroku.com
+domain:idcflare.com
 domain:idemocracy.asia
 domain:identi.ca
 domain:idiomconnection.com
