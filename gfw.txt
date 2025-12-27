@@ -959,7 +959,6 @@ domain:chrome.com
 domain:chromecast.com
 domain:chromeexperiments.com
 domain:chromestatus.com
-domain:chromium.org
 domain:chuang-yen.org
 domain:chubold.com
 domain:chubun.com
@@ -2986,6 +2985,7 @@ domain:lookpic.com
 domain:looktoronto.com
 domain:lotsawahouse.org
 domain:lotuslight.org.tw
+domain:lovart.ai
 domain:lovetvshow.com
 domain:lpsg.com
 domain:lrfz.com
