@@ -220,6 +220,7 @@ domain:alicejapan.co.jp
 domain:aliengu.com
 domain:alive.bar
 domain:aljazeera.com
+domain:aljazeera.net
 domain:alkasir.com
 domain:all4mom.org
 domain:allcoin.com
@@ -1231,7 +1232,6 @@ domain:deja.com
 domain:delcamp.net
 domain:demo.unlock-music.dev
 domain:demosisto.hk
-domain:deno.dev
 domain:depositphotos.com
 domain:desc.se
 domain:desipro.de
@@ -1301,7 +1301,6 @@ domain:doc.new
 domain:docker.com
 domain:docker.io
 domain:dockerstatus.com
-domain:docs.deno.com
 domain:docs.new
 domain:doctorvoice.org
 domain:documentingreality.com
@@ -1928,6 +1927,7 @@ domain:gfsale.com
 domain:gfw.press
 domain:gfw.report
 domain:gfwatch.org
+domain:gfwbao.com
 domain:ggpht.com
 domain:ggssl.com
 domain:ghidra-sre.org
@@ -2633,6 +2633,7 @@ domain:ismalltits.com
 domain:ismprofessional.net
 domain:isohunt.com
 domain:israbox.com
+domain:issues.chromium.org 
 domain:issuu.com
 domain:istars.co.nz
 domain:istockphoto.com
@@ -4472,6 +4473,7 @@ domain:staticflickr.com
 domain:stboy.net
 domain:stc.com.sa
 domain:steamcommunity.com
+domain:steamladder.com
 domain:steamstatic.com
 domain:steel-storm.com
 domain:steemit.com
