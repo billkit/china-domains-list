@@ -3728,6 +3728,7 @@ domain:pct.org.tw
 domain:pdetails.com
 domain:pdproxy.com
 domain:pds.nasa.gov
+domain:pdst.fm
 domain:peace.ca
 domain:peacefire.org
 domain:peeasian.com
@@ -5121,6 +5122,7 @@ domain:unseen.is
 domain:unstable.icu
 domain:unwire.hk
 domain:uocn.org
+domain:up.audio
 domain:upbit.com
 domain:updates.tdesktop.com
 domain:upghsbc.com
