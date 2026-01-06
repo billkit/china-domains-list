@@ -192,6 +192,7 @@ domain:agoogleaday.com
 domain:agro.hk
 domain:ai.binwang.me
 domain:ai.dev
+domain:ai.studio
 domain:aiosearch.com
 domain:aiph.net
 domain:airasia.com
@@ -1204,6 +1205,7 @@ domain:david-kilgour.com
 domain:dawangidc.com
 domain:daxa.cn
 domain:daylife.com
+domain:dazn.com
 domain:db.tt
 domain:dbgjd.com
 domain:dcard.tw
@@ -3617,6 +3619,8 @@ domain:onmypc.org
 domain:onthehunt.com
 domain:ontrac.com
 domain:oojj.de
+domain:ooni.io
+domain:ooni.org
 domain:open.com.hk
 domain:open.firstory.me
 domain:openai.com
@@ -5603,6 +5607,7 @@ domain:xbabe.com
 domain:xbookcn.com
 domain:xbtce.com
 domain:xcafe.in
+domain:xcancel.com
 domain:xcity.jp
 domain:xcritic.com
 domain:xerotica.com
