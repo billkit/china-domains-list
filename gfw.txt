@@ -961,6 +961,7 @@ domain:chrome.com
 domain:chromecast.com
 domain:chromeexperiments.com
 domain:chromestatus.com
+domain:chromium.org 
 domain:chuang-yen.org
 domain:chubold.com
 domain:chubun.com
@@ -2635,7 +2636,6 @@ domain:ismalltits.com
 domain:ismprofessional.net
 domain:isohunt.com
 domain:israbox.com
-domain:issues.chromium.org 
 domain:issuu.com
 domain:istars.co.nz
 domain:istockphoto.com
