@@ -205,6 +205,7 @@ domain:ait.org.tw
 domain:aiweiwei.com
 domain:aiweiweiblog.com
 domain:akademiye.org
+domain:akamai.tvb.com
 domain:akamaihd.net
 domain:akiba-online.com
 domain:akiba-web.com
@@ -278,7 +279,10 @@ domain:angola.org
 domain:angularjs.org
 domain:animecrazy.net
 domain:aniscartujo.com
+domain:annas-archive.in
+domain:annas-archive.li
 domain:annas-archive.org
+domain:annas-archive.pm
 domain:annas-archive.se
 domain:annatam.com
 domain:anobii.com
@@ -1727,7 +1731,6 @@ domain:forum.cyberctm.com
 domain:forum.mymaji.com
 domain:forum.palmislife.com
 domain:forum.slime.com.tw
-domain:forum.tvb.com
 domain:forum.xinbao.de
 domain:forum4hk.com
 domain:fountmedia.io
@@ -3327,6 +3330,7 @@ domain:myspace.com
 domain:myspacecdn.com
 domain:mytalkbox.com
 domain:mytizi.com
+domain:mytvsuper.com
 domain:mywife.cc
 domain:mywww.biz
 domain:myz.info
@@ -4992,6 +4996,7 @@ domain:tuzaijidi.com
 domain:tv.com
 domain:tv.jtbc.joins.com
 domain:tvants.com
+domain:tvbanywhere.com
 domain:tvboxnow.com
 domain:tvider.com
 domain:tvmost.com.hk
