@@ -2474,6 +2474,7 @@ domain:hybrid-analysis.com
 domain:hyperbeam.com
 domain:hyperrate.com
 domain:hypothes.is
+domain:hysteria.network
 domain:i-cable.com
 domain:i-part.com.tw
 domain:i-scmp.com
