@@ -4316,6 +4316,7 @@ domain:sijihuisuo.com
 domain:silkbook.com
 domain:silvergatebank.com
 domain:simbolostwitter.com
+domain:simianx.ai
 domain:simplecd.me
 domain:simplecd.org
 domain:simpleproductivityblog.com
@@ -5719,6 +5720,7 @@ domain:yesasia.com
 domain:yesasia.com.hk
 domain:yespornplease.com
 domain:yeyeclub.com
+domain:yfsp.tv
 domain:ygto.com
 domain:yhcw.net
 domain:yibada.com
