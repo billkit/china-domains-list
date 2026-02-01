@@ -465,6 +465,7 @@ domain:bb-chat.tv
 domain:bbc.co.uk
 domain:bbc.com
 domain:bbc.in
+domain:bbc.pdn.tritondigital.com
 domain:bbcchinese.com
 domain:bbchat.tv
 domain:bbci.co.uk
@@ -1216,6 +1217,7 @@ domain:db.tt
 domain:dbgjd.com
 domain:dcard.tw
 domain:dcmilitary.com
+domain:dcs-spotify.megaphone.fm
 domain:ddc.com.tw
 domain:ddex.io
 domain:ddns.info
@@ -2264,6 +2266,7 @@ domain:hegre-art.com
 domain:helloandroid.com
 domain:helloqueer.com
 domain:hellouk.org
+domain:help.byspotify.com
 domain:helpeachpeople.com
 domain:helpster.de
 domain:helpzhuling.org
