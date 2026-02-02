@@ -232,6 +232,7 @@ full:oemsoc.download.prss.microsoft.com
 full:officecdn-microsoft-com.akamaized.net
 full:officecdn.microsoft.com
 full:oneocsp.microsoft.com
+full:packages.microsoft.com
 full:poshtestgallery.cloudapp.net
 full:prodforza.blob.core.windows.net
 full:psg-int-centralus.cloudapp.net
