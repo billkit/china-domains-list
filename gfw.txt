@@ -574,6 +574,7 @@ domain:bitmex.com
 domain:bitshare.com
 domain:bitsnoop.com
 domain:bitterwinter.org
+domain:bittorrent.com
 domain:bitvise.com
 domain:bitz.ai
 domain:bizhat.com
@@ -2271,6 +2272,7 @@ domain:help.byspotify.com
 domain:helpeachpeople.com
 domain:helpster.de
 domain:helpzhuling.org
+domain:hembed.com
 domain:hentai.to
 domain:hentaitube.tv
 domain:hentaivideoworld.com
@@ -5216,6 +5218,7 @@ domain:uygur.fc2web.com
 domain:uygur.org
 domain:uymaarip.com
 domain:v2.help
+domain:v2.hysteria.network
 domain:v2ex.com
 domain:v2fly.org
 domain:v2ray.com
