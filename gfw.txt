@@ -1358,6 +1358,7 @@ domain:glorystar.me
 domain:glype.com
 domain:gmail.com
 domain:gmgard.com
+domain:gmgn.ai
 domain:gmodules.com
 domain:gmp4.com
 domain:gnci.org.hk
@@ -3147,6 +3148,7 @@ domain:southpark.cc.com
 domain:sowers.org.hk
 domain:soylentnews.org
 domain:spaces.hightail.com
+domain:spacex.com
 domain:spankbang.com
 domain:sparkpool.com
 domain:spatial.io
@@ -3782,6 +3784,7 @@ domain:w3s.link
 domain:waffle1999.com
 domain:wainao.me
 domain:walletconnect.com
+domain:walletconnect.org
 domain:wallmama.com
 domain:wallpapercasa.com
 domain:wallsttv.com
