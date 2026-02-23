@@ -3447,6 +3447,7 @@ domain:toppornsites.com
 domain:topsy.com
 domain:toptip.ca
 domain:toptoon.net
+domain:tor.eff.org
 domain:torguard.net
 domain:torlock.com
 domain:torproject.org
@@ -3600,6 +3601,7 @@ domain:uncyclopedia.tw
 domain:underwoodammo.com
 domain:unholyknight.com
 domain:unirule.cloud
+domain:uniswap.org
 domain:unknownspace.org
 domain:unmineable.com
 domain:unseen.is
