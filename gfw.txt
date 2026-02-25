@@ -1203,6 +1203,7 @@ domain:free.com.tw
 domain:freebeacon.com
 domain:freebrowser.org
 domain:freechinaweibo.com
+domain:freedom.gov
 domain:freedomhouse.org
 domain:freedominfonetweb.wordpress.com
 domain:freedomsherald.org
