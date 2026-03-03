@@ -1,5 +1,3 @@
-0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
-0.in-addr.arpa
 0.xn--czrs0t
 0.xn--unup4y
 0.zone
@@ -70253,6 +70251,7 @@ monfetch.com
 mongac.com
 monhun.fun
 monidata.com
+monika.love
 monkeylsp.com
 monknow.com
 mono.work

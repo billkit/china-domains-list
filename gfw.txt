@@ -696,6 +696,7 @@ domain:cixiaoya.club
 domain:ck101.com
 domain:classicalguitarblog.net
 domain:claude.ai
+domain:claude.com
 domain:cldr.unicode.org
 domain:clearsurance.com
 domain:clementine-player.org
@@ -2202,6 +2203,7 @@ domain:mangafox.com
 domain:mangafox.me
 domain:mangmang.run
 domain:manta.com
+domain:manus.im
 domain:manyvoices.news
 domain:marc.info
 domain:martau.com
@@ -3918,7 +3920,6 @@ domain:www.gmiddle.net
 domain:www.hoyolab.com
 domain:www.hustlercash.com
 domain:www.idlcoyote.com
-domain:www.imdb.com
 domain:www.kindleren.com
 domain:www.lorenzetti.com.br
 domain:www.m-sport.co.uk
