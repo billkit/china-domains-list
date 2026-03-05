@@ -995,6 +995,7 @@ domain:ebook.hyread.com.tw
 domain:ebtcbank.com
 domain:ecfa.org.tw
 domain:ecimg.tw
+domain:economist.com
 domain:edgecastcdn.net
 domain:edubridge.com
 domain:edx-cdn.org
@@ -4081,7 +4082,6 @@ domain:z-library.ec
 domain:z-library.sk
 domain:zalmos.com
 domain:zamimg.com
-domain:zaobao.com.sg
 domain:zaochenbao.com
 domain:zattoo.com
 domain:zb.com
