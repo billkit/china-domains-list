@@ -944,6 +944,7 @@ domain:douchi.space
 domain:dougscripts.com
 domain:doujincafe.com
 domain:download.aircrack-ng.org
+domain:download.dappcdn.com
 domain:dpool.top
 domain:dpp.org.tw
 domain:dpr.info
