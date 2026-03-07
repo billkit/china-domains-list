@@ -916,6 +916,7 @@ domain:dmc.nico
 domain:dmcdn.net
 domain:dmhy.org
 domain:dmm.co.jp
+domain:dns.cloudflare.com
 domain:dns2go.com
 domain:dnscrypt.org
 domain:dnssec.net
@@ -1503,6 +1504,7 @@ domain:google.com.vn
 domain:google.cv
 domain:google.cz
 domain:google.de
+domain:google.dev
 domain:google.dk
 domain:google.dm
 domain:google.dz
@@ -1918,6 +1920,7 @@ domain:internetpopculture.com
 domain:interseclab.org
 domain:inthenameofconfuciusmovie.com
 domain:investigating.wordpress.com
+domain:investing.com
 domain:invidio.us
 domain:inxian.com
 domain:ipdefenseforum.com
