@@ -7043,6 +7043,7 @@ dynamics.com
 dynamobuilds.com
 dynamopackages.com
 dynamoreach.com
+dynatrace.com
 dynawebinc.com
 dyncdn.me
 dynu.com
@@ -8091,6 +8092,7 @@ familymart.com.ph
 familypies.net
 familyporn.tv
 familypornhd.com
+familysearch.org
 familysexsimulator.com
 familysimulator.com
 familysimulator.io
@@ -9080,7 +9082,6 @@ full:cbsplaylistserver.aws.syncbak.com
 full:cbsservice.aws.syncbak.com
 full:cdn-spotify-experiments.conductrics.com
 full:cdn.js7k.com
-full:cdn.jsdelivr.net
 full:cdngarenanow-a.akamaihd.net
 full:chinapower.csis.org
 full:cisco.evergage.com
@@ -19997,6 +19998,7 @@ shishijump001.com
 shit-porn.net
 shithd.com
 shitjav.com
+shitjournal.org
 shittytube.com
 shixiao.org
 shizhao.org
