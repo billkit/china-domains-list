@@ -75,6 +75,7 @@ domain:9news.com.au
 domain:a-normal-day.com
 domain:a248.e.akamai.net
 domain:aamacau.com
+domain:aave.com
 domain:abc.net.au
 domain:abc.xyz
 domain:abebooks.co.uk
