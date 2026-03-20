@@ -2546,8 +2546,10 @@ domain:ogate.org
 domain:ohmyrss.com
 domain:ok.ru
 domain:okayfreedom.com
+domain:okcoin.com
 domain:okex.com
 domain:okk.tw
+domain:oklink.com
 domain:okpool.me
 domain:okx.com
 domain:old.honeynet.org
