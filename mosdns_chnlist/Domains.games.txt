@@ -491,6 +491,7 @@ mariokart8.com
 mariosupersluggers.com
 masseffect.com
 masseffectarchives.com
+masteroforion.com
 maxis.com
 me4399.com
 metalrevolution.com
@@ -922,6 +923,8 @@ vrzwk.net
 vrzwk.top
 wanmei.com
 wanwan4399.com
+wargaming.com
+wargaming.net
 wariolandshakeit.com
 wariowarediy.com
 warnerbrosgames.com
@@ -936,6 +939,8 @@ wegame.com
 wegame.com.cn
 wegameplus.com
 werepository.com.cn
+wgcdn.co
+wgcrowd.io
 wii-u.com
 wiifit.com
 wiifitu.com
@@ -950,7 +955,13 @@ wmsjsteam.com
 wo1wan.com
 worldflipper.akamaized.net
 worldflipper.jp
+worldoftanks.com
+worldoftanks.eu
 worldofwarcraft.com
+worldofwarplanes.com
+worldofwarships.com
+wotblitz.com
+wowsblitz.com
 wtmobile.com
 xbox
 xbox.co
