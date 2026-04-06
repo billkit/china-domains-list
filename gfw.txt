@@ -236,6 +236,7 @@ domain:appsocks.net
 domain:appspot.com
 domain:appsto.re
 domain:aptoide.com
+domain:archive-it.org
 domain:archive.fo
 domain:archive.is
 domain:archive.li
@@ -919,6 +920,7 @@ domain:dmcdn.net
 domain:dmhy.org
 domain:dmm.co.jp
 domain:dns.cloudflare.com
+domain:dns.sb
 domain:dns2go.com
 domain:dnscrypt.org
 domain:dnssec.net
@@ -929,6 +931,7 @@ domain:docker.io
 domain:dockerstatus.com
 domain:docs.new
 domain:documentingreality.com
+domain:doh.sb
 domain:dolc.de
 domain:dolf.org.hk
 domain:dongtaiwang.com
@@ -936,6 +939,7 @@ domain:dongtaiwang.net
 domain:doom9.org
 domain:doosho.com
 domain:doourbest.org
+domain:dot.sb
 domain:dotplane.com
 domain:dotsub.com
 domain:dotvpn.com
