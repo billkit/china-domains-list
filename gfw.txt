@@ -785,6 +785,7 @@ domain:cpj.org
 domain:cpu-monkey.com
 domain:cq99.us
 domain:crackle.com
+domain:crashlytics.com
 domain:crazypool.org
 domain:crazyshit.com
 domain:crbug.com
