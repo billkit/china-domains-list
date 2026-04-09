@@ -2253,7 +2253,6 @@ domain:mediafreakcity.com
 domain:mediawiki.org
 domain:medium.com
 domain:meee.com.tw
-domain:meetup.com
 domain:mega.co.nz
 domain:mega.io
 domain:mega.nz
@@ -2321,6 +2320,7 @@ domain:mirrorbooks.com
 domain:mirrormedia.mg
 domain:missav.com
 domain:missav.ws
+domain:mistral.ai
 domain:mitbbs.com
 domain:miuipolska.pl
 domain:mixero.com
@@ -2827,7 +2827,6 @@ domain:pursuestar.com
 domain:putty.org
 domain:pximg.net
 domain:python.com.tw
-domain:pytorch.org
 domain:qbittorrent.org
 domain:qgirl.com.tw
 domain:qi-gong.me
