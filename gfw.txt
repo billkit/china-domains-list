@@ -184,11 +184,9 @@ domain:angela-merkel.de
 domain:angola.org
 domain:angularjs.org
 domain:aniscartujo.com
-domain:annas-archive.in
-domain:annas-archive.li
-domain:annas-archive.org
-domain:annas-archive.pm
-domain:annas-archive.se
+domain:annas-archive.gd
+domain:annas-archive.gl
+domain:annas-archive.pk
 domain:anobii.com
 domain:anonfiles.com
 domain:anonymouse.org
@@ -3292,7 +3290,6 @@ domain:tbsn.org
 domain:tbssqh.org
 domain:teachparentstech.org
 domain:technews.tw
-domain:techspot.com
 domain:techviz.net
 domain:teck.in
 domain:teco-hk.org
@@ -3306,7 +3303,6 @@ domain:telegram.me
 domain:telegram.org
 domain:telegram.space
 domain:telegramdownload.com
-domain:telegraph.co.uk
 domain:telesco.pe
 domain:tellapart.com
 domain:temu.com
