@@ -223,6 +223,7 @@ domain:apkpure.com
 domain:apkpure.net
 domain:app.box.com
 domain:app.cloudcone.com
+domain:app.element.io
 domain:app.smartmailcloud.com
 domain:appadvice.com
 domain:appbrain.com
@@ -263,6 +264,7 @@ domain:asianews.it
 domain:asianfanfics.com
 domain:asiansexdiary.com
 domain:asiaone.com
+domain:asiasociety.org
 domain:ask.com
 domain:askstudent.com
 domain:askynz.net
@@ -355,6 +357,7 @@ domain:beijing1989.com
 domain:beijing2022.art
 domain:beijingspring.com
 domain:bell.wiki
+domain:bellingcat.com
 domain:berlinerbericht.de
 domain:berlintwitterwall.com
 domain:bestvpn.com
@@ -681,7 +684,6 @@ domain:chrome.com
 domain:chromecast.com
 domain:chromeexperiments.com
 domain:chromestatus.com
-domain:chromium.org
 domain:ci-en.jp
 domain:cia.gov
 domain:cici.com
@@ -1954,6 +1956,7 @@ domain:islamhouse.com
 domain:ismaelan.com
 domain:ismprofessional.net
 domain:israbox.com
+domain:issues.chromium.org
 domain:issuu.com
 domain:isupportuyghurs.org
 domain:italiatibet.org
@@ -2095,6 +2098,7 @@ domain:lama.com.tw
 domain:lamayeshe.com
 domain:lamnia.co.uk
 domain:landofhope.tv
+domain:lantern.io
 domain:laogai.org
 domain:laogairesearch.org
 domain:laqingdan.net
@@ -2876,6 +2880,7 @@ domain:rationalwiki.org
 domain:raw.githack.com
 domain:rawgit.com
 domain:rawgithub.com
+domain:rawstory.com
 domain:rcam.target.com
 domain:rcinet.ca
 domain:rd.com
@@ -2887,6 +2892,7 @@ domain:readydown.com
 domain:realcourage.org
 domain:realitykings.com
 domain:reason.com
+domain:recordedfuture.com
 domain:recoveryversion.com.tw
 domain:red-lang.org
 domain:redbubble.com
@@ -2922,6 +2928,7 @@ domain:rixcloud.com
 domain:rixcloud.us
 domain:rlwlw.com
 domain:rmbl.ws
+domain:roblox.com
 domain:robustnessiskey.com
 domain:rocket-inc.net
 domain:rocket.chat
@@ -3133,7 +3140,6 @@ domain:southmongolia.org
 domain:southnews.com.tw
 domain:southpark.cc.com
 domain:sowers.org.hk
-domain:soylentnews.org
 domain:spaces.hightail.com
 domain:spacex.com
 domain:spankbang.com
@@ -3345,6 +3351,7 @@ domain:thetvdb.com
 domain:thewgo.org
 domain:thewirechina.com
 domain:theync.com
+domain:thinkchina.sg
 domain:thinkgeek.com
 domain:thinkingtaiwan.com
 domain:thinkwithgoogle.com
