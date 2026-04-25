@@ -3286,6 +3286,7 @@ domain:tbsec.org
 domain:tbsn.org
 domain:tbssqh.org
 domain:teachparentstech.org
+domain:techbang.com
 domain:technews.tw
 domain:techviz.net
 domain:teck.in
