@@ -3630,6 +3630,7 @@ domain:upghsbc.com
 domain:upmedia.mg
 domain:upornia.com
 domain:uproxy.org
+domain:upsangel.com
 domain:uptodown.com
 domain:uraban.me
 domain:urbandictionary.com
