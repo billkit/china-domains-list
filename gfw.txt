@@ -3108,6 +3108,7 @@ domain:socks-proxy.net
 domain:sockslist.net
 domain:socrec.org
 domain:softether-download.com
+domain:softether.co.jp
 domain:softether.org
 domain:softfamous.com
 domain:softwarebychuck.com
