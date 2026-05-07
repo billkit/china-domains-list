@@ -88,6 +88,7 @@ domain:abplive.com
 domain:acast.com
 domain:accountkit.com
 domain:acevpn.com
+domain:acg.mn
 domain:acg.rip
 domain:acg18.me
 domain:acgbox.org
@@ -413,6 +414,7 @@ domain:bl-doujinsouko.com
 domain:blacked.com
 domain:blackmagicdesign.com
 domain:blackvpn.com
+domain:bleepingcomputer.com
 domain:blinkx.com
 domain:blip.tv
 domain:blockcast.it
@@ -464,6 +466,7 @@ domain:bookdepository.com
 domain:books.com.tw
 domain:booktopia.com.au
 domain:bookwalker.com.tw
+domain:boomplay.com
 domain:bootstrapcdn.com
 domain:borgenmagazine.com
 domain:botanwang.com
@@ -731,6 +734,7 @@ domain:cn.theaustralian.com.au
 domain:cn.uptodown.com
 domain:cna.com.tw
 domain:cnbbnews.wordpress.com
+domain:cnbc.com
 domain:cnbeta.com.tw
 domain:cnd.org
 domain:cnnews.chosun.com
@@ -812,6 +816,7 @@ domain:csw.org.uk
 domain:ct.org.tw
 domain:ctinets.com
 domain:ctinews.com
+domain:ctinsider.com
 domain:ctitv.com.tw
 domain:ctowc.org
 domain:cts.com.tw
@@ -1006,6 +1011,7 @@ domain:ecfa.org.tw
 domain:ecimg.tw
 domain:economist.com
 domain:edgecastcdn.net
+domain:edigest.hk
 domain:edubridge.com
 domain:edx-cdn.org
 domain:eesti.ee
@@ -1730,6 +1736,7 @@ domain:hindustantimes.com
 domain:hinet.net
 domain:hitbtc.com
 domain:hitomi.la
+domain:hive.blog
 domain:hiveon.net
 domain:hk-pub.com
 domain:hk.gradconnection.com
@@ -1905,6 +1912,7 @@ domain:indiatoday.in
 domain:indiemerch.com
 domain:inews-api.tvb.com
 domain:info-graf.fr
+domain:infosec.exchange
 domain:infura.io
 domain:inherit.live
 domain:initiativesforchina.org
@@ -2043,6 +2051,7 @@ domain:kanshifang.com
 domain:kantie.org
 domain:kaotic.com
 domain:karayou.com
+domain:kathmandupost.com
 domain:kawaiikawaii.jp
 domain:kawase.com
 domain:kb.monitorware.com
@@ -2117,6 +2126,7 @@ domain:left21.hk
 domain:legra.ph
 domain:leisurepro.com
 domain:lematin.ch
+domain:lemonde.fr
 domain:lenwhite.com
 domain:lesoir.be
 domain:letscorp.net
@@ -2129,6 +2139,7 @@ domain:liaowangxizang.net
 domain:liberal.org.hk
 domain:libertysculpturepark.com
 domain:libertytimes.com.tw
+domain:libgen.is
 domain:library-access.sk
 domain:library.usc.cuhk.edu.hk
 domain:libredd.it
@@ -2250,6 +2261,7 @@ domain:meansys.com
 domain:media.nu.nl
 domain:mediachinese.com
 domain:mediafreakcity.com
+domain:mediamatters.org
 domain:mediawiki.org
 domain:medium.com
 domain:meee.com.tw
@@ -2329,6 +2341,7 @@ domain:mixx.com
 domain:mizzmona.com
 domain:mji.rip
 domain:mjj.rip
+domain:mjj.today
 domain:mjlsh.usc.cuhk.edu.hk
 domain:mlc.ai
 domain:mlzs.work
@@ -2378,6 +2391,7 @@ domain:mthruf.com
 domain:mubi.com
 domain:mullvad.net
 domain:multiply.com
+domain:music.amazon.com
 domain:musixmatch.com
 domain:muzi.com
 domain:muzi.net
@@ -2451,10 +2465,12 @@ domain:news1.kr
 domain:news18.com
 domain:newsancai.com
 domain:newsblur.com
+domain:newshub.co.nz
 domain:newsmax.com
 domain:newstamago.com
 domain:newstapa.org
 domain:newstatesman.com
+domain:newstimes.com
 domain:newsweek.com
 domain:newtalk.tw
 domain:newthuhole.com
@@ -2469,6 +2485,8 @@ domain:nflximg.com
 domain:nflximg.net
 domain:nflxso.net
 domain:nflxvideo.net
+domain:nfsc.press
+domain:nfscofficial.com
 domain:nftstorage.link
 domain:nga.mil
 domain:nhentai.net
@@ -2614,6 +2632,7 @@ domain:oursteps.com.au
 domain:ourtv.hk
 domain:overcast.fm
 domain:overdaily.org
+domain:overdrive.com
 domain:overplay.net
 domain:oversea.istarshine.com
 domain:ovpn.com
@@ -2665,6 +2684,7 @@ domain:pekingduck.org
 domain:pemulihan.or.id
 domain:pen.io
 domain:pendrivelinux.com
+domain:penguin.com.au
 domain:pentoy.hk
 domain:peoplenews.tw
 domain:peopo.org
@@ -2950,6 +2970,7 @@ domain:rthk.org.hk
 domain:rti.org.tw
 domain:rti.tw
 domain:rtm.tnt-ea.com
+domain:rts.ch
 domain:rule34.xxx
 domain:rule34video.com
 domain:rumble.com
@@ -3061,6 +3082,7 @@ domain:simplecd.org
 domain:simpleswap.io
 domain:simplex.chat
 domain:sina.com.hk
+domain:sinchew.com.my
 domain:singaporepools.com.sg
 domain:singlelogin.se
 domain:singtao.com
@@ -3314,6 +3336,8 @@ domain:tfhub.dev
 domain:tfiflve.com
 domain:tg-me.com
 domain:tg.dev
+domain:tgstat.com
+domain:the-sun.com
 domain:theatlantic.com
 domain:theatrum-belli.com
 domain:thebcomplex.com
@@ -3346,6 +3370,7 @@ domain:thestandnews.com
 domain:thetatoken.org
 domain:thetibetpost.com
 domain:thetvdb.com
+domain:theweek.com
 domain:thewgo.org
 domain:thewirechina.com
 domain:theync.com
@@ -3519,6 +3544,7 @@ domain:tv.com
 domain:tv.jtbc.joins.com
 domain:tvbanywhere.com
 domain:tvboxnow.com
+domain:tvdy1.com
 domain:tvunetworks.com
 domain:tw-blog.com
 domain:tw.jiepang.com
@@ -3726,6 +3752,7 @@ domain:vod.wwe.com
 domain:voicettank.org
 domain:vot.org
 domain:vovo2000.com
+domain:vox.com
 domain:voxer.com
 domain:vpl.bibliocommons.com
 domain:vpn.ac
@@ -3901,6 +3928,7 @@ domain:work2icu.org
 domain:workatruna.com
 domain:workerempowerment.org
 domain:workers.dev
+domain:worldjournal.com
 domain:worldvpn.net
 domain:wowgirls.com
 domain:wowhead.com
