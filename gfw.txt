@@ -3630,6 +3630,7 @@ domain:ulop.net
 domain:ultrasurf.us
 domain:ultravpn.com
 domain:ultravpn.fr
+domain:umap.openstreetmap.fr
 domain:unblock-us.com
 domain:unblock.cn.com
 domain:unblockdmm.com
