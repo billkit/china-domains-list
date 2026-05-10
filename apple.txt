@@ -31,6 +31,7 @@ domain:certs.apple.com
 domain:cl1-cdn.origin-apple.com.akadns.net
 domain:cl1.apple.com
 domain:cl2-cn.apple.com
+domain:cl2.apple.com.edgekey.net.globalredir.akadns.net
 domain:cl2.apple.com
 domain:cl3-cdn.origin-apple.com.akadns.net
 domain:cl3.apple.com
@@ -56,6 +57,7 @@ domain:experiments.apple.com
 domain:gs-loc-cn.apple.com
 domain:gs-loc.apple.com
 domain:gsp10-ssl-cn.ls.apple.com
+domain:gsp11-cn.ls.apple.com
 domain:gsp12-cn.ls.apple.com
 domain:gsp13-cn.ls.apple.com
 domain:gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
@@ -74,8 +76,6 @@ domain:guzzoni-apple-com.v.aaplimg.com
 domain:guzzoni.apple.com
 domain:guzzoni.smoot.apple.com
 domain:iadsdk.apple.com
-domain:icloud-cdn.icloud.com.akadns.net
-domain:icloud.cdn-apple.com
 domain:images.apple.com.edgekey.net.globalredir.akadns.net
 domain:init-kt.apple.com
 domain:init-p01md-lb.push-apple.com.akadns.net
@@ -108,20 +108,16 @@ domain:mesu-china.apple.com.akadns.net
 domain:mesu.apple.com
 domain:ml.cdn-apple.com
 domain:music.apple.com
-domain:ocsp-lb.apple.com.akadns.net
 domain:ocsp.apple.com
-domain:ocsp2-lb.apple.com.akadns.net
 domain:ocsp2.apple.com
 domain:oscdn.apple.com
 domain:oscdn.origin-apple.com.akadns.net
 domain:osxapps.itunes.g.aaplimg.com
 domain:pancake.apple.com
-domain:pancake.cdn-apple.com.akadns.net
 domain:pba0.apple.com
 domain:probe.siri.apple.com
 domain:prod-support.apple-support.akadns.net
 domain:publicassets.cdn-apple.com
-domain:reserve-prime.apple.com
 domain:s.mzstatic.com
 domain:seed-sequoia.siri.apple.com
 domain:seed-swallow.siri.apple.com
