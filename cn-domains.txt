@@ -23007,7 +23007,6 @@ domain:chuangyehai.com
 domain:chuangyejia.com
 domain:chuangyetv.com
 domain:chuangyijisu.com
-domain:chuangyimao.com
 domain:chuangyiqifu.com
 domain:chuangyisai.com
 domain:chuangyiwh.com
@@ -24300,7 +24299,6 @@ domain:cncrypt.com
 domain:cncsen.com
 domain:cncsj.net
 domain:cncsparetools.com
-domain:cnctg.net
 domain:cnction.com
 domain:cnctrip.com
 domain:cncwkj.com
@@ -34019,7 +34017,6 @@ domain:eyou.com
 domain:eyou.net
 domain:eyoubaidu.com
 domain:eyoucms.com
-domain:eyouct.com
 domain:eyoungindustry.com
 domain:eyourbusiness.com
 domain:eyouwx.com
@@ -53121,7 +53118,6 @@ domain:iyouxin.com
 domain:iyouxun.com
 domain:iyruan.com
 domain:iysj.com
-domain:iytc.net
 domain:iytcdn.com
 domain:iyuan.ltd
 domain:iyuanpei.cc
@@ -69401,7 +69397,6 @@ domain:newcentury-edu.com
 domain:newcger.com
 domain:newchainbase.com
 domain:newchieve.com
-domain:newchinabeach.org
 domain:newchinalife.com
 domain:newcitygz.com
 domain:newclasses.org
@@ -76403,7 +76398,6 @@ domain:qmwyy.com
 domain:qmxphoto.com
 domain:qmxrmt.com
 domain:qmxyc.com
-domain:qmyc.ltd
 domain:qmyq.com
 domain:qmyyl.com
 domain:qmz5.com
@@ -78489,7 +78483,6 @@ domain:ritaojiang.com
 domain:ritaomeng.com
 domain:ritarpower.com
 domain:rivalsa.net
-domain:riveralydia.shop
 domain:rivergame.net
 domain:riverinepm.com
 domain:riverlimittech.net
@@ -96435,6 +96428,7 @@ domain:wetest.org
 domain:wetestlab.net
 domain:wetherm.com
 domain:weti.me
+domain:wetimetech.com
 domain:weton.net
 domain:wetools.com
 domain:wetools.pro
