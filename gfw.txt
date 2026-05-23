@@ -25,6 +25,7 @@ domain:2047.name
 domain:2047.one
 domain:2049bbs.xyz
 domain:233abc.com
+domain:24hbook.com
 domain:24hrs.ca
 domain:32red.com
 domain:36rain.com
@@ -2241,6 +2242,7 @@ domain:martau.com
 domain:martsangkagyuofficial.org
 domain:marxist.net
 domain:marxists.org
+domain:mas.to
 domain:mash.to
 domain:mastodon.cloud
 domain:mastodon.host
@@ -2448,6 +2450,7 @@ domain:ncn.org
 domain:ndi.org
 domain:nekoslovakia.net
 domain:neo-miracle.com
+domain:neodb.social 
 domain:neowin.net
 domain:nephobox.com
 domain:netalert.me
