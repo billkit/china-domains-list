@@ -2258,6 +2258,7 @@ arweave.org
 arxiv.org
 arzon.jp
 as-hp.ca
+as.mr
 asacp.org
 asagaku.com
 asahi.com
@@ -10194,6 +10195,7 @@ gemfire.net
 gemfury.com
 gemini.com
 gen.lib.rus.ec
+gencraft.com
 gendai.net
 generated.photos
 genetic-technologies.am
@@ -23553,6 +23555,7 @@ vday.io
 vdoav.com
 vecchiescopate.casa
 vector.im
+veed.io
 veet.at
 veet.be
 veet.ca
@@ -25937,7 +25940,6 @@ yho.com
 yhy.cool
 yibaochina.com
 yibei.org
-yidio.com
 yigeni.com
 yimg.com
 yimg.jp
