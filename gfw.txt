@@ -2661,7 +2661,6 @@ domain:pachosting.com
 domain:pacom.mil
 domain:pacopacomama.com
 domain:page.link
-domain:pages.dev
 domain:paimon.moe
 domain:pancakeswap.finance
 domain:pandafan.pub
@@ -3274,6 +3273,7 @@ domain:surfeasy.com
 domain:surfeasy.com.au
 domain:surfshark.com
 domain:surrenderat20.net
+domain:suyingtv.com
 domain:swagbucks.com
 domain:swapspace.co
 domain:swissinfo.ch
@@ -3956,6 +3956,7 @@ domain:wowhead.com
 domain:wowporn.com
 domain:woyaolian.org
 domain:wp.com
+domain:wplace.live
 domain:wpoforum.com
 domain:writesonic.com
 domain:wsj.com
