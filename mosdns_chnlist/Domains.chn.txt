@@ -3395,6 +3395,7 @@
 264006.com
 264321.com
 264400.com
+265.com
 26582.vip
 26595.com
 265g.com
@@ -36611,7 +36612,6 @@ fulitec.com
 fuliti.com
 fuliw.net
 full-way.com
-full:265.com
 full:2mdn-cn.net
 full:2mdn.net
 full:a1.mzstatic.com
@@ -37176,6 +37176,7 @@ full:www.gstatic.com
 full:www.microsoft.com
 full:www.miwifi.com
 full:www.pxcc.com
+full:www.recaptcha-cn.net
 full:www.recaptcha.net
 full:www.routerlogin.com
 full:www.support.apple.com
