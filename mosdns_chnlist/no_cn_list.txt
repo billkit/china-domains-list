@@ -2173,7 +2173,6 @@ appmediagroup.com
 approvedusedbmw.com
 apps.evozi.com
 apps5.oingo.com
-appsflayer.com
 appshopper.com
 appsmail.ru
 appsocks.net
@@ -2919,6 +2918,7 @@ barrons-conferences.com
 barrons.com
 barss1207.pro
 barton.de
+base.org
 baselinestudy.com
 baselinestudy.org
 basilisk-browser.org
@@ -3623,6 +3623,7 @@ bitflyer.com
 bitflyer.jp
 bitget.com
 bithumb.com
+bitlayer.org
 bitly.com
 bitly.is
 bitmex.com
@@ -3668,6 +3669,7 @@ blackstonespoliceservice.com
 blacktowhite.net
 blackvpn.com
 blaoshi.cc
+blast.io
 blazor.net
 bleepingcomputer.com
 blender.org
@@ -4250,11 +4252,14 @@ bmwusatires.com
 bmwusfactory.com
 bmwusrideracademy.com
 bmwvalueservice.com
+bmwweb.solutions
 bmwwholesaleconnect.com
 bmwworld.com
 bmwworld.net
 bmwworld.tv
 bmwzentrum.com
+bnappweb.black
+bnbchain.org
 bnbstatic.com
 bnef.com
 bnext.com.tw
@@ -4515,7 +4520,9 @@ brutalfetish.com
 brutaltgp.com
 bs-adreview.com
 bs-awh.ne.jp
+bsappapi.cc
 bsappapi.com
+bscdnweb.com
 bsi.ir
 bsky.app
 bsky.network
@@ -5139,6 +5146,7 @@ cfr.org
 cfwives.com
 cgdepot.org
 ch9.ms
+chainid.network
 championshipseriesleague.com
 change.org
 changp.com
@@ -5798,6 +5806,7 @@ copy2000.online
 coqnu.com
 corbinfisher.com
 cordcloud.org
+coredao.org
 coreduo.com
 coreextreme.com
 corel.com
@@ -7078,6 +7087,7 @@ dropboxmail.com
 dropboxpartners.com
 dropboxstatic.com
 dropboxusercontent.com
+drpc.org
 drtuber.com
 drunk6.com
 drunkenstepfather.com
@@ -8409,6 +8419,8 @@ fansteek.com
 fanswong.com
 fantasiasguatemala.com
 fantasti.cc
+fantom.foundation
+fantom.network
 fantv.hk
 fap-xxx.com
 fap18.net
@@ -8611,6 +8623,7 @@ fhreports.net
 fi11.com
 fi11av1.com
 fi11tv1.com
+fiat24.com
 fibank.bg
 fic.fan
 ficador.com
@@ -8769,6 +8782,7 @@ fjlkajhgfa.top
 fl310.com
 flagrasamadores.net
 flameunleashed.com
+flare.network
 flaru.com
 flashtranny.com
 flatandfuckedmilfs.com
@@ -9997,6 +10011,8 @@ full:www.quora.com.cdn.cloudflare.net
 full:yangzhi.app
 full:yt3.googleusercontent.com
 full:zeenews-fonts.s3.amazonaws.com
+full:zftksc.cdn-settings.appsflyersdk.com
+full:zftksc.launches.appsflyersdk.com
 fulldesisex.com
 fullerconsideration.com
 fullfuli.com
@@ -13335,6 +13351,7 @@ irotv301.top
 irribay.com
 is.gd
 isaacmao.com
+isafepal.com
 isbgpsafeyet.com
 isc.sans.edu
 isca-speech.org
@@ -15347,6 +15364,7 @@ mega.co.nz
 mega.io
 mega.nz
 megacamz.com
+megaeth.com
 megafilmporno.com
 megafon.com
 megafon.ru
@@ -15402,6 +15420,7 @@ meridian-trust.org
 meridian.net
 meripet.com
 merit-times.com.tw
+merkl.xyz
 meshmixer.com
 meshmixerforum.com
 messenger.com
@@ -15436,6 +15455,7 @@ metroradio.com.hk
 metrotoons.com
 meuhentai.com
 mewe.com
+mexc.co
 mexc.com
 mexcsensors.com
 mfg-inspector.com
@@ -17021,6 +17041,7 @@ nhkworld.jp
 nhncorp.jp
 nic.cz.cc
 nic.gov
+nic.ru
 niceanimegames.com
 nicegram.app
 nicegram.cloud
@@ -17029,6 +17050,7 @@ nicesrv.de
 nicesshop.net
 nichepornsite.com
 nichepornsites.com
+nichost.ru
 nickscipio.com
 nicky.xxx
 nico
@@ -17285,6 +17307,7 @@ nodeget.com
 nodeimage.com
 nodejs.org
 nodequality.com
+nodereal.io
 nodeseek.com
 nodesource.com
 noisullifb.com
@@ -17593,6 +17616,7 @@ oaiusercontent.com
 oanda.com
 oanencore.com
 oann.com
+oasis.io
 oath.cloud
 oath.com
 oauthz.com
@@ -17780,6 +17804,7 @@ oneteamconference.com
 onetrust.com
 onevps.com
 oneworldmanystories.com
+onfinality.io
 onindiansex.com
 oninstagram.com
 onion.city
@@ -19582,6 +19607,7 @@ qzav.tv
 r-pool.net
 r-project.org
 r0.ru
+r01.ru
 r10s.com
 r10s.jp
 r18.clickme.net
@@ -19866,6 +19892,9 @@ refah-bank.ir
 referer.us
 reflectivecode.com
 reform-apple.com
+reg.cloud
+reg.com
+reg.ru
 regex101.com
 regexp:(^|.)13mei[5-7].buzz$
 regexp:(^|.)18j[efg].life$
@@ -20241,6 +20270,7 @@ rsf-chinese.org
 rsf.org
 rsg.sc
 rshb.ru
+rsk.co
 rspao.com
 rsshub.app
 rssing.com
@@ -20395,6 +20425,7 @@ saas-support.com
 saasexch.cc
 saasexch.co
 saasexch.com
+saasexch.info
 saasexch.io
 sabuibo.net
 sacduc.com
@@ -20409,6 +20440,7 @@ safebooru.org
 safechat.com
 safeguarddefenders.com
 safeliner.tech
+safepal.com
 safervpn.com
 saffrontech.com
 sagabank.co.jp
@@ -21463,6 +21495,7 @@ solana.com
 solarcity.com
 solarsystem.nasa.gov
 solid.ru
+solidifi.app
 solostudioksale.com
 solscan.io
 solutionstation.com
@@ -21919,6 +21952,7 @@ steam.naeu.qtlglb.com
 steam.ru.qtlglb.com
 steam.tv
 steamcommunity.com
+steamconnecttest.com
 steamcontent.com
 steamdb.info
 steamdeck.com
@@ -22156,6 +22190,7 @@ swapsmut.com
 swapspace.co
 sway-cdn.com
 sway.com
+sweb.ru
 sweetadult-tube.com
 sweetandmaxwell.co.uk
 sweetsext.com
@@ -22282,6 +22317,7 @@ tagapie.com.tw
 tagbank.ru
 tagwalk.com
 taiav.com
+taiko.xyz
 tail-f.com
 tailf.com
 tails.net
@@ -22729,6 +22765,7 @@ thinkquarterly.com
 thinkwithgoogle.com
 thirdmill.org
 thirdns.de
+thirdweb.com
 thisav.com
 thisisgame.com
 thisismoney.co.uk
@@ -25534,6 +25571,7 @@ xknoop.com
 xkontakt18.com
 xkorean.cam
 xl-gaytube.com
+xlayer.tech
 xlecx.org
 xlgirls.com
 xlinkz.to
