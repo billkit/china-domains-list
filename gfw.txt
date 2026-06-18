@@ -3109,6 +3109,7 @@ domain:sinoants.com
 domain:sinoca.com
 domain:sinocast.com
 domain:sinoinsider.com
+domain:sinyalee.com
 domain:sipml5.org
 domain:sis001.com
 domain:site.new
