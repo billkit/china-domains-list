@@ -87,6 +87,7 @@ domain:about.gitlab.com
 domain:about.me
 domain:abplive.com
 domain:acast.com
+domain:accountboy.com
 domain:accountkit.com
 domain:acevpn.com
 domain:acg.mn
@@ -2382,6 +2383,7 @@ domain:monitorchina.org
 domain:monocloud.me
 domain:monster.com
 domain:moodyz.com
+domain:moomoo.com
 domain:moon.fm
 domain:moonbbs.com
 domain:moonbingo.com
@@ -4046,6 +4048,7 @@ domain:xn--noss43i.com
 domain:xn--oiq.cc
 domain:xn--p8j9a0d9c9a.xn--q9jyb4c
 domain:xn--u2u927b.com
+domain:xn--vuqv2cf7wzyig79c.com
 domain:xnpool.com
 domain:xnxx.com
 domain:xpud.org
