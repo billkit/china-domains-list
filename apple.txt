@@ -103,6 +103,7 @@ domain:is5.mzstatic.com
 domain:itunes-apple.com.akadns.net
 domain:itunes.apple.com
 domain:itunesconnect.apple.com
+domain:mensura.cdn-apple.com
 domain:mesu-cdn.apple.com.akadns.net
 domain:mesu-china.apple.com.akadns.net
 domain:mesu.apple.com
