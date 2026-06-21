@@ -13905,6 +13905,7 @@ domain:b-fairy.com
 domain:b-k-automation.com
 domain:b-raymedia.com
 domain:b.biz
+domain:b.c2r.ts.cdn.office.net
 domain:b01.net
 domain:b02f0d7f3745ba7c.com
 domain:b041e427810281.beer
@@ -30399,6 +30400,7 @@ domain:douyongtuan.com
 domain:douyou100.com
 domain:douyu.com
 domain:douyu.tv
+domain:douyuedui.com
 domain:douyuex.com
 domain:douyuscdn.com
 domain:douyutv.com
@@ -33159,7 +33161,6 @@ domain:etccenters.com
 domain:etcchebao.com
 domain:etcgsx.com
 domain:etchcb.com
-domain:etcifk.vip
 domain:etcifw.vip
 domain:etcsd.com
 domain:etcsx.com
@@ -33662,6 +33663,7 @@ domain:f-dou.com
 domain:f-insight.com
 domain:f-stack.org
 domain:f.biz
+domain:f.c2r.ts.cdn.office.net
 domain:f.cx
 domain:f008.com
 domain:f015dfc4510292.beer
@@ -34848,7 +34850,6 @@ domain:fhfxys.com
 domain:fhgame.com
 domain:fhgjds.com
 domain:fhguotai.com
-domain:fhl05161ps.com
 domain:fhldns.com
 domain:fhldns.net
 domain:fhlmotor.com
@@ -43112,6 +43113,8 @@ domain:haimawan.com
 domain:haimeec.com
 domain:haimi.com
 domain:haimian.com
+domain:haimianbandstatic.com
+domain:haimianyinyue.com
 domain:haimin.net
 domain:haimini.com
 domain:haimosic.com
@@ -52536,7 +52539,6 @@ domain:izaodao.com
 domain:izazamall.com
 domain:izb.pub
 domain:izdatatech.com
-domain:izenith.co
 domain:izestchina.com
 domain:izgfu.com
 domain:izhailong.com
@@ -53879,7 +53881,6 @@ domain:jieqi.com
 domain:jieqian.co
 domain:jieqibg.com
 domain:jieqinwang.com
-domain:jierengz.com
 domain:jieri2.com
 domain:jierili.com
 domain:jieruchaosheng.com
@@ -61081,7 +61082,6 @@ domain:liao98.com
 domain:liaobagua.com
 domain:liaocheng.cc
 domain:liaochuo.com
-domain:liaode.com.tw
 domain:liaogu.com
 domain:liaogx.com
 domain:liaoing.com
@@ -69846,7 +69846,6 @@ domain:nnjnwg.com
 domain:nnjr.co
 domain:nnjsdsoft.com
 domain:nnjsgy.com
-domain:nnjsypx.com
 domain:nnjsza.com
 domain:nnjszlsb.com
 domain:nnjt.com
@@ -72470,7 +72469,6 @@ domain:pengyou.com
 domain:pengyou.net
 domain:pengyoukan.com
 domain:pengyuanled.com
-domain:pengyucpa.com
 domain:pengyuwei.net
 domain:pengzhihui.xyz
 domain:penhuijiqi.com
@@ -77502,7 +77500,6 @@ domain:ribio.com
 domain:ribolia.com
 domain:ricequant.com
 domain:riceyun.com
-domain:rich-chang.com
 domain:rich-fc.com
 domain:rich-futures.com
 domain:rich-healthcare.com
@@ -81108,6 +81105,7 @@ domain:shejiyue.com
 domain:sheketiandi.com
 domain:shekou.com
 domain:shelive.net
+domain:shell.cdn.office.net
 domain:shellpub.com
 domain:shellsec.com
 domain:shelter-china.com
@@ -84928,6 +84926,7 @@ domain:staticfile.net
 domain:staticfile.org
 domain:statickksmg.com
 domain:statics.cc
+domain:statics.teams.cdn.office.net
 domain:staticsdd.com
 domain:staticsoe.com
 domain:staticsoem.com
@@ -85641,6 +85640,7 @@ domain:suqun-group.com
 domain:surely.cool
 domain:surerp.com
 domain:surface.download.prss.microsoft.com
+domain:surface.downloads.prss.microsoft.com
 domain:surfacetreatmentgroup.com
 domain:surfacetreatmenttechnology.com
 domain:surfcg.com
@@ -95692,7 +95692,6 @@ domain:whidf.com
 domain:whidy.net
 domain:whiee.com
 domain:whiie-expo.com
-domain:whimsywarpgame.cc
 domain:whinfo.net
 domain:whir.net
 domain:whisperto.net
@@ -98297,6 +98296,7 @@ domain:xcrmyy.com
 domain:xcsc.com
 domain:xcstuido.com
 domain:xcsyy.com
+domain:xcthings.com
 domain:xctmr.com
 domain:xcultur.com
 domain:xcurrency.com
@@ -98379,7 +98379,6 @@ domain:xdpipe.com
 domain:xdpjump.com
 domain:xdplt.com
 domain:xdpvp.com
-domain:xdqtech.com
 domain:xdressy.com
 domain:xdrig.com
 domain:xdrtc.com
@@ -99709,6 +99708,7 @@ domain:xinghaoyun8.com
 domain:xinghejoy.com
 domain:xinghengedu.com
 domain:xingheoa.com
+domain:xinghewanglu.com
 domain:xinghuaport.com
 domain:xinghuazixun.com
 domain:xinghuo100.com
@@ -101965,7 +101965,6 @@ domain:xyimg.net
 domain:xyingsoft.com
 domain:xyj.link
 domain:xyj321.com
-domain:xyj618.com
 domain:xyjbglass.com
 domain:xyjs999.com
 domain:xyjtzz.com
@@ -107194,6 +107193,8 @@ domain:zabxib.com
 domain:zac1993.com
 domain:zachina.org
 domain:zack.asia
+domain:zaconad.com
+domain:zaconbs.com
 domain:zadervice.com
 domain:zaduonews.com
 domain:zaecu.com
