@@ -184,6 +184,7 @@ dynamics.com
 efproject.net
 elderscrolls.com
 engkoo.com
+exp-tas.com
 fasttrackreadysupport.com
 femalefounderscomp.com
 flightsimulator.com
@@ -322,6 +323,7 @@ gigjam.com
 git.io
 github.ai
 github.blog
+github.career
 github.com
 github.community
 github.dev
@@ -694,7 +696,10 @@ vsallin.net
 vsassets.io
 vscode-cdn.net
 vscode-unpkg.net
+vscode-webview.net
 vscode.dev
+vscodeedu.app
+vscodeedu.com
 wbd.ms
 what-fan.net
 windows
