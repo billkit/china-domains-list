@@ -98,6 +98,7 @@ apple-pay.wang
 apple-store.cn
 apple-store.net
 apple-store.wang
+apple-studies.com
 apple-usa.net
 apple-watch.com.ru
 apple.ae
@@ -1030,8 +1031,10 @@ full:devstreaming-cdn.apple.com
 full:discussionschinese.apple.com
 full:download.developer.apple.com
 full:downloaddispatch.itunes.apple.com
+full:entitlements-edge.itunes.apple.com
 full:experiments.apple.com
 full:fides-pol.apple.com
+full:fpinit.itunes.apple.com
 full:gs-loc-cn.apple.com
 full:gs-loc.apple.com
 full:gsp10-ssl-cn.ls.apple.com
@@ -1063,7 +1066,6 @@ full:images.apple.com.edgekey.net.globalredir.akadns.net
 full:inappcheck-cn.itunes-apple.com.akadns.net
 full:inappcheck-lb.itunes-apple.com.akadns.net
 full:inappcheck.itunes.apple.com
-full:ingest.apple-studies.com
 full:init-kt.apple.com
 full:init-p01md-lb.push-apple.com.akadns.net
 full:init-p01md.apple.com
