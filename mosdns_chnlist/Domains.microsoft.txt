@@ -97,6 +97,7 @@ azuredns-prd.info
 azuredns-prd.org
 azureedge-test.net
 azureedge.net
+azureedge.us
 azurefd.net
 azurehdinsight.cn
 azureiotcentral.com
@@ -163,6 +164,7 @@ cn.bing.net
 cn.mm.bing.net
 codethemicrobit.com
 collector.github.com
+copilot-stg.com
 copilot.com
 cortanaanalytics.com
 cortanaskills.com
