@@ -13,6 +13,7 @@ domain:1688.com.au
 domain:173ng.com
 domain:18board.com
 domain:18comic.org
+domain:18comic.vip
 domain:18mh.net
 domain:1984bbs.com
 domain:1991way.com
