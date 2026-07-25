@@ -710,6 +710,7 @@ domain:ci-en.jp
 domain:cia.gov
 domain:cici.com
 domain:ciciai.com
+domain:circle19.org
 domain:cirosantilli.com
 domain:citizencn.com
 domain:citizenlab.ca
@@ -2114,6 +2115,7 @@ domain:kanshifang.com
 domain:kantie.org
 domain:kaotic.com
 domain:karayou.com
+domain:kards.com
 domain:kathmandupost.com
 domain:kawaiikawaii.jp
 domain:kawase.com
