@@ -2200,6 +2200,7 @@ domain:lenwhite.com
 domain:leonardo.ai
 domain:lesoir.be
 domain:letscorp.net
+domain:level-plus.net
 domain:lexica.art
 domain:lhakar.org
 domain:li.taipei
@@ -3817,6 +3818,7 @@ domain:uyghurstudies.org
 domain:uyghurtribunal.com
 domain:uygur.fc2web.com
 domain:uymaarip.com
+domain:v.recipes
 domain:v2.help
 domain:v2.hysteria.network
 domain:v2ex.com
