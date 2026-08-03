@@ -626,6 +626,7 @@ domain:centauro.com.br
 domain:centerforhumanreprod.com
 domain:centralnation.com
 domain:centurys.net
+domain:cerebras.ai
 domain:certificate-transparency.org
 domain:certificate.revocationcheck.com
 domain:cfr.org
@@ -706,6 +707,7 @@ domain:chrome.com
 domain:chromecast.com
 domain:chromeexperiments.com
 domain:chromestatus.com
+domain:cht.com.tw
 domain:ci-en.jp
 domain:cia.gov
 domain:cici.com
@@ -2464,7 +2466,6 @@ domain:mosavi.io
 domain:motherless.com
 domain:movements.org
 domain:moviefap.com
-domain:mozilla.ai
 domain:mpettis.com
 domain:mpfinance.com
 domain:mpinews.com
@@ -2934,7 +2935,6 @@ domain:puffinbrowser.com
 domain:pullfolio.co
 domain:pure18.com
 domain:pureconcepts.net
-domain:puredns.org
 domain:pureinsight.org
 domain:purepdf.com
 domain:purevpn.com
@@ -2979,7 +2979,6 @@ domain:radio.co
 domain:radio.garden
 domain:radioaustralia.net.au
 domain:radiohilight.net
-domain:radiojar.com
 domain:radioline.co
 domain:radiovaticana.org
 domain:radiovncr.com
@@ -3092,7 +3091,6 @@ domain:sadpanda.us
 domain:safechat.com
 domain:safeguarddefenders.com
 domain:safervpn.com
-domain:sagernet.org
 domain:saintyculture.com
 domain:sakuralive.com
 domain:salvation.org.hk
@@ -4085,7 +4083,6 @@ domain:www.ajsands.com
 domain:www.antd.org
 domain:www.aolnews.com
 domain:www.bing.com
-domain:www.clashverge.dev
 domain:www.cmoinc.org
 domain:www.dmm.com
 domain:www.eastturkistan.net
