@@ -938,6 +938,7 @@ domain:disneyplus.com
 domain:disp.cc
 domain:disqus.com
 domain:dit-inc.us
+domain:divdyn.com
 domain:diyin.org
 domain:dizhuzhishang.com
 domain:dl-laby.jp
