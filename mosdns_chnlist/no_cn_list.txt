@@ -4609,6 +4609,7 @@ buhidoh.net
 buicha.social
 building3dcontent.com
 builtfromebay.com
+builtwithnix.org
 bukkake-jav.com
 bullguard.com
 bullog.org
@@ -9709,6 +9710,7 @@ full:mwf-service.akamaized.net
 full:na1r.services.adobe.com
 full:nbbb1bb7.pmhcjk.com
 full:netflix.com.edgesuite.net
+full:nix-community.github.io
 full:notary-submissions-prod.s3-accelerate.amazonaws.com
 full:notary-submissions-prod.s3.us-west-2.amazonaws.com
 full:notebooklm-pa.googleapis.com
@@ -16807,6 +16809,7 @@ mymusclevideo.com
 mynavi.jp
 mynetname.net
 mynike.com
+mynixos.com
 myoctocat.com
 myparagliding.com
 mypearson.com
@@ -17501,7 +17504,15 @@ niusnews.com
 nivod.tv
 nivodi.tv
 nivodz.com
+nix-community.org
+nix.dev
+nix.store
+nixcon.org
+nixcon2017.org
+nixlang.com
 nixos.org
+nixos.wiki
+nixpkgs.org
 niziero.info
 njactb.org
 njav.tv
@@ -26522,6 +26533,7 @@ yandex.ee
 yandex.eu
 yandex.fi
 yandex.fr
+yandex.it
 yandex.jobs
 yandex.kg
 yandex.kz
