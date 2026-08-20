@@ -228,7 +228,6 @@ full:download.visualstudio.microsoft.com
 full:dreamspark.download.prss.microsoft.com
 full:dreamsparkuat.download.prss.microsoft.com
 full:dtlgalleryint.cloudapp.net
-full:emoi-cncdn.bing.com
 full:f.c2r.ts.cdn.office.net
 full:flightsimulator.azureedge.net
 full:github-api.arkoselabs.com
