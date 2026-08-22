@@ -501,6 +501,7 @@ domain:break.com
 domain:breakgfw.com
 domain:breakingtweets.com
 domain:breakwall.net
+domain:briarproject.org
 domain:brill.com
 domain:brizzly.com
 domain:broadpressinc.com
@@ -643,6 +644,7 @@ domain:character.ai
 domain:chat.com
 domain:chat.lmsys.org
 domain:chatgpt.com
+domain:chatgpt.site
 domain:chatpdf.com
 domain:chaturbate.com
 domain:checkgfw.com
