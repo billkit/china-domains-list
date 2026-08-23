@@ -1805,6 +1805,7 @@ domain:himalayan-foundation.org
 domain:himemix.com
 domain:hindustantimes.com
 domain:hinet.net
+domain:historylines.net
 domain:hitbtc.com
 domain:hitomi.la
 domain:hive.blog
@@ -2148,6 +2149,7 @@ domain:kinmen.org.tw
 domain:kinmen.travel
 domain:kinokuniya.com
 domain:kiwi.kz
+domain:kiwix.org
 domain:kk-whys.co.jp
 domain:kkbox.com
 domain:kknews.cc
@@ -2343,6 +2345,7 @@ domain:mattwilcox.net
 domain:maven.neoforged.net
 domain:mcadforums.com
 domain:mcaf.ee
+domain:mceindex.com
 domain:mcusercontent.com
 domain:md-t.org
 domain:me.me
@@ -3112,6 +3115,7 @@ domain:savetibet.de
 domain:savetibet.org
 domain:savetibetstore.org
 domain:saveuighur.org
+domain:sb.sb
 domain:sbme.me
 domain:sbti.unun.dev
 domain:schema.org
