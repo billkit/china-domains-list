@@ -1394,6 +1394,7 @@ domain:geti2p.net
 domain:getlantern.org
 domain:getmalus.com
 domain:getmdl.io
+domain:getmonero.org
 domain:getoutline.org
 domain:getsession.org
 domain:getsync.com
@@ -2591,6 +2592,7 @@ domain:nga.mil
 domain:nhentai.net
 domain:nic.cz.cc
 domain:nic.gov
+domain:nicoseiga.jp
 domain:nicovideo.jp
 domain:nightswatch.top
 domain:nikke-en.com
