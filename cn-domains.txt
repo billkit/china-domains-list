@@ -2685,6 +2685,7 @@ domain:1zhao.org
 domain:1zhe.com
 domain:1zhengji.com
 domain:1zhixue.com
+domain:1zidc.com
 domain:1zj.com
 domain:1zjob.com
 domain:1zu.com
@@ -16646,6 +16647,7 @@ domain:bktencent.com
 domain:bktsj.com
 domain:bkvps.com
 domain:bkweek.com
+domain:bkwsq.com
 domain:bkzzy.com
 domain:bl.com
 domain:bl0757.com
@@ -18540,6 +18542,7 @@ domain:cangya.com
 domain:cangzhouhd.com
 domain:canhighcenter.com
 domain:canhot.net
+domain:canhui.xyz
 domain:caniculab.com
 domain:canidc.com
 domain:canjio.com
@@ -75953,6 +75956,7 @@ domain:redidc.com
 domain:redisfans.com
 domain:redmagic.com
 domain:redmart.com
+domain:redmid.com
 domain:redmou.com
 domain:rednetdns.com
 domain:rednote.com
@@ -92399,6 +92403,7 @@ domain:vxia.net
 domain:vxiaocheng.com
 domain:vxinyou.com
 domain:vxixi.com
+domain:vxni.ink
 domain:vxo7tu.com
 domain:vxocok3197.vip
 domain:vxsnk.com
