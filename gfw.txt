@@ -4,6 +4,8 @@ domain:1-apple.com.tw
 domain:1000giri.net
 domain:10beasts.net
 domain:10musume.com
+domain:123av.com
+domain:123av.me
 domain:12bet.com
 domain:12vpn.com
 domain:12vpn.net
@@ -1783,6 +1785,7 @@ domain:help.byspotify.com
 domain:helpeachpeople.com
 domain:helpster.de
 domain:hembed.com
+domain:hentai.tv
 domain:heqinglian.net
 domain:heritage.org
 domain:herokuapp.com
@@ -3067,6 +3070,7 @@ domain:rlwlw.com
 domain:rmbl.ws
 domain:roblox.com
 domain:robustnessiskey.com
+domain:roc-taiwan.org
 domain:rocket-inc.net
 domain:rocket.chat
 domain:rocksdb.org
@@ -3076,6 +3080,7 @@ domain:rolia.net
 domain:rolsociety.org
 domain:ronjoneswriter.com
 domain:rou.video
+domain:roushuwo.com
 domain:rsdlmonitor.com
 domain:rsf-chinese.org
 domain:rsf.org
@@ -3378,6 +3383,7 @@ domain:supchina.com
 domain:superpages.com
 domain:supervpn.net
 domain:superzooi.com
+domain:supjav.com
 domain:support.futunn.com
 domain:supremecourt.gov
 domain:suprememastertv.com
@@ -3408,10 +3414,12 @@ domain:taa-usa.org
 domain:taaze.tw
 domain:taedp.org.tw
 domain:tagwalk.com
+domain:taiav.com
 domain:tails.net
 domain:taipeisociety.org
 domain:taipeitimes.com
 domain:taisounds.com
+domain:taiwanembassy.org
 domain:taiwanhot.net
 domain:taiwanjustice.net
 domain:taiwanncf.org.tw
@@ -4094,6 +4102,7 @@ domain:write.as
 domain:writesonic.com
 domain:wsj.com
 domain:wsj.net
+domain:wtfpass.com
 domain:wufafangwen.com
 domain:wufi.org.tw
 domain:wujieliulan.com
