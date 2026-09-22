@@ -693,6 +693,7 @@ domain:chinesedemocracy.com
 domain:chinesegay.org
 domain:chinesen.de
 domain:chinesenews.net.au
+domain:chineseposters.net
 domain:chineseradioseattle.com
 domain:chineseupress.com
 domain:chingcheong.com
@@ -2617,6 +2618,7 @@ domain:nordstromimage.com
 domain:nordstromrack.com
 domain:nordvpn.com
 domain:nos.nl
+domain:note.com
 domain:notepad-plus-plus.org
 domain:nottinghampost.com
 domain:now.com
