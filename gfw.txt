@@ -549,6 +549,7 @@ domain:byrut.org
 domain:c-est-simple.com
 domain:c-span.org
 domain:c-spanvideo.org
+domain:c.go-mpulse.net
 domain:c.mi.com
 domain:c2cx.com
 domain:c3pool.com
@@ -766,8 +767,6 @@ domain:co.ng.mil
 domain:coat.co.jp
 domain:cobinhood.com
 domain:cochina.org
-domain:codeium.com
-domain:codeiumdata.com
 domain:codeshare.io
 domain:codeskulptor.org
 domain:cofacts.tw
@@ -2379,7 +2378,9 @@ domain:meridian-trust.org
 domain:meripet.com
 domain:merit-times.com.tw
 domain:messenger.com
+domain:meta.ai
 domain:meta.com
+domain:metaaivm.com
 domain:metafilter.com
 domain:metamask.io
 domain:metart.com
@@ -2489,6 +2490,7 @@ domain:mthruf.com
 domain:mubi.com
 domain:mullvad.net
 domain:multiply.com
+domain:muse.ai
 domain:music.amazon.com
 domain:musixmatch.com
 domain:muzi.com
@@ -2964,6 +2966,7 @@ domain:qiangyou.org
 domain:qianmo.tw
 domain:qiwen.lu
 domain:qmp4.com
+domain:qobuz.com
 domain:qoos.com
 domain:qq.co.za
 domain:qstatus.com
@@ -3841,6 +3844,7 @@ domain:valeursactuelles.com
 domain:vansky.com
 domain:vaticannews.va
 domain:vatn.org
+domain:vava8.com
 domain:vcf-online.org
 domain:vcfbuilder.org
 domain:veed.io
