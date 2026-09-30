@@ -9656,6 +9656,8 @@ full:foxnewsplayer-a.akamaihd.net
 full:gamedownloads-rockstargames-com.akamaized.net
 full:gamer-cds.cdn.hinet.net
 full:gamer2-cds.cdn.hinet.net
+full:geminiweb-pa.clients.google.com
+full:geminiweb-pa.clients6.google.com
 full:gigabyte2.azureedge.net
 full:github-api.arkoselabs.com
 full:github-cloud.s3.amazonaws.com
@@ -12386,6 +12388,7 @@ huanyuju.com
 huaren.us
 huarenav.com
 huarenporn.com
+huarun.win
 huashangnews.com
 huashundg.com
 huati.cc
@@ -15668,6 +15671,7 @@ messytube.com
 met-nude.com
 meta.ai
 meta.com
+metaaivm.com
 metabora.io
 metabrainz.org
 metacloud.com
@@ -16677,6 +16681,7 @@ musashinobank.co.jp
 muscache.com
 muscdn.com
 musclegirlflix.com
+muse.ai
 mushroomtrack.com
 mushymush.tv
 musical.ly
@@ -18144,6 +18149,7 @@ openart.ai
 openbook.org.tw
 opencas.io
 openclaw.ai
+opencode.ai
 opencollective.com
 opencreate.org
 opencritic.com
