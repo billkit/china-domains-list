@@ -1335,6 +1335,7 @@ domain:futuremessage.org
 domain:futustatic.com
 domain:fututrade.com
 domain:fututrustee.com
+domain:fuyin116.com
 domain:fw.cm
 domain:fxcm-chinese.com
 domain:fxnetworks.com
