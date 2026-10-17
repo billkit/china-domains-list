@@ -58,6 +58,7 @@ domain:6parkbbs.com
 domain:6parker.com
 domain:6parknews.com
 domain:7capture.com
+domain:7x24hrs.com
 domain:8-d.com
 domain:85cc.us
 domain:881903.com
