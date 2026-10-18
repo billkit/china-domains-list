@@ -35767,6 +35767,8 @@ full:ksn-verdict.geoksn.kaspersky.com
 full:lex.download.prss.microsoft.com
 full:lexuat.download.prss.microsoft.com
 full:local.adguard.org
+full:localhost.weixin.qq.com
+full:localhost.work.weixin.qq.com
 full:lv.queniujq.cn
 full:maps.apple.com
 full:mbs.download.prss.microsoft.com
