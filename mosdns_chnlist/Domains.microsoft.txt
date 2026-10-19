@@ -18,7 +18,6 @@ applicationinsights.io
 applicationinsights.net
 appserviceenvironment.cn
 aria.ms
-asobostudio.com
 asp.net
 aspnetcdn.com
 atom.io
@@ -193,7 +192,6 @@ engkoo.com
 exp-tas.com
 fasttrackreadysupport.com
 femalefounderscomp.com
-flightsimulator.com
 flipwithsurface.com
 fluidpreview.com
 footprintdns.com
@@ -230,7 +228,6 @@ full:dreamspark.download.prss.microsoft.com
 full:dreamsparkuat.download.prss.microsoft.com
 full:dtlgalleryint.cloudapp.net
 full:f.c2r.ts.cdn.office.net
-full:flightsimulator.azureedge.net
 full:github-api.arkoselabs.com
 full:github-cloud.s3.amazonaws.com
 full:github-production-release-asset-2e65be.s3.amazonaws.com
