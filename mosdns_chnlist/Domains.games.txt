@@ -381,6 +381,7 @@ gaijin.net
 gaijinent.com
 game-repack.site
 gameabc.com
+gamebanana.com
 gamebonfire.com
 gameitop.com
 gameloop.com
@@ -760,6 +761,7 @@ qqgameapp.com
 quiltmc.org
 quixel.com
 quixel.se
+r2modman.com
 radgametools.com
 ravensoftware.com
 rayark.download
@@ -917,6 +919,7 @@ steamdb.info
 steamdeck.com
 steamgames.com
 steaminventoryhelper.com
+steamos.cloud
 steampowered.com
 steampowered.com.8686c.com
 steamserver.net
@@ -972,6 +975,8 @@ thesims3.com
 thesims4.com
 thesimssocial.com
 thewonderful101.com
+thunderstore.io
+thunderstore.org
 tiancity.com
 tiancitycdn.com
 tiberiumalliances.com
@@ -1053,10 +1058,12 @@ worldoftanks.com
 worldoftanks.eu
 worldofwarcraft.com
 worldofwarplanes.com
+worldofwarships.asia
 worldofwarships.com
 worldseriesofwarzone.com
 wotblitz.com
 wowsblitz.com
+wplace.live
 wtmobile.com
 xbox
 xbox.co
