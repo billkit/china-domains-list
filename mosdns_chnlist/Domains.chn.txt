@@ -19364,6 +19364,7 @@ cdqszz.com
 cdqz.net
 cdrbs.net
 cdrcb.com
+cdrcbank.com
 cdren.net
 cdrich.com
 cdrjob.com
@@ -25247,6 +25248,7 @@ cqyxzz.com
 cqyygz.com
 cqyyjc.com
 cqyysx.com
+cqyyxc.com
 cqyyzy.com
 cqyznews.com
 cqzbcg.com
@@ -35303,6 +35305,7 @@ full:app-analytics-services.com
 full:app-measurement-cn.com
 full:app-measurement.com
 full:app-site-association.cdn-apple.com
+full:app.moegirl.org.cn
 full:appldnld.apple.com
 full:appldnld.g.aaplimg.com
 full:appleid.cdn-apple.com
@@ -35761,6 +35764,7 @@ full:statics.teams.cdn.office.net
 full:status.alibabacloud.com
 full:stocks-sparkline-lb.apple.com.akadns.net
 full:stocks-sparkline.apple.com
+full:storage.moegirl.org.cn
 full:store.apple.com
 full:store.apple.com.edgekey.net
 full:store.apple.com.edgekey.net.globalredir.akadns.net
@@ -49384,6 +49388,7 @@ ibaitiao.com
 ibaizhu.com
 ibanana.club
 ibanbu.com
+ibangbank.com
 ibanggo.com
 ibangkf.com
 ibangtiao.com
@@ -51465,6 +51470,7 @@ ishuw.com
 isi-gf.com
 isiabio.com
 isign.ren
+isigning.com
 isigu.com
 isilent.me
 isilicontech.com
@@ -65879,7 +65885,6 @@ moeelf.com
 moefactory.com
 moefantasy.com
 moefou.org
-moegirl.org
 moegirl.tw
 moehot.com
 moehu.org
@@ -67321,6 +67326,7 @@ nanningyouhua.com
 nannjlnk.com
 nanobody-biolab.com
 nanochrom.com
+nanocorechip.com
 nanoeast.net
 nanoer.net
 nanoinglobal.com
