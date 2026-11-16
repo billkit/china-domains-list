@@ -211,6 +211,7 @@ full:azurestackhubuat.download.prss.microsoft.com
 full:b.c2r.ts.cdn.office.net
 full:bingsettingssearch.trafficmanager.net
 full:bj1.api.bing.com
+full:builds.dotnet.microsoft.com
 full:cbdstest.download.prss.microsoft.com
 full:cn.windowssearch.com
 full:collaborate.download.prss.microsoft.com
@@ -226,6 +227,7 @@ full:dc.applicationinsights.azure.com
 full:dc.services.visualstudio.com
 full:default.exp-tas.com
 full:developer.microsoft.com
+full:dotnetcli.trafficmanager.net
 full:download.microsoft.com
 full:download.visualstudio.microsoft.com
 full:dreamspark.download.prss.microsoft.com
@@ -305,6 +307,7 @@ full:statics.teams.cdn.office.net
 full:storecorefulfillment.download.prss.microsoft.com
 full:storeedge.microsoft.com
 full:storeedgefd.dsx.mp.microsoft.com
+full:sundry-star-net-geo.trafficmanager.net
 full:surface.download.prss.microsoft.com
 full:surface.downloads.prss.microsoft.com
 full:vlportal.download.prss.microsoft.com
