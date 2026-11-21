@@ -763,6 +763,8 @@ domain:clyp.it
 domain:cmcn.org
 domain:cmegroup.com
 domain:cmi.org.tw
+domain:cmmedia.com.tw
+domain:cmoney.tw
 domain:cms.gov
 domain:cmule.com
 domain:cmx.im
@@ -777,6 +779,7 @@ domain:cnbeta.com.tw
 domain:cnd.org
 domain:cnnews.chosun.com
 domain:cnpolitics.org
+domain:cnyes.com
 domain:co.ng.mil
 domain:coat.co.jp
 domain:cobinhood.com
@@ -1019,6 +1022,7 @@ domain:dt18.com
 domain:dtiblog.com
 domain:dtic.mil
 domain:dubox.com
+domain:duck.ai
 domain:duck.com
 domain:duckduckgo.com
 domain:duckmylife.com
@@ -1044,6 +1048,7 @@ domain:e-classical.com.tw
 domain:e-gold.com
 domain:e-hentai.org
 domain:e-hentaidb.com
+domain:e-info.org.tw
 domain:e-zone.com.hk
 domain:e123.hk
 domain:e621.net
@@ -1369,9 +1374,9 @@ domain:gab.com
 domain:gabocorp.com
 domain:gagaoolala.com
 domain:galenwu.com
-domain:game735.com
 domain:gamer.com.tw
 domain:gamez.com.tw
+domain:gamma.app
 domain:ganjing.com
 domain:ganjingworld.com
 domain:gaoming.net
@@ -1742,6 +1747,7 @@ domain:greatfire.org
 domain:greatfire.us7.list-manage.com
 domain:greatfirevpn.com
 domain:greatfirewallofchina.org
+domain:greenbean.media
 domain:greenpeace.org
 domain:greenvpn.net
 domain:grindr.com
@@ -1841,13 +1847,16 @@ domain:hka8964.wordpress.com
 domain:hkanews.wordpress.com
 domain:hkbookcity.com
 domain:hkchronicles.com
+domain:hkcitycreation.com
 domain:hkcnews.com
 domain:hkcoc.com
 domain:hkcoc.weather.com.hk
+domain:hkcourtnews.com
 domain:hkdc.us
 domain:hkej.com
 domain:hket.com
 domain:hkfaa.com
+domain:hkfeature.com
 domain:hkgalden.com
 domain:hkgolden.com
 domain:hkgpao.com
@@ -2258,6 +2267,7 @@ domain:library-access.sk
 domain:library.usc.cuhk.edu.hk
 domain:libredd.it
 domain:lifemiles.com
+domain:lifesitenews.com
 domain:lighten.org.tw
 domain:lighti.me
 domain:lightnovel.cn
@@ -2266,6 +2276,7 @@ domain:lih.kg
 domain:lihkg.com
 domain:like.com
 domain:lilaoshibushinilaoshi.com
+domain:limedia.tw
 domain:line-apps.com
 domain:line-scdn.net
 domain:line.me
@@ -2361,6 +2372,7 @@ domain:marxist.net
 domain:marxists.org
 domain:mas.to
 domain:mash.to
+domain:master-insight.com
 domain:mastodon.cloud
 domain:mastodon.host
 domain:mastodon.online
@@ -2376,6 +2388,7 @@ domain:matters.news
 domain:matters.town
 domain:matthewdgreen.wordpress.com
 domain:mattwilcox.net
+domain:mc.yandex.ru
 domain:mcadforums.com
 domain:mcaf.ee
 domain:mceindex.com
@@ -2497,6 +2510,7 @@ domain:momoshop.com.tw
 domain:mondex.org
 domain:money-link.com.tw
 domain:moneydj.com
+domain:moneynet.com.tw
 domain:monica.im
 domain:monitorchina.org
 domain:monocloud.me
@@ -2536,6 +2550,7 @@ domain:muzi.com
 domain:muzi.net
 domain:muzu.tv
 domain:mvg.jp
+domain:my-formosa.com.tw
 domain:my-private-network.co.uk
 domain:my.pcloud.com
 domain:myaudiocast.com
@@ -2619,6 +2634,7 @@ domain:newtalk.tw
 domain:newthuhole.com
 domain:newyorker.com
 domain:nexon.com
+domain:nextapple.com
 domain:nextdigital.com.hk
 domain:nexton-net.jp
 domain:nexttv.com.tw
@@ -2814,6 +2830,7 @@ domain:parse.com
 domain:parsevideo.com
 domain:partnerstack.xyz
 domain:passion.com
+domain:passiontimes.hk
 domain:paste.ee
 domain:pastie.org
 domain:patreon.com
@@ -2993,6 +3010,7 @@ domain:ptwxz.com
 domain:pubu.com.tw
 domain:puffinbrowser.com
 domain:pullfolio.co
+domain:pulsehknews.com
 domain:pure18.com
 domain:pureconcepts.net
 domain:pureinsight.org
@@ -3220,6 +3238,7 @@ domain:shadowsocks.be
 domain:shadowsocks.com.hk
 domain:shadowsocks.org
 domain:shahit.biz
+domain:shanghainationalparty.com
 domain:share-videos.se
 domain:share.america.gov
 domain:sharecool.org
@@ -3259,6 +3278,7 @@ domain:sinchew.com.my
 domain:sing-box.sagernet.org
 domain:singaporepools.com.sg
 domain:singlelogin.se
+domain:singpao.com.hk
 domain:singtao.com
 domain:singtaousa.com
 domain:sinoants.com
@@ -3325,6 +3345,7 @@ domain:sosreader.com
 domain:sotwe.com
 domain:soubory.com
 domain:soulcaliburhentai.net
+domain:soulogic.com
 domain:soundcloud.com
 domain:soundofhope.org
 domain:soundon.fm
@@ -3466,6 +3487,7 @@ domain:taiwanhot.net
 domain:taiwanjustice.net
 domain:taiwanncf.org.tw
 domain:taiwannews.com.tw
+domain:taiwantoday.tw
 domain:taiwantt.org.tw
 domain:talkatone.com
 domain:talkboxapp.com
@@ -3530,6 +3552,7 @@ domain:thebodyshop-usa.com
 domain:thecenter.mit.edu
 domain:thechasernews.co.uk
 domain:thechinacollection.org
+domain:thecollectivehk.com
 domain:theconversation.com
 domain:thedalailamamovie.com
 domain:thediplomat.com
@@ -3545,18 +3568,22 @@ domain:thehun.net
 domain:theinitium.com
 domain:theintercept.com
 domain:thenewslens.com
+domain:theonlinecitizen.com
 domain:thepiratebay.org
 domain:theporndude.com
 domain:theportalwiki.com
 domain:theprint.in
 domain:thesaturdaypaper.com.au
+domain:thestandard.com.hk
 domain:thestandnews.com
+domain:thestar.com
 domain:thetatoken.org
 domain:thetibetpost.com
 domain:thetvdb.com
 domain:theweek.com
 domain:thewgo.org
 domain:thewirechina.com
+domain:thewitnesshk.com
 domain:theync.com
 domain:thinkchina.sg
 domain:thinkgeek.com
@@ -4128,6 +4155,7 @@ domain:wo3ttt.wordpress.com
 domain:woeser.com
 domain:wokar.org
 domain:wolfax.com
+domain:womany.net
 domain:wombo.ai
 domain:woolyss.com
 domain:woopie.jp
