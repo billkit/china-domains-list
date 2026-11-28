@@ -201,6 +201,7 @@ forza.net
 forzamotorsport.net
 forzaracingchampionship.com
 forzarc.com
+full:aurora-customization-usw2.lithium.com
 full:az764295.vo.msecnd.net
 full:azure.microsoft.com
 full:azuremarketplace.microsoft.com
